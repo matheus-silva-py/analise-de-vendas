@@ -6,7 +6,7 @@ import datetime as dt
 
 
 #leitura csv vendas 2023
-arquivo_csv = pd.read_csv(r"c:\Users\mathe\Downloads\vendas_desafiador_2023.csv")
+arquivo_csv = pd.read_csv("..\dados\vendas_2023.csv")
 df_vendas_2023 = pd.DataFrame(arquivo_csv)
 
 #padronizaçao coluna data e criaçao da coluna mes
