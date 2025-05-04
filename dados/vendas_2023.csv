@@ -1,0 +1,2001 @@
+data,produto,categoria,loja,cidade,preco,quantidade,desconto,cliente
+2023-11-24,Feijão,Alimentos,Loja A,Curitiba,14.51,5,0.22,Rafaela Lopes
+2023-12-13,Queijo,Laticínios,Loja A,Belo Horizonte,4.49,3,0.07,Sr. Calebe Pinto
+2023-09-16,Macarrão,Alimentos,Loja A,Rio de Janeiro,36.65,18,0.13,Isaac Santos
+2023-08-18,Macarrão,Alimentos,Loja C,São Paulo,38.66,6,0.21,Maria Sophia Duarte
+2023-06-24,Café,Bebidas,Loja B,Rio de Janeiro,47.99,11,0.03,Sr. Isaac Melo
+2023-07-14,Feijão,Alimentos,Loja C,Curitiba,31.38,2,0.22,Catarina Campos
+2023-10-02,Feijão,Alimentos,Loja D,São Paulo,28.95,20,0.27,Vitor Porto
+2023-07-05,Macarrão,Alimentos,Loja B,São Paulo,5.15,8,0.23,Davi Alves
+2023-02-10,Sabonete,Higiene,Loja A,Belo Horizonte,16.06,12,0.05,Marina Campos
+2023-07-01,Sabonete,Higiene,Loja C,São Paulo,31.63,6,0.16,Luna Gonçalves
+2023-05-06,Detergente,Limpeza,Loja D,Belo Horizonte,15.69,18,0.07,Luna Porto
+2023-06-16,Arroz,Alimentos,Loja B,São Paulo,40.84,13,0.08,Luiz Henrique Sales
+2023-04-19,Macarrão,Alimentos,Loja C,Rio de Janeiro,33.81,13,0.27,Gabriel Martins
+2023-11-26,Leite,Laticínios,Loja B,Curitiba,9.56,18,0.16,Srta. Julia da Cunha
+2023-10-27,Papel Higiênico,Higiene,Loja D,Curitiba,13.31,5,0.15,Kamilly Araújo
+2023-02-16,Arroz,Alimentos,Loja A,Rio de Janeiro,32.49,14,0.18,Milena Alves
+2023-07-17,Papel Higiênico,Higiene,Loja D,Curitiba,48.64,1,0.2,Letícia da Costa
+2023-02-28,Queijo,Laticínios,Loja C,Curitiba,8.24,14,0.05,João Felipe Barros
+2023-01-02,Café,Bebidas,Loja B,São Paulo,43.91,10,0.25,Vitor Hugo da Mota
+2023-09-17,Macarrão,Alimentos,Loja B,Rio de Janeiro,20.57,6,0.16,Vitor Hugo da Mota
+2023-09-29,Arroz,Alimentos,Loja C,Belo Horizonte,3.92,12,0.26,Vinicius Cunha
+2023-06-07,Sabonete,Higiene,Loja A,Rio de Janeiro,44.27,3,0.03,Danilo Silva
+2023-09-06,Feijão,Alimentos,Loja B,Rio de Janeiro,34.01,18,0.05,Ana Lívia Vieira
+2023-09-28,Macarrão,Alimentos,Loja D,Rio de Janeiro,46.66,7,0.21,Vicente Ferreira
+2023-07-24,Refrigerante,Bebidas,Loja D,Belo Horizonte,8.69,8,0.02,Sr. Luiz Miguel Lopes
+2023-01-11,Macarrão,Alimentos,Loja B,Rio de Janeiro,3.34,2,0.07,Marcela Costela
+2023-01-17,Refrigerante,Bebidas,Loja A,Rio de Janeiro,16.09,16,0.06,Vinicius Porto
+2023-03-09,Macarrão,Alimentos,Loja D,Rio de Janeiro,39.88,14,0.06,Dr. Luiz Fernando Gonçalves
+2023-02-19,Papel Higiênico,Higiene,Loja C,Belo Horizonte,22.32,2,0.2,Maria Eduarda Martins
+2023-11-27,Feijão,Alimentos,Loja A,Belo Horizonte,37.23,4,0.07,Emanuella Dias
+2023-04-08,Queijo,Laticínios,Loja D,Rio de Janeiro,22.83,9,0.14,Gabriel da Rocha
+2023-02-08,Leite,Laticínios,Loja A,São Paulo,33.65,18,0.25,Dr. Theo da Cunha
+2023-02-17,Sabonete,Higiene,Loja B,Belo Horizonte,25.83,7,0.26,Anthony Farias
+2023-01-31,Detergente,Limpeza,Loja D,São Paulo,49.31,9,0.28,Joaquim Alves
+2023-08-21,Café,Bebidas,Loja D,Belo Horizonte,10.28,10,0.07,Alexandre Moreira
+2023-01-30,Macarrão,Alimentos,Loja A,Curitiba,5.69,19,0.14,Srta. Laís Souza
+2023-09-29,Detergente,Limpeza,Loja A,São Paulo,43.01,3,0.18,Eduardo Gomes
+2023-12-12,Sabonete,Higiene,Loja D,São Paulo,47.26,19,0.07,Milena Gonçalves
+2023-11-01,Arroz,Alimentos,Loja A,Belo Horizonte,33.9,19,0.16,Ana Aragão
+2023-05-14,Sabonete,Higiene,Loja C,Rio de Janeiro,15.48,5,0.2,Eduardo Pinto
+2023-06-03,Leite,Laticínios,Loja C,São Paulo,3.44,20,0.3,Lívia Fernandes
+2023-02-21,Feijão,Alimentos,Loja B,Curitiba,9.23,12,0.26,Maria Vitória Vieira
+2023-05-06,Refrigerante,Bebidas,Loja C,Rio de Janeiro,23.59,18,0.21,Davi Lucca Campos
+2023-11-10,Queijo,Laticínios,Loja A,Curitiba,46.79,4,0.28,Francisco Moura
+2023-03-10,Café,Bebidas,Loja A,São Paulo,37.89,5,0.08,Marcelo da Conceição
+2023-11-06,Sabonete,Higiene,Loja C,Rio de Janeiro,35.31,9,0.15,Murilo das Neves
+2023-05-09,Arroz,Alimentos,Loja A,Belo Horizonte,41.98,2,0.0,Breno da Costa
+2023-03-08,Café,Bebidas,Loja B,Belo Horizonte,28.93,14,0.17,Natália Farias
+2023-02-27,Feijão,Alimentos,Loja B,São Paulo,42.23,19,0.17,Sarah Pires
+2023-08-09,Detergente,Limpeza,Loja A,Curitiba,20.14,2,0.27,Marcos Vinicius da Rocha
+2023-04-18,Sabonete,Higiene,Loja A,Curitiba,39.67,14,0.29,Diogo Dias
+2023-03-21,Sabonete,Higiene,Loja B,Rio de Janeiro,44.43,1,0.05,Alana Santos
+2023-06-20,Papel Higiênico,Higiene,Loja B,Curitiba,10.48,4,0.11,Sr. Caio Pereira
+2023-01-20,Leite,Laticínios,Loja B,Rio de Janeiro,41.38,15,0.1,Cecília da Mata
+2023-04-27,Sabonete,Higiene,Loja A,Rio de Janeiro,21.73,9,0.26,Henrique Nascimento
+2023-05-23,Refrigerante,Bebidas,Loja D,Curitiba,47.14,4,0.26,João Vitor da Conceição
+2023-05-14,Detergente,Limpeza,Loja C,São Paulo,8.09,14,0.1,Vicente da Rocha
+2023-06-10,Papel Higiênico,Higiene,Loja A,Belo Horizonte,45.28,7,0.08,Sophia da Rocha
+2023-12-29,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,20.12,3,0.28,João Felipe Peixoto
+2023-06-19,Macarrão,Alimentos,Loja C,São Paulo,36.83,10,0.15,Ryan Mendes
+2023-12-08,Papel Higiênico,Higiene,Loja C,Belo Horizonte,35.77,18,0.04,Vitória da Costa
+2023-08-04,Papel Higiênico,Higiene,Loja B,Curitiba,22.09,1,0.09,Marcos Vinicius Alves
+2023-04-18,Papel Higiênico,Higiene,Loja C,Belo Horizonte,23.76,7,0.15,Juliana Vieira
+2023-03-28,Feijão,Alimentos,Loja C,Curitiba,7.39,8,0.2,Vitor Ramos
+2023-04-26,Sabonete,Higiene,Loja B,São Paulo,5.17,16,0.18,Anthony Silva
+2023-02-07,Leite,Laticínios,Loja D,Rio de Janeiro,36.76,13,0.15,Kevin Pinto
+2023-05-05,Detergente,Limpeza,Loja A,São Paulo,39.59,8,0.05,Laís da Costa
+2023-12-23,Queijo,Laticínios,Loja D,São Paulo,29.2,4,0.14,Lorenzo Rezende
+2023-08-26,Queijo,Laticínios,Loja C,Belo Horizonte,31.79,17,0.13,Sr. Pedro Henrique Vieira
+2023-10-08,Leite,Laticínios,Loja B,Belo Horizonte,24.15,8,0.25,João Pedro Fogaça
+2023-05-22,Queijo,Laticínios,Loja D,Rio de Janeiro,15.91,3,0.21,Dr. Davi Lucca Cavalcanti
+2023-05-01,Café,Bebidas,Loja C,Curitiba,44.97,3,0.04,Henrique Novaes
+2023-04-29,Papel Higiênico,Higiene,Loja B,Rio de Janeiro,6.02,14,0.1,Laura Duarte
+2023-08-27,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,42.15,13,0.27,Luiz Felipe da Paz
+2023-10-27,Arroz,Alimentos,Loja D,Belo Horizonte,3.28,12,0.09,Sra. Ana Costela
+2023-07-19,Papel Higiênico,Higiene,Loja B,Belo Horizonte,13.31,14,0.15,Sabrina Almeida
+2023-07-19,Refrigerante,Bebidas,Loja D,Rio de Janeiro,42.5,5,0.29,Pedro Almeida
+2023-10-01,Arroz,Alimentos,Loja D,São Paulo,6.95,14,0.04,Gustavo Pinto
+2023-08-25,Detergente,Limpeza,Loja A,Curitiba,20.82,7,0.14,Sr. João Vitor Souza
+2023-06-22,Papel Higiênico,Higiene,Loja C,Belo Horizonte,14.86,3,0.14,Miguel Santos
+2023-10-04,Arroz,Alimentos,Loja C,Rio de Janeiro,33.56,2,0.23,Levi Silva
+2023-05-07,Sabonete,Higiene,Loja A,Rio de Janeiro,14.21,16,0.2,Srta. Sophie da Paz
+2023-10-16,Sabonete,Higiene,Loja D,Curitiba,39.04,6,0.18,Murilo Rezende
+2023-02-28,Detergente,Limpeza,Loja C,São Paulo,30.2,10,0.17,Sr. Gustavo Porto
+2023-07-12,Papel Higiênico,Higiene,Loja B,São Paulo,30.83,8,0.03,João Pedro Cardoso
+2023-06-04,Macarrão,Alimentos,Loja A,São Paulo,19.32,14,0.2,Lavínia da Mata
+2023-02-05,Queijo,Laticínios,Loja C,São Paulo,42.93,16,0.03,Mirella Moraes
+2023-07-05,Leite,Laticínios,Loja B,Belo Horizonte,11.28,17,0.29,Helena Caldeira
+2023-05-19,Macarrão,Alimentos,Loja D,Belo Horizonte,23.47,19,0.08,Gustavo Henrique Pereira
+2023-05-06,Feijão,Alimentos,Loja C,Belo Horizonte,14.46,15,0.17,Mirella Nogueira
+2023-12-09,Papel Higiênico,Higiene,Loja C,São Paulo,26.23,11,0.05,Carlos Eduardo Porto
+2023-04-19,Refrigerante,Bebidas,Loja C,Curitiba,16.14,20,0.21,Sr. Luiz Miguel Mendes
+2023-05-22,Queijo,Laticínios,Loja A,Rio de Janeiro,7.02,14,0.15,Larissa Castro
+2023-05-04,Leite,Laticínios,Loja D,Belo Horizonte,40.27,3,0.09,Alícia Correia
+2023-07-27,Sabonete,Higiene,Loja C,Curitiba,25.24,17,0.1,Luiz Henrique Carvalho
+2023-10-09,Refrigerante,Bebidas,Loja C,Belo Horizonte,15.73,9,0.07,Carolina Azevedo
+2023-04-09,Refrigerante,Bebidas,Loja A,Rio de Janeiro,12.0,16,0.08,Felipe Nogueira
+2023-10-29,Queijo,Laticínios,Loja C,São Paulo,42.13,10,0.07,Marcela Pires
+2023-04-02,Café,Bebidas,Loja A,Rio de Janeiro,15.89,2,0.17,Vitor Nascimento
+2023-12-24,Detergente,Limpeza,Loja D,São Paulo,44.02,19,0.09,Sabrina Ramos
+2023-09-03,Leite,Laticínios,Loja C,Rio de Janeiro,48.38,9,0.28,Dr. Otávio Silva
+2023-09-02,Feijão,Alimentos,Loja A,Belo Horizonte,26.11,19,0.19,Luiz Gustavo Melo
+2023-01-28,Detergente,Limpeza,Loja B,Curitiba,7.0,8,0.04,Enrico Peixoto
+2023-08-02,Macarrão,Alimentos,Loja B,Belo Horizonte,24.17,15,0.09,Alana Novaes
+2023-10-29,Papel Higiênico,Higiene,Loja C,São Paulo,31.65,4,0.28,Matheus Fernandes
+2023-04-17,Sabonete,Higiene,Loja C,São Paulo,10.38,6,0.17,João Felipe Monteiro
+2023-03-22,Arroz,Alimentos,Loja D,Belo Horizonte,35.4,16,0.09,Camila Azevedo
+2023-04-29,Café,Bebidas,Loja C,Belo Horizonte,6.35,8,0.28,Benício Mendes
+2023-11-17,Macarrão,Alimentos,Loja B,Belo Horizonte,8.39,8,0.19,Luiz Henrique Cardoso
+2023-05-17,Detergente,Limpeza,Loja A,São Paulo,10.8,10,0.18,Alana Pinto
+2023-10-19,Café,Bebidas,Loja D,São Paulo,25.03,10,0.21,Isaac Pereira
+2023-05-20,Queijo,Laticínios,Loja D,Belo Horizonte,6.78,2,0.27,Ana Lívia Barros
+2023-06-15,Macarrão,Alimentos,Loja C,São Paulo,7.29,19,0.18,Eduardo Barbosa
+2023-01-11,Café,Bebidas,Loja A,Rio de Janeiro,25.11,15,0.27,Giovanna Cavalcanti
+2023-04-03,Macarrão,Alimentos,Loja D,Belo Horizonte,48.55,16,0.1,Bianca Cunha
+2023-06-20,Refrigerante,Bebidas,Loja A,Rio de Janeiro,18.5,16,0.09,Sr. Augusto Pires
+2023-07-25,Queijo,Laticínios,Loja A,Belo Horizonte,7.14,9,0.1,Marcela Costela
+2023-07-26,Queijo,Laticínios,Loja A,Belo Horizonte,22.42,7,0.16,Agatha Martins
+2023-11-15,Leite,Laticínios,Loja D,São Paulo,12.57,18,0.04,Brenda Azevedo
+2023-05-28,Leite,Laticínios,Loja D,São Paulo,4.36,20,0.24,Julia Barros
+2023-12-30,Detergente,Limpeza,Loja C,São Paulo,28.96,3,0.07,Helena da Luz
+2023-02-28,Leite,Laticínios,Loja A,Rio de Janeiro,26.42,10,0.15,Isaac Monteiro
+2023-05-20,Papel Higiênico,Higiene,Loja D,Belo Horizonte,14.46,18,0.04,Sabrina da Paz
+2023-04-08,Macarrão,Alimentos,Loja B,São Paulo,15.98,14,0.1,Sra. Bianca Silveira
+2023-09-17,Café,Bebidas,Loja A,Curitiba,37.12,19,0.17,Rebeca Duarte
+2023-12-04,Leite,Laticínios,Loja B,Belo Horizonte,28.31,12,0.1,Samuel Mendes
+2023-10-06,Papel Higiênico,Higiene,Loja D,Curitiba,43.87,8,0.17,Dr. Pedro Miguel Campos
+2023-04-30,Papel Higiênico,Higiene,Loja A,Curitiba,38.0,13,0.12,Pietra Gomes
+2023-12-06,Detergente,Limpeza,Loja D,São Paulo,8.93,19,0.1,Manuela da Luz
+2023-02-21,Leite,Laticínios,Loja A,Belo Horizonte,3.72,5,0.12,Rebeca Viana
+2023-12-02,Detergente,Limpeza,Loja A,Belo Horizonte,39.73,9,0.1,Davi Lucca Castro
+2023-12-21,Papel Higiênico,Higiene,Loja A,Curitiba,43.06,18,0.11,Luiz Otávio Fernandes
+2023-06-12,Leite,Laticínios,Loja A,São Paulo,14.03,10,0.3,Otávio Farias
+2023-02-16,Papel Higiênico,Higiene,Loja A,São Paulo,23.85,10,0.27,João Vitor Porto
+2023-01-24,Refrigerante,Bebidas,Loja A,Curitiba,19.85,14,0.04,Gabriel Dias
+2023-09-29,Papel Higiênico,Higiene,Loja B,Rio de Janeiro,11.23,20,0.26,Cecília Costela
+2023-11-14,Sabonete,Higiene,Loja D,Rio de Janeiro,13.91,9,0.14,Kevin Fogaça
+2023-12-08,Arroz,Alimentos,Loja D,Curitiba,34.85,6,0.02,Olivia da Costa
+2023-06-26,Macarrão,Alimentos,Loja C,Belo Horizonte,35.44,15,0.25,Mariana Costela
+2023-04-12,Papel Higiênico,Higiene,Loja D,São Paulo,14.15,19,0.11,Pietra Viana
+2023-06-01,Café,Bebidas,Loja A,Belo Horizonte,15.9,19,0.26,Mirella Freitas
+2023-01-26,Macarrão,Alimentos,Loja D,Curitiba,39.46,8,0.18,Paulo Cardoso
+2023-06-30,Sabonete,Higiene,Loja B,Curitiba,34.85,5,0.19,João Pedro Peixoto
+2023-11-18,Arroz,Alimentos,Loja C,Belo Horizonte,4.57,12,0.22,Luiz Miguel Caldeira
+2023-02-16,Café,Bebidas,Loja C,Belo Horizonte,11.26,5,0.24,Anthony Campos
+2023-07-07,Queijo,Laticínios,Loja C,Rio de Janeiro,15.08,16,0.29,Amanda Caldeira
+2023-06-01,Refrigerante,Bebidas,Loja A,Belo Horizonte,48.26,5,0.23,Amanda Peixoto
+2023-04-26,Papel Higiênico,Higiene,Loja C,São Paulo,40.16,1,0.08,Francisco Ferreira
+2023-03-05,Leite,Laticínios,Loja C,Curitiba,30.47,12,0.03,Francisco Duarte
+2023-04-30,Leite,Laticínios,Loja A,Curitiba,46.02,8,0.19,Lucca Pereira
+2023-11-22,Leite,Laticínios,Loja C,Belo Horizonte,8.48,2,0.28,Melissa Melo
+2023-06-05,Leite,Laticínios,Loja A,São Paulo,14.04,18,0.04,Olivia Cunha
+2023-08-21,Refrigerante,Bebidas,Loja D,Rio de Janeiro,44.61,4,0.25,Raquel Araújo
+2023-11-12,Papel Higiênico,Higiene,Loja C,São Paulo,35.44,7,0.13,Miguel Oliveira
+2023-05-01,Refrigerante,Bebidas,Loja A,Curitiba,28.59,12,0.02,Dra. Maria Alice Moura
+2023-05-22,Sabonete,Higiene,Loja A,Belo Horizonte,7.31,7,0.19,Noah Gomes
+2023-11-02,Arroz,Alimentos,Loja A,Curitiba,14.45,5,0.24,Sophie Almeida
+2023-04-16,Feijão,Alimentos,Loja B,Rio de Janeiro,41.21,8,0.1,Sabrina Dias
+2023-03-17,Macarrão,Alimentos,Loja A,Curitiba,43.35,5,0.3,Milena Campos
+2023-10-04,Café,Bebidas,Loja B,São Paulo,34.07,1,0.04,Luiz Gustavo Novaes
+2023-07-03,Sabonete,Higiene,Loja C,São Paulo,11.19,2,0.04,Davi Lucca Rezende
+2023-08-04,Queijo,Laticínios,Loja A,São Paulo,25.38,12,0.15,Maria Clara Castro
+2023-02-25,Leite,Laticínios,Loja B,São Paulo,37.18,17,0.09,Laís Lima
+2023-11-26,Arroz,Alimentos,Loja A,Belo Horizonte,42.82,14,0.21,Bruna Pereira
+2023-09-09,Leite,Laticínios,Loja A,São Paulo,18.14,5,0.02,Emilly Pires
+2023-05-21,Macarrão,Alimentos,Loja C,Belo Horizonte,49.75,17,0.09,Davi Luiz Ramos
+2023-09-16,Macarrão,Alimentos,Loja D,São Paulo,40.28,4,0.26,Sr. Yago Jesus
+2023-11-30,Queijo,Laticínios,Loja B,Belo Horizonte,24.22,8,0.12,Dra. Eduarda Azevedo
+2023-08-21,Papel Higiênico,Higiene,Loja D,São Paulo,17.69,11,0.2,Raquel da Cruz
+2023-07-11,Detergente,Limpeza,Loja D,São Paulo,7.29,3,0.03,Esther Nascimento
+2023-02-19,Refrigerante,Bebidas,Loja B,São Paulo,30.56,18,0.17,Lucas Caldeira
+2023-12-10,Feijão,Alimentos,Loja D,Curitiba,44.06,14,0.26,Sra. Mariana Nascimento
+2023-01-27,Café,Bebidas,Loja C,Curitiba,7.87,17,0.06,Diego Viana
+2023-12-03,Leite,Laticínios,Loja B,São Paulo,19.46,18,0.11,Samuel Freitas
+2023-05-23,Macarrão,Alimentos,Loja B,Belo Horizonte,42.72,20,0.18,Sra. Rebeca Ribeiro
+2023-11-26,Queijo,Laticínios,Loja A,Curitiba,4.36,9,0.21,Raquel Gomes
+2023-06-08,Refrigerante,Bebidas,Loja C,São Paulo,11.53,5,0.17,Caroline Costa
+2023-07-25,Feijão,Alimentos,Loja B,São Paulo,7.31,17,0.06,Camila Teixeira
+2023-08-03,Leite,Laticínios,Loja C,Rio de Janeiro,20.39,11,0.23,Luiz Gustavo Castro
+2023-10-18,Macarrão,Alimentos,Loja A,São Paulo,10.31,20,0.01,Caroline da Cunha
+2023-02-11,Café,Bebidas,Loja D,Belo Horizonte,25.83,15,0.12,Lavínia Lopes
+2023-04-21,Queijo,Laticínios,Loja A,Curitiba,23.21,10,0.2,João Vitor Pinto
+2023-10-31,Leite,Laticínios,Loja C,São Paulo,13.36,20,0.02,Pedro Miguel Ferreira
+2023-04-15,Café,Bebidas,Loja B,Rio de Janeiro,38.92,10,0.1,Maria Julia Costa
+2023-01-04,Leite,Laticínios,Loja D,Rio de Janeiro,9.07,18,0.21,Eduardo Fernandes
+2023-09-14,Queijo,Laticínios,Loja C,São Paulo,21.66,2,0.13,Dra. Maysa Costa
+2023-08-24,Feijão,Alimentos,Loja C,Belo Horizonte,29.95,14,0.09,Lucas Gabriel Costela
+2023-07-27,Arroz,Alimentos,Loja C,Rio de Janeiro,40.66,20,0.14,Pedro Miguel Pires
+2023-12-20,Refrigerante,Bebidas,Loja A,Belo Horizonte,42.69,8,0.13,Sr. Fernando Castro
+2023-07-25,Queijo,Laticínios,Loja A,Belo Horizonte,43.91,11,0.07,Thales Barros
+2023-03-28,Feijão,Alimentos,Loja A,Rio de Janeiro,45.58,12,0.11,Nina Viana
+2023-11-27,Detergente,Limpeza,Loja B,São Paulo,9.88,7,0.05,Srta. Laura Novaes
+2023-03-20,Feijão,Alimentos,Loja B,Belo Horizonte,24.81,19,0.23,Bárbara Vieira
+2023-08-18,Macarrão,Alimentos,Loja C,Curitiba,10.09,3,0.14,Luiz Fernando Costela
+2023-11-20,Café,Bebidas,Loja C,São Paulo,19.54,3,0.09,Carolina Santos
+2023-08-20,Arroz,Alimentos,Loja A,Curitiba,42.09,3,0.19,João Pereira
+2023-02-16,Macarrão,Alimentos,Loja D,Belo Horizonte,30.28,2,0.13,Luana Alves
+2023-10-20,Sabonete,Higiene,Loja C,Belo Horizonte,26.56,2,0.14,Dra. Eloah da Mota
+2023-06-25,Feijão,Alimentos,Loja B,São Paulo,14.64,15,0.3,João Moraes
+2023-09-26,Queijo,Laticínios,Loja B,Curitiba,20.52,10,0.12,Ana Beatriz Porto
+2023-06-23,Macarrão,Alimentos,Loja A,Curitiba,6.1,4,0.17,Gabriela Porto
+2023-07-17,Café,Bebidas,Loja C,Rio de Janeiro,18.67,19,0.2,Levi Fernandes
+2023-06-29,Café,Bebidas,Loja D,Rio de Janeiro,30.97,3,0.09,Juan Costela
+2023-07-12,Refrigerante,Bebidas,Loja B,São Paulo,33.36,14,0.15,Dr. Pedro Lucas Nascimento
+2023-01-10,Refrigerante,Bebidas,Loja C,Rio de Janeiro,47.7,11,0.28,Thomas da Paz
+2023-09-06,Sabonete,Higiene,Loja B,Rio de Janeiro,10.28,10,0.25,Miguel Nunes
+2023-02-21,Queijo,Laticínios,Loja A,Curitiba,44.19,20,0.04,Felipe Caldeira
+2023-07-12,Detergente,Limpeza,Loja B,Rio de Janeiro,42.07,20,0.24,Isabelly Oliveira
+2023-03-26,Leite,Laticínios,Loja A,Belo Horizonte,20.12,8,0.29,Luiz Otávio Viana
+2023-11-09,Café,Bebidas,Loja D,Rio de Janeiro,28.1,10,0.29,Vitor Barros
+2023-08-29,Sabonete,Higiene,Loja C,Belo Horizonte,24.7,10,0.23,Isaac Almeida
+2023-09-15,Queijo,Laticínios,Loja D,Rio de Janeiro,41.39,20,0.04,Paulo Freitas
+2023-05-09,Arroz,Alimentos,Loja D,Curitiba,29.06,4,0.21,Clarice Caldeira
+2023-09-22,Feijão,Alimentos,Loja C,São Paulo,38.87,9,0.13,Isadora da Mata
+2023-09-20,Detergente,Limpeza,Loja D,São Paulo,47.48,8,0.25,Nicole Rezende
+2023-06-28,Arroz,Alimentos,Loja D,São Paulo,21.63,12,0.07,Agatha Pereira
+2023-02-11,Refrigerante,Bebidas,Loja B,São Paulo,17.98,4,0.25,Ryan Azevedo
+2023-11-29,Refrigerante,Bebidas,Loja B,Rio de Janeiro,4.8,16,0.21,Mariana Silva
+2023-03-13,Leite,Laticínios,Loja D,São Paulo,45.58,1,0.08,Isabelly da Rosa
+2023-03-18,Queijo,Laticínios,Loja D,São Paulo,39.48,8,0.09,Luiz Otávio Santos
+2023-01-25,Sabonete,Higiene,Loja D,Belo Horizonte,5.95,16,0.18,Marcela Nunes
+2023-01-09,Queijo,Laticínios,Loja B,Rio de Janeiro,16.69,1,0.18,Dr. Enzo Araújo
+2023-05-04,Macarrão,Alimentos,Loja D,Rio de Janeiro,34.23,3,0.16,Raquel Nascimento
+2023-07-04,Feijão,Alimentos,Loja A,Belo Horizonte,44.05,2,0.19,João Miguel Martins
+2023-07-11,Café,Bebidas,Loja A,Curitiba,40.06,12,0.07,Bruna Lima
+2023-12-03,Feijão,Alimentos,Loja C,Rio de Janeiro,5.08,18,0.1,Laís Silva
+2023-11-26,Detergente,Limpeza,Loja D,Belo Horizonte,32.69,5,0.02,Clara Pereira
+2023-08-23,Arroz,Alimentos,Loja C,Rio de Janeiro,5.06,7,0.27,Dr. Benjamin Carvalho
+2023-06-11,Café,Bebidas,Loja D,Belo Horizonte,14.91,7,0.09,Maysa Ribeiro
+2023-01-25,Refrigerante,Bebidas,Loja C,São Paulo,40.57,14,0.27,Ryan Silva
+2023-08-14,Papel Higiênico,Higiene,Loja C,Rio de Janeiro,26.32,16,0.11,Srta. Ana Carolina Cavalcanti
+2023-09-23,Café,Bebidas,Loja A,Belo Horizonte,6.71,20,0.3,Daniel Duarte
+2023-04-03,Queijo,Laticínios,Loja C,Curitiba,7.82,11,0.2,Maria Eduarda Carvalho
+2023-06-06,Leite,Laticínios,Loja D,Rio de Janeiro,35.42,12,0.13,Laís Rezende
+2023-06-30,Macarrão,Alimentos,Loja D,Curitiba,33.06,2,0.02,Enrico Peixoto
+2023-11-23,Papel Higiênico,Higiene,Loja C,Rio de Janeiro,47.78,5,0.25,Erick da Mota
+2023-12-14,Leite,Laticínios,Loja A,Rio de Janeiro,6.16,12,0.11,Alexia Souza
+2023-10-18,Arroz,Alimentos,Loja B,Belo Horizonte,47.59,12,0.13,Maria Sophia Nascimento
+2023-02-09,Macarrão,Alimentos,Loja B,Curitiba,21.71,9,0.07,Cauê Souza
+2023-02-28,Arroz,Alimentos,Loja B,Belo Horizonte,27.33,18,0.04,Sra. Maria Vitória Correia
+2023-05-14,Leite,Laticínios,Loja B,Curitiba,35.62,16,0.06,Srta. Raquel Cavalcanti
+2023-03-11,Feijão,Alimentos,Loja D,Rio de Janeiro,45.24,15,0.3,Emanuel Barros
+2023-12-16,Refrigerante,Bebidas,Loja C,São Paulo,28.85,10,0.27,Srta. Marcela Melo
+2023-03-22,Detergente,Limpeza,Loja C,Rio de Janeiro,8.7,7,0.24,Letícia Costela
+2023-05-02,Leite,Laticínios,Loja A,Curitiba,29.04,12,0.14,Ana Clara Nascimento
+2023-10-10,Detergente,Limpeza,Loja A,São Paulo,17.54,16,0.16,Maria Sophia Lopes
+2023-07-29,Macarrão,Alimentos,Loja A,Rio de Janeiro,48.7,3,0.13,Renan da Rocha
+2023-12-15,Queijo,Laticínios,Loja C,Rio de Janeiro,44.26,18,0.19,Caio Moura
+2023-04-04,Detergente,Limpeza,Loja D,São Paulo,42.08,17,0.05,Beatriz Melo
+2023-03-26,Detergente,Limpeza,Loja C,Rio de Janeiro,19.26,17,0.27,Heitor Silveira
+2023-02-10,Café,Bebidas,Loja B,Curitiba,8.88,10,0.18,Kevin Dias
+2023-02-17,Queijo,Laticínios,Loja B,Rio de Janeiro,11.05,20,0.22,Francisco Pires
+2023-11-06,Refrigerante,Bebidas,Loja A,São Paulo,6.82,19,0.08,Valentina Nascimento
+2023-04-18,Macarrão,Alimentos,Loja D,São Paulo,26.41,18,0.09,Thiago Azevedo
+2023-06-04,Leite,Laticínios,Loja B,Belo Horizonte,16.98,3,0.21,Raul Farias
+2023-03-22,Leite,Laticínios,Loja D,Belo Horizonte,24.83,11,0.18,Pietra Silva
+2023-06-10,Refrigerante,Bebidas,Loja C,Belo Horizonte,9.15,12,0.15,Bernardo da Costa
+2023-02-24,Refrigerante,Bebidas,Loja B,Belo Horizonte,8.76,15,0.07,Sr. Pedro Miguel Lima
+2023-02-19,Arroz,Alimentos,Loja C,Belo Horizonte,43.62,14,0.07,Ana Clara da Mota
+2023-03-23,Refrigerante,Bebidas,Loja C,Rio de Janeiro,38.87,16,0.3,Marcos Vinicius Fogaça
+2023-08-28,Leite,Laticínios,Loja C,Belo Horizonte,4.09,13,0.15,Elisa da Rosa
+2023-05-04,Sabonete,Higiene,Loja C,São Paulo,5.38,16,0.18,Ana Lívia da Cunha
+2023-12-01,Leite,Laticínios,Loja C,São Paulo,42.82,14,0.04,Maysa Barros
+2023-05-16,Refrigerante,Bebidas,Loja D,Curitiba,5.13,2,0.17,Letícia Caldeira
+2023-04-10,Refrigerante,Bebidas,Loja C,São Paulo,21.16,15,0.23,Sophie Silveira
+2023-05-24,Macarrão,Alimentos,Loja A,Rio de Janeiro,48.83,13,0.11,Bárbara da Rosa
+2023-06-23,Queijo,Laticínios,Loja C,Rio de Janeiro,12.36,17,0.12,Maysa Rezende
+2023-01-21,Arroz,Alimentos,Loja A,Rio de Janeiro,36.54,16,0.16,Eduardo Lopes
+2023-03-18,Macarrão,Alimentos,Loja B,Curitiba,46.77,11,0.05,Ana Luiza Cavalcanti
+2023-11-12,Café,Bebidas,Loja C,Belo Horizonte,36.31,10,0.14,Nicolas da Cunha
+2023-01-09,Refrigerante,Bebidas,Loja C,São Paulo,49.06,19,0.09,Thiago Rezende
+2023-12-19,Arroz,Alimentos,Loja D,Curitiba,48.45,19,0.17,Alice Ribeiro
+2023-01-27,Macarrão,Alimentos,Loja D,Rio de Janeiro,27.64,20,0.23,Giovanna Ribeiro
+2023-07-14,Detergente,Limpeza,Loja B,São Paulo,29.91,4,0.06,Srta. Manuela Ramos
+2023-08-14,Refrigerante,Bebidas,Loja D,Rio de Janeiro,22.41,7,0.12,Thiago Campos
+2023-11-10,Leite,Laticínios,Loja A,Rio de Janeiro,27.38,18,0.1,Sra. Yasmin da Mata
+2023-12-06,Leite,Laticínios,Loja D,Curitiba,47.96,15,0.27,Dra. Kamilly Araújo
+2023-06-25,Queijo,Laticínios,Loja C,Curitiba,31.67,7,0.29,Sophia Dias
+2023-05-23,Queijo,Laticínios,Loja C,Rio de Janeiro,47.25,10,0.23,Sr. Renan Barros
+2023-12-27,Sabonete,Higiene,Loja D,Curitiba,25.55,18,0.28,Lucas Dias
+2023-05-21,Café,Bebidas,Loja A,Belo Horizonte,45.1,13,0.25,Sr. Murilo Souza
+2023-03-16,Café,Bebidas,Loja A,Curitiba,47.9,3,0.1,Enzo Gabriel Martins
+2023-08-15,Café,Bebidas,Loja D,Rio de Janeiro,12.5,18,0.08,Maria Sophia Cunha
+2023-10-15,Café,Bebidas,Loja B,São Paulo,31.94,19,0.07,João Gabriel Castro
+2023-01-26,Queijo,Laticínios,Loja B,Rio de Janeiro,5.47,14,0.1,Davi Lucca Pereira
+2023-08-30,Feijão,Alimentos,Loja B,São Paulo,48.33,6,0.12,Diogo Azevedo
+2023-09-01,Leite,Laticínios,Loja B,Curitiba,18.09,2,0.27,Luiz Henrique da Costa
+2023-02-15,Macarrão,Alimentos,Loja B,São Paulo,45.92,6,0.13,Nathan Costa
+2023-04-01,Arroz,Alimentos,Loja D,Belo Horizonte,11.76,10,0.26,Juan Barbosa
+2023-01-05,Café,Bebidas,Loja A,Curitiba,16.37,18,0.16,Isabella Fernandes
+2023-03-10,Queijo,Laticínios,Loja D,Curitiba,12.06,4,0.1,Lívia Lima
+2023-08-23,Café,Bebidas,Loja B,São Paulo,37.62,10,0.17,Daniel Ribeiro
+2023-04-09,Detergente,Limpeza,Loja D,Belo Horizonte,27.22,3,0.12,Dr. João Miguel Moreira
+2023-02-18,Detergente,Limpeza,Loja B,Belo Horizonte,18.21,8,0.0,Sr. Kaique Mendes
+2023-07-16,Sabonete,Higiene,Loja D,Curitiba,47.84,10,0.17,Maria Alice Farias
+2023-10-21,Arroz,Alimentos,Loja C,Curitiba,35.56,2,0.2,Alícia Pires
+2023-08-27,Café,Bebidas,Loja B,Belo Horizonte,35.25,10,0.21,Daniel Correia
+2023-11-24,Café,Bebidas,Loja C,Rio de Janeiro,13.3,5,0.14,Marcos Vinicius Caldeira
+2023-08-21,Macarrão,Alimentos,Loja C,Belo Horizonte,35.99,16,0.23,Luiz Henrique Porto
+2023-12-07,Sabonete,Higiene,Loja B,São Paulo,27.7,17,0.21,Renan Castro
+2023-02-09,Macarrão,Alimentos,Loja A,São Paulo,41.95,17,0.06,Davi Lucca Rodrigues
+2023-10-02,Detergente,Limpeza,Loja B,Curitiba,43.16,15,0.03,Sr. Miguel da Mota
+2023-04-16,Macarrão,Alimentos,Loja D,São Paulo,45.25,15,0.24,Esther Cardoso
+2023-08-21,Detergente,Limpeza,Loja D,Belo Horizonte,29.5,18,0.14,Murilo Cardoso
+2023-06-07,Arroz,Alimentos,Loja D,Curitiba,41.37,7,0.17,Yasmin Castro
+2023-01-24,Papel Higiênico,Higiene,Loja C,São Paulo,28.43,2,0.28,Luna Teixeira
+2023-02-05,Leite,Laticínios,Loja A,Curitiba,22.22,5,0.23,Luana da Cunha
+2023-11-27,Papel Higiênico,Higiene,Loja C,Belo Horizonte,24.08,13,0.11,Nathan Farias
+2023-12-16,Queijo,Laticínios,Loja B,Curitiba,8.58,18,0.12,Maria Vitória Campos
+2023-03-07,Sabonete,Higiene,Loja A,São Paulo,48.99,15,0.2,Sra. Natália Barros
+2023-10-06,Papel Higiênico,Higiene,Loja D,Rio de Janeiro,14.63,12,0.05,Otávio da Costa
+2023-04-07,Feijão,Alimentos,Loja A,Belo Horizonte,31.9,1,0.07,Maria Julia Fogaça
+2023-02-04,Feijão,Alimentos,Loja A,Belo Horizonte,31.1,2,0.07,Sra. Alícia Cardoso
+2023-01-23,Papel Higiênico,Higiene,Loja D,Rio de Janeiro,28.37,2,0.04,Isabella Farias
+2023-05-29,Sabonete,Higiene,Loja C,Curitiba,14.13,5,0.3,Ana Beatriz Nogueira
+2023-09-24,Sabonete,Higiene,Loja D,Curitiba,15.93,18,0.28,Maria Sophia Teixeira
+2023-03-31,Papel Higiênico,Higiene,Loja D,São Paulo,48.7,13,0.24,Pedro Henrique Oliveira
+2023-06-13,Papel Higiênico,Higiene,Loja D,Rio de Janeiro,17.09,6,0.23,Dra. Ana Carolina Viana
+2023-08-31,Sabonete,Higiene,Loja B,Curitiba,43.3,5,0.24,Fernanda Dias
+2023-01-30,Queijo,Laticínios,Loja D,Belo Horizonte,29.19,5,0.12,Daniel Campos
+2023-05-11,Sabonete,Higiene,Loja C,São Paulo,46.34,12,0.03,Dra. Eloah Moreira
+2023-04-08,Arroz,Alimentos,Loja C,Belo Horizonte,34.66,20,0.01,Pedro Lucas Gonçalves
+2023-02-07,Sabonete,Higiene,Loja B,Belo Horizonte,12.82,11,0.09,André Teixeira
+2023-01-08,Sabonete,Higiene,Loja B,São Paulo,38.1,16,0.27,Srta. Giovanna Pinto
+2023-12-23,Macarrão,Alimentos,Loja B,Belo Horizonte,46.01,18,0.1,Daniela Vieira
+2023-05-25,Papel Higiênico,Higiene,Loja D,Curitiba,17.5,12,0.15,Clarice Pinto
+2023-09-12,Leite,Laticínios,Loja A,Belo Horizonte,38.8,11,0.27,Natália Costela
+2023-07-09,Refrigerante,Bebidas,Loja D,São Paulo,29.44,8,0.22,Carlos Eduardo Moreira
+2023-01-09,Café,Bebidas,Loja D,Curitiba,10.16,11,0.07,Francisco Dias
+2023-10-19,Sabonete,Higiene,Loja D,Curitiba,15.09,16,0.29,Ana Beatriz Ribeiro
+2023-11-25,Leite,Laticínios,Loja D,Rio de Janeiro,37.44,12,0.05,Lívia Porto
+2023-10-07,Leite,Laticínios,Loja B,São Paulo,27.63,3,0.28,Sr. Luiz Miguel Sales
+2023-12-09,Arroz,Alimentos,Loja A,Belo Horizonte,9.46,8,0.02,Maria Julia Araújo
+2023-03-19,Arroz,Alimentos,Loja B,Belo Horizonte,20.54,20,0.19,Ana Laura Ramos
+2023-11-12,Leite,Laticínios,Loja D,São Paulo,3.31,18,0.12,Clara Freitas
+2023-01-09,Queijo,Laticínios,Loja C,Curitiba,3.81,14,0.24,Evelyn Lopes
+2023-04-02,Feijão,Alimentos,Loja A,Rio de Janeiro,14.33,20,0.16,Lucas Gabriel da Mata
+2023-07-01,Café,Bebidas,Loja D,São Paulo,20.53,13,0.14,Dr. João Felipe Araújo
+2023-05-05,Sabonete,Higiene,Loja C,São Paulo,33.73,2,0.03,Manuela Rocha
+2023-07-14,Papel Higiênico,Higiene,Loja D,São Paulo,32.93,6,0.02,Luiz Gustavo Nunes
+2023-08-11,Refrigerante,Bebidas,Loja A,São Paulo,13.8,19,0.14,Leandro Martins
+2023-01-24,Feijão,Alimentos,Loja C,São Paulo,11.43,11,0.0,Vitor Hugo Melo
+2023-04-17,Macarrão,Alimentos,Loja B,Belo Horizonte,46.66,10,0.05,Maria Moreira
+2023-05-04,Macarrão,Alimentos,Loja D,Curitiba,21.04,5,0.24,Murilo Silveira
+2023-12-19,Feijão,Alimentos,Loja C,São Paulo,7.59,8,0.25,Lorenzo Porto
+2023-06-24,Macarrão,Alimentos,Loja D,Curitiba,4.39,9,0.24,Fernando Dias
+2023-08-19,Leite,Laticínios,Loja B,Curitiba,28.99,13,0.13,Lorenzo Rocha
+2023-12-15,Macarrão,Alimentos,Loja D,São Paulo,39.29,10,0.24,Kaique da Mota
+2023-02-07,Feijão,Alimentos,Loja C,Rio de Janeiro,20.86,5,0.22,Thomas da Mata
+2023-06-12,Refrigerante,Bebidas,Loja A,São Paulo,3.24,10,0.13,Sra. Ana Luiza Gomes
+2023-05-19,Feijão,Alimentos,Loja B,São Paulo,11.81,15,0.17,Bruno Silveira
+2023-09-20,Papel Higiênico,Higiene,Loja A,São Paulo,7.21,18,0.03,Eduardo da Costa
+2023-11-03,Refrigerante,Bebidas,Loja D,São Paulo,16.72,13,0.23,Beatriz Jesus
+2023-10-14,Sabonete,Higiene,Loja B,Belo Horizonte,10.97,9,0.09,Rebeca Rezende
+2023-09-10,Detergente,Limpeza,Loja A,Rio de Janeiro,23.43,14,0.09,Bianca Ramos
+2023-02-09,Refrigerante,Bebidas,Loja C,Rio de Janeiro,36.88,16,0.18,João Felipe Caldeira
+2023-04-11,Leite,Laticínios,Loja A,Rio de Janeiro,17.32,13,0.1,Bryan Nogueira
+2023-11-14,Papel Higiênico,Higiene,Loja C,Belo Horizonte,18.73,20,0.04,Isaac Campos
+2023-06-14,Macarrão,Alimentos,Loja B,Belo Horizonte,17.77,13,0.29,Agatha Santos
+2023-05-30,Leite,Laticínios,Loja B,Curitiba,20.67,13,0.11,Matheus Correia
+2023-10-16,Sabonete,Higiene,Loja B,São Paulo,47.79,15,0.28,Otávio Nunes
+2023-04-18,Leite,Laticínios,Loja C,São Paulo,41.49,14,0.2,Melissa Novaes
+2023-03-13,Café,Bebidas,Loja B,Curitiba,33.96,14,0.24,Bryan Santos
+2023-02-07,Leite,Laticínios,Loja D,Belo Horizonte,28.12,14,0.16,André da Luz
+2023-07-04,Queijo,Laticínios,Loja A,São Paulo,39.14,12,0.05,Dr. Vinicius Viana
+2023-11-10,Arroz,Alimentos,Loja D,Curitiba,48.39,14,0.03,Olivia Monteiro
+2023-02-20,Café,Bebidas,Loja B,Rio de Janeiro,23.95,13,0.14,Benjamin Silveira
+2023-12-14,Macarrão,Alimentos,Loja B,Curitiba,49.89,16,0.03,Melissa Cavalcanti
+2023-08-01,Feijão,Alimentos,Loja A,Rio de Janeiro,19.37,11,0.14,Antônio da Mota
+2023-04-16,Queijo,Laticínios,Loja D,Curitiba,25.38,15,0.22,Sra. Letícia Viana
+2023-08-20,Refrigerante,Bebidas,Loja A,Curitiba,5.1,4,0.01,Maria Sophia Sales
+2023-06-25,Feijão,Alimentos,Loja B,Rio de Janeiro,27.25,18,0.05,Arthur Nascimento
+2023-10-14,Papel Higiênico,Higiene,Loja D,Rio de Janeiro,40.49,6,0.06,Dr. Fernando Barros
+2023-12-03,Papel Higiênico,Higiene,Loja D,São Paulo,37.66,7,0.13,Srta. Gabrielly Lopes
+2023-08-08,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,12.67,3,0.17,Davi Lucca Fernandes
+2023-10-02,Detergente,Limpeza,Loja C,Curitiba,12.26,4,0.08,Samuel Alves
+2023-09-08,Queijo,Laticínios,Loja C,Belo Horizonte,31.73,19,0.03,Isabella Rezende
+2023-06-30,Leite,Laticínios,Loja B,Curitiba,46.18,19,0.03,Gabriel Gonçalves
+2023-03-10,Refrigerante,Bebidas,Loja A,Rio de Janeiro,17.35,6,0.11,Alexandre Souza
+2023-03-14,Queijo,Laticínios,Loja D,Belo Horizonte,31.03,19,0.12,Pedro Lucas Caldeira
+2023-04-06,Leite,Laticínios,Loja B,Rio de Janeiro,26.01,5,0.06,Sarah Lopes
+2023-08-19,Macarrão,Alimentos,Loja A,Curitiba,47.74,16,0.04,Enzo Pinto
+2023-07-16,Queijo,Laticínios,Loja D,Belo Horizonte,35.18,14,0.21,Heloísa Cunha
+2023-08-16,Leite,Laticínios,Loja B,São Paulo,29.57,8,0.09,Fernanda Mendes
+2023-05-21,Sabonete,Higiene,Loja C,Rio de Janeiro,39.69,19,0.22,Maria Luiza Costela
+2023-09-11,Queijo,Laticínios,Loja A,São Paulo,15.59,18,0.25,Vinicius Ferreira
+2023-07-07,Queijo,Laticínios,Loja A,Belo Horizonte,28.68,14,0.03,Lara Pinto
+2023-12-01,Sabonete,Higiene,Loja C,São Paulo,24.14,12,0.26,Raquel Porto
+2023-02-14,Leite,Laticínios,Loja A,Rio de Janeiro,12.86,19,0.21,Bárbara Freitas
+2023-12-30,Macarrão,Alimentos,Loja D,Rio de Janeiro,31.96,7,0.24,Júlia Pires
+2023-01-31,Macarrão,Alimentos,Loja C,Curitiba,31.05,6,0.1,Dr. Enzo Gabriel Costa
+2023-12-27,Café,Bebidas,Loja C,Curitiba,47.76,17,0.3,Ana Beatriz Pinto
+2023-12-14,Feijão,Alimentos,Loja B,Belo Horizonte,46.18,9,0.26,Mirella Oliveira
+2023-03-06,Detergente,Limpeza,Loja B,Rio de Janeiro,36.44,8,0.23,Olivia da Mota
+2023-12-13,Papel Higiênico,Higiene,Loja D,Rio de Janeiro,30.14,9,0.19,Bryan Monteiro
+2023-07-12,Leite,Laticínios,Loja A,São Paulo,21.93,9,0.21,João Guilherme Correia
+2023-07-08,Leite,Laticínios,Loja D,Curitiba,30.35,3,0.22,Olivia da Costa
+2023-08-23,Refrigerante,Bebidas,Loja A,Belo Horizonte,13.24,14,0.25,Noah Moura
+2023-09-11,Café,Bebidas,Loja C,Curitiba,18.87,19,0.04,Srta. Emanuella Souza
+2023-09-06,Refrigerante,Bebidas,Loja A,São Paulo,7.68,15,0.0,Dr. Pietro Peixoto
+2023-03-22,Leite,Laticínios,Loja D,São Paulo,49.62,14,0.06,Isaac Gomes
+2023-12-19,Detergente,Limpeza,Loja C,Rio de Janeiro,44.1,9,0.03,Bryan Moraes
+2023-07-04,Café,Bebidas,Loja A,Curitiba,34.23,6,0.02,Arthur Barros
+2023-11-17,Café,Bebidas,Loja B,Belo Horizonte,33.81,4,0.0,Giovanna Mendes
+2023-09-02,Feijão,Alimentos,Loja B,Rio de Janeiro,27.41,15,0.0,Vitória da Paz
+2023-12-23,Refrigerante,Bebidas,Loja A,Belo Horizonte,35.62,16,0.02,Evelyn Rodrigues
+2023-07-16,Feijão,Alimentos,Loja A,São Paulo,17.73,10,0.04,Evelyn Porto
+2023-03-10,Detergente,Limpeza,Loja A,São Paulo,31.69,6,0.13,Larissa da Mota
+2023-04-20,Detergente,Limpeza,Loja D,Belo Horizonte,43.42,3,0.27,Alexandre Cavalcanti
+2023-03-13,Feijão,Alimentos,Loja D,Curitiba,48.27,11,0.24,Calebe Rezende
+2023-05-07,Café,Bebidas,Loja A,Rio de Janeiro,29.01,20,0.22,Letícia Nascimento
+2023-05-26,Arroz,Alimentos,Loja C,Rio de Janeiro,27.33,17,0.06,Manuela Fogaça
+2023-07-20,Café,Bebidas,Loja A,Rio de Janeiro,26.26,4,0.07,Vitor Gabriel Campos
+2023-11-23,Macarrão,Alimentos,Loja A,São Paulo,49.38,11,0.04,Caroline Vieira
+2023-10-19,Papel Higiênico,Higiene,Loja C,Rio de Janeiro,38.85,3,0.01,Bianca Lima
+2023-02-04,Arroz,Alimentos,Loja C,Rio de Janeiro,4.87,2,0.28,Alice Correia
+2023-07-23,Queijo,Laticínios,Loja C,Belo Horizonte,22.91,13,0.02,Heloísa Gonçalves
+2023-10-02,Queijo,Laticínios,Loja B,Curitiba,6.93,3,0.15,Olivia Souza
+2023-04-15,Detergente,Limpeza,Loja C,Belo Horizonte,30.56,3,0.09,Dr. Vitor Hugo Farias
+2023-08-12,Sabonete,Higiene,Loja A,Rio de Janeiro,7.05,14,0.03,Helena Fernandes
+2023-11-10,Macarrão,Alimentos,Loja A,Curitiba,34.31,6,0.04,Srta. Isabella da Mota
+2023-12-29,Detergente,Limpeza,Loja A,Rio de Janeiro,26.33,12,0.16,Vitória da Mota
+2023-05-13,Detergente,Limpeza,Loja C,Rio de Janeiro,38.24,9,0.22,Miguel Rocha
+2023-03-02,Arroz,Alimentos,Loja C,Belo Horizonte,15.78,3,0.08,Caio Ferreira
+2023-10-23,Feijão,Alimentos,Loja D,Belo Horizonte,27.01,2,0.15,Augusto Pires
+2023-10-18,Detergente,Limpeza,Loja C,Rio de Janeiro,14.99,4,0.27,Thales Sales
+2023-12-12,Feijão,Alimentos,Loja B,São Paulo,5.07,1,0.07,Lucca Nunes
+2023-08-30,Refrigerante,Bebidas,Loja D,Rio de Janeiro,11.41,2,0.17,Camila Correia
+2023-12-02,Papel Higiênico,Higiene,Loja B,Curitiba,14.67,11,0.08,Augusto Silveira
+2023-02-09,Macarrão,Alimentos,Loja C,São Paulo,26.6,2,0.05,Renan Caldeira
+2023-09-22,Arroz,Alimentos,Loja D,São Paulo,44.22,10,0.23,Marcos Vinicius da Costa
+2023-06-09,Refrigerante,Bebidas,Loja A,Belo Horizonte,3.37,7,0.09,Bryan da Mota
+2023-06-05,Macarrão,Alimentos,Loja B,Belo Horizonte,20.31,16,0.3,Pedro Lucas Dias
+2023-04-11,Queijo,Laticínios,Loja B,Rio de Janeiro,3.3,14,0.01,Marcos Vinicius Mendes
+2023-10-05,Refrigerante,Bebidas,Loja A,Curitiba,3.07,13,0.25,Stella Fogaça
+2023-06-07,Feijão,Alimentos,Loja B,Rio de Janeiro,22.73,2,0.29,Giovanna Silveira
+2023-03-14,Café,Bebidas,Loja A,São Paulo,46.3,17,0.12,Stella Silveira
+2023-07-10,Leite,Laticínios,Loja A,São Paulo,26.76,13,0.02,Pedro Henrique Caldeira
+2023-10-18,Arroz,Alimentos,Loja D,Rio de Janeiro,14.13,9,0.26,Alícia Cavalcanti
+2023-07-21,Refrigerante,Bebidas,Loja C,Belo Horizonte,15.78,3,0.28,Pedro Henrique Dias
+2023-03-11,Macarrão,Alimentos,Loja A,Rio de Janeiro,7.97,15,0.14,Melissa Dias
+2023-07-28,Feijão,Alimentos,Loja C,Rio de Janeiro,24.24,15,0.08,Larissa da Rocha
+2023-03-03,Feijão,Alimentos,Loja B,Curitiba,41.84,20,0.01,Dr. Benício Campos
+2023-06-17,Detergente,Limpeza,Loja A,Rio de Janeiro,48.51,13,0.15,Milena da Luz
+2023-12-13,Café,Bebidas,Loja C,Rio de Janeiro,4.46,13,0.26,Laura Almeida
+2023-10-12,Queijo,Laticínios,Loja B,São Paulo,24.72,5,0.04,Emanuelly Castro
+2023-02-01,Sabonete,Higiene,Loja B,Rio de Janeiro,41.71,12,0.21,Augusto Correia
+2023-11-27,Feijão,Alimentos,Loja C,São Paulo,4.02,3,0.06,Stephany Rodrigues
+2023-11-27,Leite,Laticínios,Loja B,São Paulo,45.54,11,0.04,Antônio Rezende
+2023-08-25,Arroz,Alimentos,Loja B,Belo Horizonte,41.62,13,0.15,João Vitor Moraes
+2023-07-15,Papel Higiênico,Higiene,Loja B,Curitiba,13.09,6,0.08,Benjamin da Mata
+2023-08-17,Detergente,Limpeza,Loja A,Rio de Janeiro,33.42,16,0.12,Srta. Isadora Monteiro
+2023-10-09,Leite,Laticínios,Loja A,São Paulo,16.15,5,0.13,Dr. Vitor Teixeira
+2023-11-26,Queijo,Laticínios,Loja B,São Paulo,49.5,12,0.14,Davi Lucas Silva
+2023-09-06,Refrigerante,Bebidas,Loja C,Belo Horizonte,15.71,1,0.1,Sra. Milena da Mota
+2023-04-23,Arroz,Alimentos,Loja C,São Paulo,41.01,16,0.16,Sr. João Correia
+2023-10-27,Sabonete,Higiene,Loja B,São Paulo,14.65,8,0.08,Enzo Gabriel Barros
+2023-01-29,Sabonete,Higiene,Loja D,Curitiba,46.95,6,0.05,Vitor Gabriel Silva
+2023-10-31,Refrigerante,Bebidas,Loja C,São Paulo,36.06,12,0.28,Bianca Costela
+2023-10-16,Detergente,Limpeza,Loja B,Belo Horizonte,28.48,6,0.15,Alice Freitas
+2023-02-16,Arroz,Alimentos,Loja B,Rio de Janeiro,3.94,16,0.0,Ana Lívia Ramos
+2023-11-11,Sabonete,Higiene,Loja B,Curitiba,36.7,11,0.02,Eloah Azevedo
+2023-03-17,Macarrão,Alimentos,Loja B,São Paulo,42.78,12,0.29,Leandro Ramos
+2023-07-11,Papel Higiênico,Higiene,Loja A,Curitiba,17.18,5,0.29,Henrique Mendes
+2023-08-12,Leite,Laticínios,Loja C,Rio de Janeiro,36.24,18,0.21,Benício Vieira
+2023-11-11,Refrigerante,Bebidas,Loja B,Rio de Janeiro,20.78,10,0.04,Juan Pinto
+2023-01-01,Macarrão,Alimentos,Loja D,São Paulo,11.56,11,0.28,Carolina Porto
+2023-11-10,Sabonete,Higiene,Loja A,Belo Horizonte,9.61,3,0.07,Caio Silveira
+2023-06-13,Detergente,Limpeza,Loja A,Curitiba,23.99,9,0.06,Renan Duarte
+2023-12-21,Feijão,Alimentos,Loja C,Curitiba,39.99,1,0.01,Helena Novaes
+2023-08-13,Papel Higiênico,Higiene,Loja B,Belo Horizonte,26.17,13,0.11,Guilherme Rodrigues
+2023-07-12,Feijão,Alimentos,Loja D,Rio de Janeiro,10.64,3,0.24,Nathan das Neves
+2023-01-18,Café,Bebidas,Loja A,Curitiba,15.27,4,0.02,João Pedro Rodrigues
+2023-03-29,Papel Higiênico,Higiene,Loja B,São Paulo,28.71,3,0.1,Felipe Alves
+2023-11-11,Leite,Laticínios,Loja A,Belo Horizonte,47.29,6,0.18,João Pedro Azevedo
+2023-08-11,Detergente,Limpeza,Loja A,São Paulo,18.56,7,0.12,Anthony Lopes
+2023-10-11,Queijo,Laticínios,Loja C,Curitiba,16.98,4,0.01,Pedro Lucas Ramos
+2023-10-20,Queijo,Laticínios,Loja D,Rio de Janeiro,5.56,1,0.13,Milena Cardoso
+2023-05-31,Macarrão,Alimentos,Loja D,Rio de Janeiro,7.56,7,0.05,Lívia Araújo
+2023-05-30,Feijão,Alimentos,Loja D,São Paulo,17.49,13,0.14,Paulo Monteiro
+2023-12-05,Café,Bebidas,Loja A,Belo Horizonte,11.69,13,0.11,Guilherme Martins
+2023-08-17,Arroz,Alimentos,Loja C,Belo Horizonte,24.86,8,0.25,Heloísa Vieira
+2023-10-16,Arroz,Alimentos,Loja B,São Paulo,7.03,12,0.24,Daniela Pereira
+2023-07-31,Macarrão,Alimentos,Loja B,São Paulo,42.52,17,0.13,Ana Beatriz Aragão
+2023-10-02,Leite,Laticínios,Loja B,Belo Horizonte,17.05,13,0.27,Felipe Campos
+2023-01-18,Queijo,Laticínios,Loja B,São Paulo,47.61,15,0.05,Eloah Cunha
+2023-03-27,Sabonete,Higiene,Loja B,Rio de Janeiro,5.01,3,0.3,Alice Moreira
+2023-08-11,Sabonete,Higiene,Loja B,Curitiba,18.03,3,0.03,Bernardo Souza
+2023-10-12,Papel Higiênico,Higiene,Loja C,Curitiba,27.43,1,0.24,Eduarda Vieira
+2023-11-16,Macarrão,Alimentos,Loja D,São Paulo,22.48,5,0.17,Larissa Cunha
+2023-10-26,Feijão,Alimentos,Loja A,São Paulo,39.93,18,0.26,Dr. Pedro Freitas
+2023-07-30,Café,Bebidas,Loja D,Belo Horizonte,29.89,16,0.01,Isabelly Nunes
+2023-05-22,Papel Higiênico,Higiene,Loja B,Belo Horizonte,4.82,11,0.21,Dr. Ian Nascimento
+2023-01-26,Leite,Laticínios,Loja C,Curitiba,3.95,10,0.09,Lara da Cruz
+2023-09-09,Feijão,Alimentos,Loja B,Rio de Janeiro,17.12,15,0.23,Srta. Manuela Moraes
+2023-06-14,Café,Bebidas,Loja D,São Paulo,11.83,7,0.27,Maria Julia Almeida
+2023-07-28,Leite,Laticínios,Loja C,São Paulo,27.22,6,0.02,Gustavo Henrique Carvalho
+2023-12-30,Queijo,Laticínios,Loja D,Rio de Janeiro,39.68,17,0.26,Bruno Lopes
+2023-01-15,Detergente,Limpeza,Loja B,Rio de Janeiro,42.34,8,0.01,Alice Araújo
+2023-01-26,Refrigerante,Bebidas,Loja B,Curitiba,20.31,15,0.15,Raul da Costa
+2023-11-22,Feijão,Alimentos,Loja A,Rio de Janeiro,20.51,20,0.13,João Vitor Moura
+2023-08-31,Macarrão,Alimentos,Loja C,Curitiba,10.69,9,0.22,Yasmin Pereira
+2023-12-19,Feijão,Alimentos,Loja C,São Paulo,21.17,6,0.26,Maria Jesus
+2023-04-20,Sabonete,Higiene,Loja B,Rio de Janeiro,15.65,14,0.15,Luiz Otávio Correia
+2023-12-16,Arroz,Alimentos,Loja D,Rio de Janeiro,33.43,20,0.24,Nicole Cardoso
+2023-04-25,Café,Bebidas,Loja C,Curitiba,22.92,13,0.26,Lavínia da Cruz
+2023-08-24,Café,Bebidas,Loja B,Belo Horizonte,17.2,17,0.25,Luiz Miguel Souza
+2023-07-23,Macarrão,Alimentos,Loja A,São Paulo,27.04,12,0.17,Dra. Maria Vitória Ferreira
+2023-11-01,Macarrão,Alimentos,Loja C,Curitiba,35.17,16,0.02,Raquel da Conceição
+2023-05-22,Refrigerante,Bebidas,Loja C,Curitiba,33.84,10,0.06,Lucas da Mota
+2023-09-22,Sabonete,Higiene,Loja A,Belo Horizonte,34.04,5,0.22,Maria Clara Rocha
+2023-12-02,Leite,Laticínios,Loja C,Curitiba,45.62,13,0.12,Dra. Maria Alice Melo
+2023-01-19,Macarrão,Alimentos,Loja B,Curitiba,37.15,8,0.21,Natália da Conceição
+2023-11-23,Leite,Laticínios,Loja C,Curitiba,42.73,18,0.05,Lavínia Nogueira
+2023-02-19,Leite,Laticínios,Loja B,Curitiba,37.08,18,0.23,Danilo Porto
+2023-04-04,Refrigerante,Bebidas,Loja A,Rio de Janeiro,19.7,10,0.13,Lucas Freitas
+2023-06-19,Refrigerante,Bebidas,Loja C,Curitiba,24.8,4,0.14,João Gabriel da Rocha
+2023-11-21,Macarrão,Alimentos,Loja A,Belo Horizonte,44.8,17,0.04,Lara Barbosa
+2023-12-15,Papel Higiênico,Higiene,Loja C,Belo Horizonte,5.54,5,0.04,Maria Fernanda Fogaça
+2023-04-13,Refrigerante,Bebidas,Loja D,Belo Horizonte,9.73,6,0.23,Dra. Lorena Castro
+2023-09-07,Refrigerante,Bebidas,Loja B,Curitiba,32.82,1,0.14,Emanuelly Barbosa
+2023-04-18,Detergente,Limpeza,Loja B,Belo Horizonte,39.9,3,0.04,Eduardo Costa
+2023-08-11,Papel Higiênico,Higiene,Loja D,Belo Horizonte,48.37,13,0.0,Camila Viana
+2023-10-01,Sabonete,Higiene,Loja C,São Paulo,44.92,17,0.06,Cecília da Mota
+2023-12-13,Arroz,Alimentos,Loja B,Rio de Janeiro,35.6,12,0.09,Sra. Sarah Moraes
+2023-02-22,Papel Higiênico,Higiene,Loja C,Rio de Janeiro,6.07,2,0.09,Lucas Gabriel Barros
+2023-05-29,Leite,Laticínios,Loja C,Belo Horizonte,44.73,5,0.1,Esther Teixeira
+2023-09-08,Refrigerante,Bebidas,Loja B,Rio de Janeiro,47.56,13,0.01,Ana Vitória Gomes
+2023-04-25,Detergente,Limpeza,Loja B,São Paulo,30.72,6,0.04,Dr. Pedro da Rocha
+2023-12-31,Arroz,Alimentos,Loja D,Curitiba,39.25,20,0.01,Mariane da Mota
+2023-01-25,Feijão,Alimentos,Loja A,São Paulo,35.42,14,0.13,Sr. Rafael Duarte
+2023-03-05,Queijo,Laticínios,Loja C,Belo Horizonte,35.99,7,0.21,Thiago Oliveira
+2023-11-19,Arroz,Alimentos,Loja C,Belo Horizonte,34.1,17,0.08,Emanuel Oliveira
+2023-11-07,Detergente,Limpeza,Loja D,São Paulo,27.04,20,0.04,Isabelly Viana
+2023-02-28,Feijão,Alimentos,Loja D,Rio de Janeiro,31.62,9,0.25,Lavínia Alves
+2023-04-14,Refrigerante,Bebidas,Loja D,Curitiba,10.54,18,0.15,Sr. Guilherme Moreira
+2023-04-17,Leite,Laticínios,Loja C,Rio de Janeiro,3.13,3,0.27,Sr. Diogo Castro
+2023-10-21,Leite,Laticínios,Loja B,São Paulo,39.64,3,0.22,Pedro Almeida
+2023-02-21,Café,Bebidas,Loja B,Belo Horizonte,49.47,10,0.08,Diego Nogueira
+2023-01-26,Feijão,Alimentos,Loja B,São Paulo,43.06,12,0.24,Kevin Rezende
+2023-06-10,Papel Higiênico,Higiene,Loja A,São Paulo,43.01,2,0.0,Lavínia Teixeira
+2023-03-12,Detergente,Limpeza,Loja C,Curitiba,45.04,20,0.08,Joaquim Moraes
+2023-02-17,Refrigerante,Bebidas,Loja C,Rio de Janeiro,8.35,13,0.29,Nina Pereira
+2023-05-20,Papel Higiênico,Higiene,Loja D,Belo Horizonte,33.5,6,0.03,Pedro Aragão
+2023-12-23,Arroz,Alimentos,Loja B,São Paulo,22.55,19,0.14,Sra. Laís Silveira
+2023-10-19,Leite,Laticínios,Loja B,Belo Horizonte,39.62,20,0.01,Isabel Lopes
+2023-12-17,Detergente,Limpeza,Loja D,Belo Horizonte,8.31,14,0.13,Clarice Cardoso
+2023-02-02,Café,Bebidas,Loja C,São Paulo,36.11,17,0.23,Kaique Araújo
+2023-10-23,Macarrão,Alimentos,Loja B,Curitiba,27.4,20,0.03,Thales Barros
+2023-12-05,Sabonete,Higiene,Loja D,Curitiba,34.19,13,0.04,Daniela Rodrigues
+2023-10-13,Macarrão,Alimentos,Loja A,São Paulo,33.24,6,0.15,Davi Luiz Moura
+2023-08-29,Leite,Laticínios,Loja B,São Paulo,38.32,11,0.07,Marcelo Pinto
+2023-05-23,Arroz,Alimentos,Loja B,Belo Horizonte,21.95,8,0.02,João Vitor da Conceição
+2023-08-16,Macarrão,Alimentos,Loja D,São Paulo,43.26,15,0.09,Alana da Mata
+2023-09-12,Arroz,Alimentos,Loja A,Belo Horizonte,22.38,18,0.16,Melissa Farias
+2023-02-16,Macarrão,Alimentos,Loja C,Rio de Janeiro,33.77,15,0.29,Juan Fogaça
+2023-07-06,Arroz,Alimentos,Loja B,Belo Horizonte,18.6,20,0.18,Ana Beatriz da Cunha
+2023-12-03,Refrigerante,Bebidas,Loja D,São Paulo,7.58,8,0.0,Stella Azevedo
+2023-07-01,Café,Bebidas,Loja C,São Paulo,5.15,6,0.15,João Felipe da Cruz
+2023-07-29,Feijão,Alimentos,Loja C,Rio de Janeiro,11.81,13,0.06,Nathan Nascimento
+2023-04-08,Refrigerante,Bebidas,Loja A,Belo Horizonte,5.19,19,0.04,Dr. João Felipe Rezende
+2023-08-19,Leite,Laticínios,Loja B,Belo Horizonte,3.2,2,0.17,Larissa Lopes
+2023-08-10,Macarrão,Alimentos,Loja D,Rio de Janeiro,35.52,6,0.22,Srta. Eduarda da Cruz
+2023-03-07,Feijão,Alimentos,Loja D,Curitiba,26.69,13,0.13,Maria Sophia Monteiro
+2023-11-08,Sabonete,Higiene,Loja C,Belo Horizonte,48.29,10,0.14,João Gabriel Nascimento
+2023-03-10,Detergente,Limpeza,Loja D,Curitiba,42.62,18,0.26,Agatha Dias
+2023-12-31,Queijo,Laticínios,Loja B,Rio de Janeiro,12.86,10,0.21,Miguel da Cruz
+2023-12-11,Detergente,Limpeza,Loja B,Curitiba,36.39,12,0.17,Bruno Costela
+2023-10-26,Macarrão,Alimentos,Loja D,Curitiba,44.24,14,0.24,Alice Nascimento
+2023-09-25,Feijão,Alimentos,Loja A,Belo Horizonte,9.83,2,0.06,Luna Barbosa
+2023-03-24,Café,Bebidas,Loja C,Rio de Janeiro,42.45,10,0.06,Sophie da Conceição
+2023-10-05,Arroz,Alimentos,Loja C,Belo Horizonte,7.82,18,0.26,Leonardo Gomes
+2023-11-28,Queijo,Laticínios,Loja D,Rio de Janeiro,27.01,10,0.21,Clara Moraes
+2023-01-25,Papel Higiênico,Higiene,Loja D,Belo Horizonte,47.96,11,0.29,Enrico da Luz
+2023-01-28,Arroz,Alimentos,Loja C,Rio de Janeiro,32.17,15,0.25,João Vitor Freitas
+2023-11-21,Refrigerante,Bebidas,Loja B,Rio de Janeiro,16.83,6,0.3,Dr. Theo Fogaça
+2023-02-08,Detergente,Limpeza,Loja B,São Paulo,20.73,14,0.08,Maria Cecília Cunha
+2023-05-16,Detergente,Limpeza,Loja B,Curitiba,3.27,15,0.21,Esther Peixoto
+2023-03-21,Arroz,Alimentos,Loja B,Curitiba,31.05,20,0.25,Thales Duarte
+2023-06-04,Leite,Laticínios,Loja C,São Paulo,39.85,11,0.16,Luna Monteiro
+2023-04-05,Queijo,Laticínios,Loja A,Rio de Janeiro,22.55,18,0.12,Joana Dias
+2023-06-28,Sabonete,Higiene,Loja B,Curitiba,18.56,10,0.07,Sarah Campos
+2023-11-13,Queijo,Laticínios,Loja D,São Paulo,8.39,12,0.13,João Gabriel Ribeiro
+2023-11-25,Macarrão,Alimentos,Loja B,São Paulo,35.08,11,0.11,Benício Novaes
+2023-02-28,Papel Higiênico,Higiene,Loja C,Curitiba,4.16,17,0.25,Murilo das Neves
+2023-07-11,Queijo,Laticínios,Loja D,Belo Horizonte,5.06,7,0.1,Amanda das Neves
+2023-02-12,Feijão,Alimentos,Loja B,São Paulo,32.47,7,0.2,Enzo Gabriel Alves
+2023-04-20,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,28.27,14,0.19,Caio Rocha
+2023-02-06,Detergente,Limpeza,Loja A,Belo Horizonte,36.69,2,0.03,Yasmin Pinto
+2023-01-28,Detergente,Limpeza,Loja C,São Paulo,30.02,8,0.27,Erick Moraes
+2023-07-28,Papel Higiênico,Higiene,Loja D,Belo Horizonte,23.35,1,0.12,Raquel da Cruz
+2023-03-02,Queijo,Laticínios,Loja A,São Paulo,38.53,19,0.01,Mariana Farias
+2023-02-07,Refrigerante,Bebidas,Loja A,Curitiba,39.98,10,0.18,Ian Santos
+2023-05-25,Leite,Laticínios,Loja D,Belo Horizonte,41.64,1,0.14,Felipe Cardoso
+2023-10-01,Sabonete,Higiene,Loja B,Belo Horizonte,40.45,18,0.09,Dr. Samuel Azevedo
+2023-11-21,Detergente,Limpeza,Loja C,Curitiba,48.0,1,0.17,Caroline da Rosa
+2023-10-12,Detergente,Limpeza,Loja A,São Paulo,3.24,20,0.12,Sr. Levi Nunes
+2023-10-08,Feijão,Alimentos,Loja C,Rio de Janeiro,38.17,12,0.06,Sra. Agatha Porto
+2023-11-27,Queijo,Laticínios,Loja B,Rio de Janeiro,11.65,20,0.25,Laura Lopes
+2023-04-10,Feijão,Alimentos,Loja B,São Paulo,43.02,18,0.14,Isadora Gomes
+2023-10-09,Feijão,Alimentos,Loja C,São Paulo,14.78,7,0.22,Vitória Dias
+2023-09-07,Refrigerante,Bebidas,Loja C,Rio de Janeiro,34.55,8,0.03,Maria Eduarda Farias
+2023-11-14,Feijão,Alimentos,Loja B,Curitiba,25.84,11,0.18,Marina Silveira
+2023-06-06,Macarrão,Alimentos,Loja B,Curitiba,40.96,14,0.05,Dra. Beatriz Moura
+2023-06-10,Sabonete,Higiene,Loja B,Belo Horizonte,16.0,12,0.04,Juliana Gomes
+2023-06-19,Leite,Laticínios,Loja D,Belo Horizonte,19.86,10,0.15,Sr. Miguel Moura
+2023-02-25,Detergente,Limpeza,Loja A,Curitiba,43.36,5,0.27,Cauã Aragão
+2023-04-11,Café,Bebidas,Loja A,São Paulo,44.93,17,0.19,Leonardo Dias
+2023-10-25,Macarrão,Alimentos,Loja D,Rio de Janeiro,45.6,18,0.08,Letícia da Cruz
+2023-10-04,Leite,Laticínios,Loja B,Curitiba,21.45,19,0.22,Ana Beatriz Nogueira
+2023-05-29,Detergente,Limpeza,Loja D,São Paulo,21.65,17,0.0,Catarina Pinto
+2023-05-03,Macarrão,Alimentos,Loja B,Rio de Janeiro,23.97,6,0.17,João Guilherme Dias
+2023-10-17,Detergente,Limpeza,Loja D,Curitiba,4.9,16,0.07,Marcelo Gomes
+2023-05-16,Refrigerante,Bebidas,Loja B,São Paulo,34.42,17,0.27,Milena Souza
+2023-07-04,Papel Higiênico,Higiene,Loja D,Belo Horizonte,44.43,2,0.29,Sr. Caio da Conceição
+2023-06-15,Feijão,Alimentos,Loja C,Curitiba,30.2,19,0.05,Ana Beatriz Melo
+2023-12-01,Papel Higiênico,Higiene,Loja C,São Paulo,27.28,13,0.29,Luiz Otávio das Neves
+2023-04-25,Queijo,Laticínios,Loja D,Curitiba,41.41,12,0.15,Esther Peixoto
+2023-09-04,Macarrão,Alimentos,Loja A,Rio de Janeiro,23.68,8,0.02,Dra. Esther Teixeira
+2023-11-26,Café,Bebidas,Loja B,Rio de Janeiro,11.78,12,0.18,Sr. Isaac Silveira
+2023-03-02,Sabonete,Higiene,Loja D,Curitiba,36.85,16,0.2,Cauê da Luz
+2023-09-03,Sabonete,Higiene,Loja B,Belo Horizonte,4.05,2,0.04,Ian Freitas
+2023-10-31,Detergente,Limpeza,Loja B,São Paulo,44.87,5,0.02,Paulo Cunha
+2023-05-13,Detergente,Limpeza,Loja D,São Paulo,44.29,10,0.28,Marina Cardoso
+2023-04-21,Leite,Laticínios,Loja D,Belo Horizonte,11.02,14,0.18,Paulo Nascimento
+2023-10-26,Detergente,Limpeza,Loja C,Rio de Janeiro,37.04,11,0.28,Bernardo Gomes
+2023-11-02,Macarrão,Alimentos,Loja A,Rio de Janeiro,20.78,5,0.03,Sarah Jesus
+2023-04-14,Queijo,Laticínios,Loja D,Rio de Janeiro,31.46,6,0.14,Bernardo Moura
+2023-11-11,Macarrão,Alimentos,Loja A,São Paulo,7.38,5,0.27,Luiz Henrique Araújo
+2023-10-04,Arroz,Alimentos,Loja D,Belo Horizonte,20.41,2,0.21,Agatha Moreira
+2023-08-08,Sabonete,Higiene,Loja D,Belo Horizonte,19.47,19,0.03,Pedro Pinto
+2023-03-10,Café,Bebidas,Loja D,Rio de Janeiro,45.77,3,0.08,Raul Lima
+2023-10-06,Papel Higiênico,Higiene,Loja C,Rio de Janeiro,3.26,1,0.17,Thomas Cardoso
+2023-03-02,Queijo,Laticínios,Loja A,Belo Horizonte,33.76,11,0.12,Emanuel Souza
+2023-02-24,Detergente,Limpeza,Loja D,Curitiba,15.28,18,0.13,Dr. Leandro Pereira
+2023-07-07,Macarrão,Alimentos,Loja C,Belo Horizonte,38.48,14,0.17,Eduardo Teixeira
+2023-10-13,Leite,Laticínios,Loja B,Curitiba,29.28,16,0.08,Maria Fernandes
+2023-06-07,Macarrão,Alimentos,Loja C,Belo Horizonte,37.58,4,0.22,Carolina Nunes
+2023-08-17,Detergente,Limpeza,Loja A,Rio de Janeiro,26.89,11,0.24,Stephany Souza
+2023-11-11,Arroz,Alimentos,Loja B,Belo Horizonte,48.33,1,0.24,Dra. Stella Moraes
+2023-03-16,Leite,Laticínios,Loja D,São Paulo,6.01,8,0.11,João Lucas Araújo
+2023-11-08,Arroz,Alimentos,Loja D,Belo Horizonte,31.86,17,0.09,Maria Barros
+2023-11-02,Arroz,Alimentos,Loja B,Belo Horizonte,23.63,7,0.26,Marcelo Monteiro
+2023-09-23,Café,Bebidas,Loja B,São Paulo,39.85,17,0.15,Isaac Silva
+2023-04-29,Macarrão,Alimentos,Loja B,São Paulo,19.91,1,0.29,Yuri Caldeira
+2023-02-14,Café,Bebidas,Loja D,Curitiba,34.47,13,0.18,Diogo Rodrigues
+2023-09-23,Arroz,Alimentos,Loja A,São Paulo,28.83,18,0.27,Thales da Cunha
+2023-06-28,Refrigerante,Bebidas,Loja C,Rio de Janeiro,31.5,7,0.14,Emilly Correia
+2023-07-26,Macarrão,Alimentos,Loja A,Curitiba,11.23,17,0.03,João Gabriel da Conceição
+2023-02-07,Queijo,Laticínios,Loja C,Curitiba,47.51,17,0.29,Lucas Gabriel Rodrigues
+2023-10-03,Macarrão,Alimentos,Loja C,Belo Horizonte,48.4,19,0.15,Joaquim Freitas
+2023-05-05,Refrigerante,Bebidas,Loja D,Belo Horizonte,45.14,1,0.14,Letícia da Rocha
+2023-05-13,Feijão,Alimentos,Loja D,Rio de Janeiro,34.81,8,0.24,Catarina Farias
+2023-07-31,Refrigerante,Bebidas,Loja A,Curitiba,14.67,3,0.12,Maria Fernanda Sales
+2023-06-25,Feijão,Alimentos,Loja B,Belo Horizonte,17.75,7,0.27,Agatha Costela
+2023-05-18,Detergente,Limpeza,Loja B,Belo Horizonte,37.64,8,0.22,Felipe Lima
+2023-05-16,Sabonete,Higiene,Loja B,Rio de Janeiro,42.24,20,0.11,Pedro Peixoto
+2023-02-24,Feijão,Alimentos,Loja A,Belo Horizonte,31.85,18,0.29,Gustavo Souza
+2023-09-04,Refrigerante,Bebidas,Loja C,Belo Horizonte,45.21,19,0.26,Eduardo Lopes
+2023-09-09,Detergente,Limpeza,Loja C,Belo Horizonte,13.44,19,0.04,Sr. Juan Monteiro
+2023-09-27,Papel Higiênico,Higiene,Loja D,São Paulo,26.62,13,0.26,Gustavo Henrique Gonçalves
+2023-03-31,Leite,Laticínios,Loja A,Belo Horizonte,17.84,1,0.0,Daniela Oliveira
+2023-04-18,Papel Higiênico,Higiene,Loja A,Curitiba,20.0,9,0.06,Anthony Viana
+2023-05-15,Sabonete,Higiene,Loja C,Belo Horizonte,48.05,11,0.11,Lorena Novaes
+2023-09-13,Papel Higiênico,Higiene,Loja B,Belo Horizonte,35.93,12,0.11,Augusto Costela
+2023-07-25,Café,Bebidas,Loja D,Rio de Janeiro,29.86,19,0.21,Dr. Raul Mendes
+2023-02-21,Café,Bebidas,Loja B,Belo Horizonte,43.25,7,0.04,Sr. Leonardo Moura
+2023-03-18,Leite,Laticínios,Loja A,Rio de Janeiro,22.81,5,0.3,Enzo Moreira
+2023-11-19,Queijo,Laticínios,Loja C,Belo Horizonte,17.1,18,0.26,Lara Teixeira
+2023-01-25,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,5.82,9,0.14,Yuri Nascimento
+2023-11-19,Feijão,Alimentos,Loja D,Curitiba,15.21,12,0.17,Igor Araújo
+2023-05-12,Refrigerante,Bebidas,Loja A,Belo Horizonte,8.7,20,0.06,Raul Nunes
+2023-10-22,Queijo,Laticínios,Loja B,Curitiba,19.69,17,0.15,Olivia da Paz
+2023-08-17,Feijão,Alimentos,Loja D,Curitiba,24.8,5,0.26,Luna Pereira
+2023-11-24,Refrigerante,Bebidas,Loja D,Belo Horizonte,42.9,3,0.02,Yuri Campos
+2023-06-25,Sabonete,Higiene,Loja C,Curitiba,33.69,9,0.18,Caio Almeida
+2023-07-22,Café,Bebidas,Loja D,Curitiba,38.15,17,0.29,Joaquim da Rosa
+2023-07-31,Detergente,Limpeza,Loja B,São Paulo,8.88,8,0.2,Lavínia Pires
+2023-12-25,Feijão,Alimentos,Loja B,Rio de Janeiro,21.66,4,0.02,Emilly Silva
+2023-08-31,Queijo,Laticínios,Loja A,São Paulo,39.23,17,0.23,Melissa Teixeira
+2023-02-12,Feijão,Alimentos,Loja C,Rio de Janeiro,6.96,13,0.09,Maria Eduarda da Luz
+2023-05-07,Café,Bebidas,Loja D,Rio de Janeiro,9.17,6,0.01,Manuela da Rosa
+2023-12-06,Refrigerante,Bebidas,Loja C,Belo Horizonte,24.96,18,0.28,Alana Cardoso
+2023-10-08,Leite,Laticínios,Loja B,Rio de Janeiro,30.77,15,0.19,Beatriz Pires
+2023-11-22,Macarrão,Alimentos,Loja D,Curitiba,45.72,16,0.16,Nathan Cardoso
+2023-02-15,Leite,Laticínios,Loja C,Curitiba,22.37,5,0.09,Letícia Monteiro
+2023-01-01,Queijo,Laticínios,Loja B,Curitiba,16.48,18,0.0,João Pedro Fernandes
+2023-09-09,Leite,Laticínios,Loja C,São Paulo,39.0,10,0.18,Luna Aragão
+2023-01-04,Queijo,Laticínios,Loja C,Rio de Janeiro,22.35,18,0.13,Nathan Peixoto
+2023-05-08,Detergente,Limpeza,Loja D,Belo Horizonte,13.37,3,0.13,Sra. Marina da Costa
+2023-05-03,Queijo,Laticínios,Loja C,Curitiba,33.48,18,0.24,Guilherme Dias
+2023-07-31,Sabonete,Higiene,Loja A,Rio de Janeiro,9.42,4,0.19,Dra. Juliana Araújo
+2023-11-13,Leite,Laticínios,Loja C,Belo Horizonte,11.83,1,0.05,Bruno Freitas
+2023-10-01,Arroz,Alimentos,Loja B,São Paulo,16.26,5,0.21,Dra. Agatha Barros
+2023-01-05,Sabonete,Higiene,Loja A,Rio de Janeiro,3.69,7,0.1,Alice Martins
+2023-06-09,Leite,Laticínios,Loja C,Belo Horizonte,35.76,2,0.1,Luiz Gustavo Carvalho
+2023-03-16,Arroz,Alimentos,Loja C,Belo Horizonte,6.36,16,0.05,Dr. Vinicius Novaes
+2023-05-09,Papel Higiênico,Higiene,Loja A,São Paulo,48.81,8,0.12,João Pedro Ribeiro
+2023-08-15,Sabonete,Higiene,Loja A,Rio de Janeiro,24.66,4,0.16,Ana Vitória Peixoto
+2023-04-17,Leite,Laticínios,Loja D,Curitiba,47.0,6,0.19,Srta. Stephany Nunes
+2023-01-22,Queijo,Laticínios,Loja A,Curitiba,25.62,10,0.06,Natália da Cunha
+2023-01-27,Sabonete,Higiene,Loja A,Rio de Janeiro,32.75,11,0.0,Dra. Ana Sophia Nascimento
+2023-05-22,Macarrão,Alimentos,Loja A,Belo Horizonte,40.09,1,0.29,João Miguel Martins
+2023-10-25,Leite,Laticínios,Loja B,Curitiba,39.23,8,0.05,Lorena Silveira
+2023-02-16,Macarrão,Alimentos,Loja C,São Paulo,5.81,5,0.21,Davi Lucca Araújo
+2023-02-24,Detergente,Limpeza,Loja D,Rio de Janeiro,17.89,18,0.24,Sra. Brenda da Mata
+2023-06-27,Leite,Laticínios,Loja B,São Paulo,35.39,12,0.22,Maria Eduarda Martins
+2023-05-09,Arroz,Alimentos,Loja D,Belo Horizonte,29.27,18,0.21,Rafaela Ribeiro
+2023-04-08,Macarrão,Alimentos,Loja B,Curitiba,18.21,15,0.08,Lívia Gomes
+2023-11-03,Queijo,Laticínios,Loja B,São Paulo,27.96,15,0.09,Srta. Maria Luiza das Neves
+2023-05-15,Queijo,Laticínios,Loja C,Belo Horizonte,3.03,17,0.11,João Miguel Fernandes
+2023-04-05,Arroz,Alimentos,Loja C,Rio de Janeiro,18.07,3,0.2,Maria Clara Correia
+2023-10-03,Papel Higiênico,Higiene,Loja B,Belo Horizonte,38.99,5,0.18,Sra. Milena Castro
+2023-06-15,Papel Higiênico,Higiene,Loja C,São Paulo,7.52,3,0.01,Lorena Barbosa
+2023-03-08,Detergente,Limpeza,Loja A,Rio de Janeiro,8.03,7,0.03,Nicole Barros
+2023-10-20,Papel Higiênico,Higiene,Loja D,Curitiba,5.31,8,0.18,Dr. Pedro Lucas Souza
+2023-02-06,Arroz,Alimentos,Loja B,Belo Horizonte,46.63,3,0.14,Maria Luiza Silveira
+2023-11-24,Arroz,Alimentos,Loja C,Belo Horizonte,41.64,2,0.25,Maria Clara Cunha
+2023-05-17,Queijo,Laticínios,Loja A,São Paulo,42.22,3,0.28,Davi Barros
+2023-09-23,Feijão,Alimentos,Loja A,Rio de Janeiro,27.99,7,0.06,Raul Aragão
+2023-12-03,Sabonete,Higiene,Loja B,Belo Horizonte,38.07,19,0.11,Dra. Ana Carolina Freitas
+2023-08-23,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,40.25,18,0.12,Pedro Correia
+2023-06-22,Detergente,Limpeza,Loja D,Curitiba,45.42,18,0.3,Joaquim Costela
+2023-06-16,Refrigerante,Bebidas,Loja D,Belo Horizonte,41.83,11,0.18,Marcos Vinicius Barbosa
+2023-10-16,Queijo,Laticínios,Loja B,Belo Horizonte,38.99,9,0.11,Luiz Felipe da Luz
+2023-08-20,Leite,Laticínios,Loja D,São Paulo,37.14,10,0.18,Maria Julia Dias
+2023-09-23,Detergente,Limpeza,Loja C,São Paulo,17.12,8,0.06,Ana Clara Azevedo
+2023-06-11,Arroz,Alimentos,Loja C,Rio de Janeiro,7.43,15,0.11,Ana Luiza Vieira
+2023-03-12,Café,Bebidas,Loja C,Rio de Janeiro,13.95,10,0.03,Emanuelly Almeida
+2023-07-24,Macarrão,Alimentos,Loja B,São Paulo,37.01,16,0.05,Kamilly da Rosa
+2023-12-20,Macarrão,Alimentos,Loja A,Curitiba,4.76,19,0.11,Thiago das Neves
+2023-01-29,Refrigerante,Bebidas,Loja C,Belo Horizonte,22.58,4,0.26,Laís Lima
+2023-04-27,Macarrão,Alimentos,Loja A,Belo Horizonte,5.54,17,0.01,Noah Mendes
+2023-10-04,Macarrão,Alimentos,Loja B,Curitiba,26.61,8,0.05,Fernando da Luz
+2023-12-11,Papel Higiênico,Higiene,Loja D,São Paulo,13.44,10,0.24,Luiz Gustavo das Neves
+2023-03-17,Detergente,Limpeza,Loja C,São Paulo,25.37,2,0.16,Juliana Pinto
+2023-05-15,Feijão,Alimentos,Loja D,Belo Horizonte,39.37,5,0.23,Noah Silveira
+2023-09-04,Queijo,Laticínios,Loja B,Belo Horizonte,21.58,19,0.06,Gabriela Nunes
+2023-11-12,Queijo,Laticínios,Loja B,Rio de Janeiro,6.37,14,0.1,Luiz Otávio Vieira
+2023-10-22,Feijão,Alimentos,Loja A,Belo Horizonte,22.91,12,0.06,Amanda Barros
+2023-06-26,Macarrão,Alimentos,Loja A,Curitiba,10.95,12,0.18,Luiz Felipe Barros
+2023-08-15,Macarrão,Alimentos,Loja B,Belo Horizonte,5.11,8,0.06,Vitor Castro
+2023-07-11,Detergente,Limpeza,Loja A,São Paulo,37.76,8,0.28,Luana da Rosa
+2023-03-17,Café,Bebidas,Loja A,Curitiba,35.61,4,0.09,Augusto Souza
+2023-08-30,Arroz,Alimentos,Loja C,Rio de Janeiro,37.78,7,0.06,Caroline Ferreira
+2023-09-25,Café,Bebidas,Loja D,Rio de Janeiro,35.67,1,0.11,Sr. Luiz Felipe Pires
+2023-12-06,Queijo,Laticínios,Loja A,Curitiba,11.01,10,0.06,Isaac Farias
+2023-12-23,Macarrão,Alimentos,Loja C,São Paulo,24.85,1,0.02,Lívia da Cruz
+2023-12-05,Café,Bebidas,Loja C,São Paulo,3.9,13,0.07,Arthur da Luz
+2023-07-14,Queijo,Laticínios,Loja A,Curitiba,25.78,20,0.16,Lorenzo Duarte
+2023-04-06,Sabonete,Higiene,Loja D,São Paulo,4.87,17,0.09,Sophie Nunes
+2023-09-08,Papel Higiênico,Higiene,Loja B,São Paulo,19.3,12,0.11,Ana Luiza Peixoto
+2023-06-04,Sabonete,Higiene,Loja C,São Paulo,32.41,13,0.27,Dra. Melissa Cavalcanti
+2023-01-16,Queijo,Laticínios,Loja C,Rio de Janeiro,10.13,13,0.2,Felipe Nascimento
+2023-02-14,Papel Higiênico,Higiene,Loja B,Belo Horizonte,14.3,5,0.13,Vinicius da Rocha
+2023-06-09,Macarrão,Alimentos,Loja C,Belo Horizonte,28.48,7,0.2,Ana Luiza Azevedo
+2023-10-25,Queijo,Laticínios,Loja B,Rio de Janeiro,17.52,17,0.27,Sra. Clarice da Costa
+2023-08-09,Detergente,Limpeza,Loja B,Curitiba,6.19,18,0.28,Cauã da Rosa
+2023-03-02,Detergente,Limpeza,Loja C,Rio de Janeiro,37.17,11,0.26,Luigi Dias
+2023-07-31,Papel Higiênico,Higiene,Loja C,Belo Horizonte,38.04,9,0.05,Vinicius Duarte
+2023-04-07,Feijão,Alimentos,Loja B,Rio de Janeiro,4.23,20,0.19,Bárbara Caldeira
+2023-11-07,Macarrão,Alimentos,Loja B,Rio de Janeiro,13.85,1,0.11,Thales Correia
+2023-12-19,Leite,Laticínios,Loja B,Belo Horizonte,36.46,12,0.06,Diogo Porto
+2023-07-18,Leite,Laticínios,Loja D,Rio de Janeiro,10.7,8,0.01,Thiago Martins
+2023-01-08,Café,Bebidas,Loja D,Rio de Janeiro,37.89,7,0.23,Heitor Mendes
+2023-02-03,Detergente,Limpeza,Loja D,Belo Horizonte,35.33,15,0.27,Luigi Oliveira
+2023-08-07,Papel Higiênico,Higiene,Loja A,Belo Horizonte,36.85,13,0.18,Kaique Azevedo
+2023-10-20,Macarrão,Alimentos,Loja A,São Paulo,24.23,2,0.26,Emilly Peixoto
+2023-05-06,Queijo,Laticínios,Loja D,São Paulo,29.21,17,0.23,Srta. Maria Luiza Cavalcanti
+2023-01-26,Sabonete,Higiene,Loja C,Belo Horizonte,21.71,10,0.23,Cauã Carvalho
+2023-05-27,Leite,Laticínios,Loja B,Belo Horizonte,16.84,2,0.21,Sophia Vieira
+2023-03-14,Leite,Laticínios,Loja D,São Paulo,36.96,4,0.05,João Lucas Porto
+2023-10-27,Queijo,Laticínios,Loja B,Belo Horizonte,22.44,15,0.01,Laura Viana
+2023-08-21,Macarrão,Alimentos,Loja B,Belo Horizonte,7.24,11,0.21,Alexia Almeida
+2023-12-31,Detergente,Limpeza,Loja A,São Paulo,8.37,15,0.19,Kevin Martins
+2023-02-13,Queijo,Laticínios,Loja D,Rio de Janeiro,20.8,13,0.01,Maysa Campos
+2023-03-29,Refrigerante,Bebidas,Loja B,Rio de Janeiro,43.83,6,0.23,Mariana da Costa
+2023-01-27,Papel Higiênico,Higiene,Loja C,Curitiba,37.32,15,0.09,Srta. Amanda Martins
+2023-04-03,Feijão,Alimentos,Loja B,Rio de Janeiro,3.17,9,0.0,Ryan Castro
+2023-09-12,Leite,Laticínios,Loja A,Belo Horizonte,14.18,19,0.2,Gabrielly Costela
+2023-08-21,Papel Higiênico,Higiene,Loja D,São Paulo,31.26,1,0.07,Vitor Gabriel Castro
+2023-10-08,Café,Bebidas,Loja B,São Paulo,11.69,2,0.2,Raquel Sales
+2023-01-19,Detergente,Limpeza,Loja A,Curitiba,18.56,3,0.01,Leonardo Caldeira
+2023-08-02,Detergente,Limpeza,Loja B,Curitiba,31.72,20,0.17,Ana Júlia Moura
+2023-10-15,Detergente,Limpeza,Loja D,Curitiba,46.78,3,0.23,Luiz Miguel Nunes
+2023-06-15,Refrigerante,Bebidas,Loja D,São Paulo,38.65,18,0.02,Alícia Barros
+2023-08-30,Detergente,Limpeza,Loja A,Curitiba,18.47,14,0.16,Sra. Sarah Cunha
+2023-12-23,Sabonete,Higiene,Loja A,São Paulo,29.85,17,0.3,Olivia Lopes
+2023-09-05,Macarrão,Alimentos,Loja C,Belo Horizonte,31.62,11,0.08,Clara Alves
+2023-10-22,Macarrão,Alimentos,Loja C,Rio de Janeiro,31.87,16,0.16,Luiz Gustavo Farias
+2023-11-20,Leite,Laticínios,Loja D,Rio de Janeiro,44.53,8,0.21,André da Conceição
+2023-04-10,Arroz,Alimentos,Loja A,São Paulo,24.85,4,0.22,Marcos Vinicius da Costa
+2023-04-17,Macarrão,Alimentos,Loja D,Belo Horizonte,5.14,12,0.17,Matheus Castro
+2023-11-23,Sabonete,Higiene,Loja A,Rio de Janeiro,35.43,9,0.24,Ana Beatriz da Costa
+2023-06-07,Café,Bebidas,Loja C,São Paulo,8.35,11,0.1,Sra. Isabella Ramos
+2023-10-19,Macarrão,Alimentos,Loja A,Rio de Janeiro,12.12,11,0.28,Davi Farias
+2023-09-03,Leite,Laticínios,Loja A,Rio de Janeiro,25.63,15,0.27,Valentina Jesus
+2023-10-02,Refrigerante,Bebidas,Loja D,Belo Horizonte,46.61,2,0.25,Raquel das Neves
+2023-06-03,Macarrão,Alimentos,Loja C,São Paulo,12.79,11,0.24,Lorenzo da Paz
+2023-07-01,Feijão,Alimentos,Loja B,Curitiba,42.51,11,0.3,Srta. Nina Carvalho
+2023-11-17,Queijo,Laticínios,Loja B,Belo Horizonte,11.81,4,0.26,Dr. Enzo Barros
+2023-06-07,Refrigerante,Bebidas,Loja A,Curitiba,22.45,16,0.26,Thomas Duarte
+2023-07-10,Leite,Laticínios,Loja C,Rio de Janeiro,27.68,6,0.03,Lavínia Cardoso
+2023-01-20,Sabonete,Higiene,Loja A,Belo Horizonte,26.78,16,0.27,Enrico Cardoso
+2023-03-20,Sabonete,Higiene,Loja C,Belo Horizonte,37.42,17,0.09,Vitória Silva
+2023-06-17,Detergente,Limpeza,Loja A,Rio de Janeiro,12.64,2,0.14,Dra. Isabelly Teixeira
+2023-09-25,Feijão,Alimentos,Loja A,Curitiba,46.82,20,0.26,Pedro Henrique Gomes
+2023-06-20,Leite,Laticínios,Loja A,São Paulo,27.47,10,0.01,Mirella Costa
+2023-06-09,Sabonete,Higiene,Loja C,Rio de Janeiro,12.05,9,0.16,Ryan Mendes
+2023-08-14,Feijão,Alimentos,Loja C,Rio de Janeiro,10.4,4,0.0,Larissa da Costa
+2023-11-15,Queijo,Laticínios,Loja A,Rio de Janeiro,28.5,18,0.1,Maria Alice Porto
+2023-03-14,Café,Bebidas,Loja B,Rio de Janeiro,6.35,20,0.27,Guilherme Lopes
+2023-10-04,Leite,Laticínios,Loja A,Rio de Janeiro,4.36,2,0.03,Bernardo Costela
+2023-01-28,Feijão,Alimentos,Loja D,Belo Horizonte,11.41,20,0.27,Ana Vitória Santos
+2023-11-19,Leite,Laticínios,Loja C,Curitiba,18.62,7,0.21,Gabriel Caldeira
+2023-12-10,Queijo,Laticínios,Loja A,Belo Horizonte,29.69,3,0.24,Sra. Elisa Jesus
+2023-12-24,Leite,Laticínios,Loja A,Belo Horizonte,17.59,15,0.14,Guilherme Silveira
+2023-04-25,Detergente,Limpeza,Loja C,Curitiba,21.43,11,0.24,Thales Costa
+2023-06-16,Leite,Laticínios,Loja D,São Paulo,6.07,4,0.11,Danilo Rezende
+2023-08-25,Detergente,Limpeza,Loja C,Curitiba,31.41,5,0.15,Alícia Costela
+2023-07-27,Feijão,Alimentos,Loja C,São Paulo,40.24,18,0.14,Ryan Vieira
+2023-10-30,Papel Higiênico,Higiene,Loja B,Rio de Janeiro,28.75,16,0.12,Lívia Freitas
+2023-06-24,Sabonete,Higiene,Loja D,Belo Horizonte,29.66,11,0.16,Srta. Julia Farias
+2023-05-01,Detergente,Limpeza,Loja A,Belo Horizonte,8.37,20,0.14,Olivia Oliveira
+2023-10-12,Feijão,Alimentos,Loja D,Rio de Janeiro,17.48,13,0.02,Raul da Mota
+2023-02-25,Macarrão,Alimentos,Loja D,Curitiba,26.23,2,0.03,Davi Azevedo
+2023-03-13,Macarrão,Alimentos,Loja A,Rio de Janeiro,34.06,15,0.16,João Gabriel Gomes
+2023-07-19,Macarrão,Alimentos,Loja D,Rio de Janeiro,12.67,11,0.09,Bruna Novaes
+2023-12-14,Café,Bebidas,Loja D,Curitiba,49.54,19,0.0,Beatriz Castro
+2023-09-19,Papel Higiênico,Higiene,Loja B,Curitiba,5.93,18,0.29,Gabrielly Caldeira
+2023-01-01,Queijo,Laticínios,Loja C,São Paulo,43.48,1,0.07,Luiz Henrique Jesus
+2023-12-26,Macarrão,Alimentos,Loja D,Curitiba,36.45,13,0.11,Leandro Peixoto
+2023-10-07,Sabonete,Higiene,Loja B,Belo Horizonte,9.54,18,0.12,Srta. Stephany Aragão
+2023-07-04,Papel Higiênico,Higiene,Loja B,Curitiba,49.88,5,0.04,Ana Laura Mendes
+2023-02-06,Arroz,Alimentos,Loja B,Belo Horizonte,33.92,5,0.03,Emilly Fogaça
+2023-11-25,Papel Higiênico,Higiene,Loja D,Belo Horizonte,32.29,15,0.15,Davi Luiz Santos
+2023-10-10,Leite,Laticínios,Loja D,Curitiba,13.61,14,0.18,Julia Rocha
+2023-10-23,Leite,Laticínios,Loja B,Curitiba,22.31,18,0.17,Enzo Fernandes
+2023-01-18,Arroz,Alimentos,Loja D,Curitiba,8.32,16,0.29,Lucas Mendes
+2023-02-10,Detergente,Limpeza,Loja C,Belo Horizonte,27.3,17,0.27,Nina Teixeira
+2023-02-15,Sabonete,Higiene,Loja D,São Paulo,35.15,18,0.24,Agatha Aragão
+2023-06-09,Macarrão,Alimentos,Loja A,Curitiba,28.15,1,0.14,Stella da Costa
+2023-09-20,Leite,Laticínios,Loja C,Belo Horizonte,19.59,10,0.09,Arthur Dias
+2023-01-19,Macarrão,Alimentos,Loja C,Curitiba,5.89,16,0.17,Marcos Vinicius da Cruz
+2023-10-21,Arroz,Alimentos,Loja C,São Paulo,16.48,3,0.04,Sr. Fernando da Paz
+2023-02-09,Café,Bebidas,Loja C,Rio de Janeiro,31.94,9,0.26,João Miguel Mendes
+2023-01-08,Feijão,Alimentos,Loja B,Rio de Janeiro,33.98,12,0.24,Giovanna Alves
+2023-05-14,Sabonete,Higiene,Loja D,Rio de Janeiro,40.57,2,0.1,Marina Monteiro
+2023-02-13,Detergente,Limpeza,Loja B,Belo Horizonte,38.38,14,0.23,Dr. Antônio Cardoso
+2023-05-02,Leite,Laticínios,Loja B,Rio de Janeiro,30.15,12,0.02,Fernanda Melo
+2023-05-16,Feijão,Alimentos,Loja A,Rio de Janeiro,24.81,16,0.09,Davi Luiz Dias
+2023-09-30,Sabonete,Higiene,Loja D,Belo Horizonte,25.31,5,0.16,Sophia Cunha
+2023-08-11,Arroz,Alimentos,Loja C,Belo Horizonte,20.95,11,0.29,Srta. Vitória Oliveira
+2023-12-16,Arroz,Alimentos,Loja A,Curitiba,47.94,14,0.18,Elisa Santos
+2023-11-30,Café,Bebidas,Loja C,Curitiba,15.55,4,0.08,Stephany Correia
+2023-10-27,Papel Higiênico,Higiene,Loja D,Rio de Janeiro,37.51,19,0.23,Caio Jesus
+2023-09-24,Refrigerante,Bebidas,Loja B,Curitiba,28.74,1,0.25,Raquel Rocha
+2023-01-07,Papel Higiênico,Higiene,Loja A,São Paulo,35.22,12,0.07,Danilo Costela
+2023-05-26,Café,Bebidas,Loja B,São Paulo,4.11,3,0.02,Ana Vieira
+2023-11-01,Sabonete,Higiene,Loja A,São Paulo,7.06,20,0.04,Srta. Melissa Souza
+2023-12-03,Macarrão,Alimentos,Loja B,São Paulo,35.7,9,0.09,Julia Campos
+2023-12-05,Feijão,Alimentos,Loja D,Curitiba,39.16,11,0.08,Arthur Oliveira
+2023-02-07,Café,Bebidas,Loja A,Belo Horizonte,21.26,2,0.08,Renan das Neves
+2023-05-16,Detergente,Limpeza,Loja D,São Paulo,26.11,7,0.18,Maria Cecília da Mota
+2023-04-02,Leite,Laticínios,Loja A,Rio de Janeiro,28.41,14,0.07,Maria Alice Dias
+2023-11-26,Feijão,Alimentos,Loja D,Curitiba,7.85,3,0.02,Cecília Cardoso
+2023-05-09,Leite,Laticínios,Loja A,Belo Horizonte,10.0,1,0.28,Diego Cunha
+2023-12-07,Papel Higiênico,Higiene,Loja C,Rio de Janeiro,35.9,13,0.17,Milena Martins
+2023-09-21,Leite,Laticínios,Loja D,Belo Horizonte,21.98,3,0.16,Joaquim Souza
+2023-01-02,Papel Higiênico,Higiene,Loja D,São Paulo,29.66,12,0.1,Ana Beatriz Aragão
+2023-06-05,Papel Higiênico,Higiene,Loja A,São Paulo,20.17,11,0.02,Guilherme Nascimento
+2023-08-24,Café,Bebidas,Loja B,Rio de Janeiro,29.06,13,0.2,João Moraes
+2023-06-03,Papel Higiênico,Higiene,Loja A,Curitiba,25.87,15,0.22,Clara Rocha
+2023-03-13,Arroz,Alimentos,Loja B,São Paulo,36.83,19,0.07,Gustavo Cardoso
+2023-07-19,Feijão,Alimentos,Loja C,Belo Horizonte,28.1,15,0.29,Pedro Lucas Martins
+2023-01-09,Arroz,Alimentos,Loja C,São Paulo,18.87,2,0.12,Enrico Peixoto
+2023-04-19,Queijo,Laticínios,Loja D,Rio de Janeiro,37.83,8,0.28,Enzo Gabriel da Mota
+2023-01-19,Detergente,Limpeza,Loja D,São Paulo,25.15,20,0.01,Dra. Mariana Rezende
+2023-12-26,Detergente,Limpeza,Loja A,Rio de Janeiro,32.74,10,0.25,Pedro Henrique Fernandes
+2023-02-19,Leite,Laticínios,Loja B,São Paulo,41.44,4,0.03,Gabriel Souza
+2023-11-01,Macarrão,Alimentos,Loja B,São Paulo,40.81,14,0.1,Vicente Pinto
+2023-12-14,Papel Higiênico,Higiene,Loja C,São Paulo,48.87,19,0.16,Theo Silveira
+2023-06-14,Sabonete,Higiene,Loja A,Rio de Janeiro,18.77,4,0.08,Erick Peixoto
+2023-08-01,Detergente,Limpeza,Loja C,Rio de Janeiro,23.62,19,0.01,Nicolas da Costa
+2023-02-21,Macarrão,Alimentos,Loja D,Rio de Janeiro,3.73,16,0.02,Nathan Pereira
+2023-01-04,Detergente,Limpeza,Loja A,Curitiba,22.56,16,0.21,Maria Sophia da Mota
+2023-04-16,Detergente,Limpeza,Loja C,Belo Horizonte,22.37,6,0.18,Cecília Martins
+2023-01-20,Macarrão,Alimentos,Loja B,Belo Horizonte,31.77,3,0.19,Sr. Gustavo Oliveira
+2023-06-04,Refrigerante,Bebidas,Loja D,São Paulo,29.21,7,0.04,Marcos Vinicius Lima
+2023-09-29,Feijão,Alimentos,Loja C,Rio de Janeiro,24.82,7,0.08,Davi Lucca Barbosa
+2023-04-10,Feijão,Alimentos,Loja B,Belo Horizonte,26.38,6,0.2,Nathan Lima
+2023-01-23,Arroz,Alimentos,Loja C,Curitiba,12.85,9,0.1,Lucas Gabriel Gomes
+2023-08-21,Arroz,Alimentos,Loja A,São Paulo,46.47,6,0.05,Miguel Pereira
+2023-01-15,Leite,Laticínios,Loja A,São Paulo,45.07,15,0.18,Rafaela Pires
+2023-06-16,Papel Higiênico,Higiene,Loja B,Curitiba,13.81,4,0.1,Ian Cardoso
+2023-02-20,Sabonete,Higiene,Loja D,Rio de Janeiro,20.65,8,0.02,Luiz Gustavo Silva
+2023-10-27,Leite,Laticínios,Loja A,Belo Horizonte,9.81,20,0.14,Emanuella Costa
+2023-07-18,Refrigerante,Bebidas,Loja B,Belo Horizonte,36.83,12,0.29,Emilly Moreira
+2023-04-14,Refrigerante,Bebidas,Loja B,São Paulo,35.53,2,0.08,Augusto Fogaça
+2023-02-26,Leite,Laticínios,Loja D,Belo Horizonte,11.05,11,0.07,Pedro Lucas da Cunha
+2023-06-01,Macarrão,Alimentos,Loja B,Rio de Janeiro,30.17,18,0.26,Luiz Miguel da Conceição
+2023-02-14,Papel Higiênico,Higiene,Loja D,Rio de Janeiro,30.8,15,0.08,Sr. Vicente Fogaça
+2023-08-08,Sabonete,Higiene,Loja B,Curitiba,23.41,8,0.27,Ana Julia Sales
+2023-10-30,Detergente,Limpeza,Loja A,Belo Horizonte,49.07,2,0.3,Elisa Caldeira
+2023-09-16,Arroz,Alimentos,Loja D,Belo Horizonte,25.53,4,0.14,Carlos Eduardo Farias
+2023-05-04,Feijão,Alimentos,Loja A,Belo Horizonte,47.65,5,0.11,Isis Pinto
+2023-05-03,Feijão,Alimentos,Loja A,Belo Horizonte,34.44,6,0.21,Thomas Nascimento
+2023-10-20,Macarrão,Alimentos,Loja A,Belo Horizonte,24.8,5,0.26,Maria Fernanda Castro
+2023-07-27,Detergente,Limpeza,Loja C,Belo Horizonte,36.08,1,0.26,Dr. Miguel Monteiro
+2023-02-06,Papel Higiênico,Higiene,Loja C,São Paulo,16.94,9,0.21,Sra. Melissa da Mata
+2023-11-10,Queijo,Laticínios,Loja B,São Paulo,32.16,11,0.22,Dra. Melissa Moura
+2023-01-29,Queijo,Laticínios,Loja C,São Paulo,8.22,12,0.14,Dr. Luiz Gustavo Castro
+2023-01-21,Refrigerante,Bebidas,Loja C,Rio de Janeiro,33.46,3,0.17,Dra. Ana Sophia Nascimento
+2023-04-15,Detergente,Limpeza,Loja C,Rio de Janeiro,28.36,16,0.22,Dra. Maria Azevedo
+2023-10-25,Sabonete,Higiene,Loja B,Curitiba,19.58,9,0.15,Dra. Camila Santos
+2023-08-05,Café,Bebidas,Loja A,São Paulo,20.52,15,0.15,Joana Mendes
+2023-09-27,Feijão,Alimentos,Loja D,Curitiba,24.24,12,0.24,Pedro Henrique Silveira
+2023-12-21,Feijão,Alimentos,Loja B,Belo Horizonte,7.1,13,0.27,Theo Castro
+2023-05-28,Feijão,Alimentos,Loja A,Rio de Janeiro,15.97,5,0.15,Thomas Melo
+2023-04-15,Queijo,Laticínios,Loja A,Curitiba,22.58,18,0.28,Marcelo Viana
+2023-08-31,Refrigerante,Bebidas,Loja D,Belo Horizonte,37.67,1,0.09,Clarice Rodrigues
+2023-02-02,Arroz,Alimentos,Loja B,Curitiba,22.35,11,0.2,Marcela Vieira
+2023-06-17,Leite,Laticínios,Loja D,Belo Horizonte,17.29,5,0.27,Renan Caldeira
+2023-06-06,Detergente,Limpeza,Loja C,Rio de Janeiro,25.76,10,0.23,Paulo Melo
+2023-01-25,Detergente,Limpeza,Loja C,Curitiba,24.43,6,0.19,Sr. Ryan Viana
+2023-03-24,Queijo,Laticínios,Loja C,Rio de Janeiro,48.74,5,0.05,Sra. Natália Moura
+2023-03-01,Arroz,Alimentos,Loja C,Rio de Janeiro,23.72,12,0.06,Dr. João Nascimento
+2023-10-15,Arroz,Alimentos,Loja C,Curitiba,9.95,15,0.16,Dra. Isadora Ribeiro
+2023-03-25,Queijo,Laticínios,Loja C,São Paulo,46.26,13,0.28,Igor Teixeira
+2023-03-16,Leite,Laticínios,Loja C,Rio de Janeiro,3.2,18,0.29,Vitor Hugo Santos
+2023-06-19,Café,Bebidas,Loja D,Curitiba,48.57,19,0.2,Sra. Nicole Nunes
+2023-10-17,Leite,Laticínios,Loja C,São Paulo,37.39,2,0.04,Sr. Ian Monteiro
+2023-10-10,Feijão,Alimentos,Loja C,São Paulo,21.88,8,0.13,Srta. Kamilly da Costa
+2023-02-17,Refrigerante,Bebidas,Loja A,Rio de Janeiro,30.42,8,0.23,Bruna da Rosa
+2023-05-23,Sabonete,Higiene,Loja A,São Paulo,28.31,15,0.2,Melissa Martins
+2023-02-14,Queijo,Laticínios,Loja D,Rio de Janeiro,26.05,20,0.18,Isaac Almeida
+2023-01-29,Refrigerante,Bebidas,Loja D,Rio de Janeiro,36.65,14,0.11,João Gabriel da Costa
+2023-07-10,Arroz,Alimentos,Loja C,Curitiba,19.51,15,0.26,Daniela Barbosa
+2023-02-14,Sabonete,Higiene,Loja D,Belo Horizonte,40.77,10,0.05,Giovanna Barros
+2023-08-06,Papel Higiênico,Higiene,Loja B,São Paulo,9.75,10,0.14,Murilo Porto
+2023-09-26,Refrigerante,Bebidas,Loja A,Belo Horizonte,7.16,14,0.19,Dr. João Lucas Freitas
+2023-05-20,Papel Higiênico,Higiene,Loja B,Belo Horizonte,36.38,5,0.06,Ana Luiza Costela
+2023-07-15,Café,Bebidas,Loja D,São Paulo,41.67,10,0.25,Ana Julia Caldeira
+2023-06-05,Leite,Laticínios,Loja D,Rio de Janeiro,4.26,1,0.05,Sabrina Moura
+2023-06-03,Leite,Laticínios,Loja A,Curitiba,22.61,16,0.27,Gabriel Novaes
+2023-11-27,Sabonete,Higiene,Loja A,São Paulo,38.94,16,0.3,Maria Fernanda Souza
+2023-02-04,Macarrão,Alimentos,Loja C,Belo Horizonte,29.58,9,0.19,Gabriela Gonçalves
+2023-09-01,Feijão,Alimentos,Loja C,São Paulo,42.73,6,0.17,Dra. Maria Julia Fernandes
+2023-03-16,Refrigerante,Bebidas,Loja D,Rio de Janeiro,19.8,2,0.08,Murilo Novaes
+2023-08-03,Refrigerante,Bebidas,Loja A,Curitiba,16.71,3,0.15,Fernanda Ribeiro
+2023-11-18,Detergente,Limpeza,Loja A,Rio de Janeiro,28.55,11,0.25,Augusto Moreira
+2023-12-17,Café,Bebidas,Loja C,Curitiba,7.5,19,0.11,Agatha Cavalcanti
+2023-03-15,Arroz,Alimentos,Loja B,Curitiba,20.53,16,0.12,Sofia Lopes
+2023-03-25,Feijão,Alimentos,Loja B,Rio de Janeiro,26.66,7,0.24,Dr. Rodrigo Porto
+2023-10-14,Macarrão,Alimentos,Loja A,Belo Horizonte,24.64,3,0.03,Rebeca Almeida
+2023-03-09,Arroz,Alimentos,Loja D,Curitiba,17.64,12,0.04,Vicente Pinto
+2023-08-15,Macarrão,Alimentos,Loja C,Rio de Janeiro,36.37,1,0.22,Vinicius Araújo
+2023-03-02,Sabonete,Higiene,Loja B,Rio de Janeiro,35.34,10,0.04,Marina Silveira
+2023-03-08,Feijão,Alimentos,Loja D,São Paulo,6.65,16,0.23,Sophia Alves
+2023-01-22,Sabonete,Higiene,Loja A,São Paulo,40.27,17,0.18,Daniela Silveira
+2023-08-29,Feijão,Alimentos,Loja C,São Paulo,6.11,1,0.23,Bianca Campos
+2023-03-05,Macarrão,Alimentos,Loja B,Rio de Janeiro,11.68,12,0.01,Marcela Ribeiro
+2023-03-16,Café,Bebidas,Loja C,Curitiba,10.55,17,0.23,Dr. Rodrigo da Luz
+2023-11-10,Sabonete,Higiene,Loja A,São Paulo,41.52,1,0.16,Dr. Erick Campos
+2023-04-09,Café,Bebidas,Loja B,São Paulo,48.76,4,0.28,Francisco da Cruz
+2023-09-16,Leite,Laticínios,Loja C,Rio de Janeiro,23.66,4,0.05,Bruna Mendes
+2023-07-01,Papel Higiênico,Higiene,Loja D,Rio de Janeiro,27.17,14,0.03,Dra. Maria Alice Freitas
+2023-06-10,Feijão,Alimentos,Loja D,São Paulo,27.43,16,0.23,Marina Cavalcanti
+2023-12-27,Café,Bebidas,Loja A,São Paulo,18.42,4,0.12,Melissa Oliveira
+2023-08-22,Macarrão,Alimentos,Loja C,Belo Horizonte,13.62,14,0.09,Eloah Pereira
+2023-08-08,Sabonete,Higiene,Loja A,Belo Horizonte,47.14,12,0.05,Maria Sophia Alves
+2023-12-12,Leite,Laticínios,Loja A,Belo Horizonte,23.59,3,0.04,Felipe Correia
+2023-07-22,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,6.04,7,0.1,Heitor Teixeira
+2023-11-01,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,42.39,16,0.08,Ana Luiza Rezende
+2023-10-25,Macarrão,Alimentos,Loja C,Belo Horizonte,19.74,20,0.29,Kaique Nunes
+2023-09-06,Queijo,Laticínios,Loja C,Rio de Janeiro,39.1,4,0.04,João Miguel Caldeira
+2023-09-08,Leite,Laticínios,Loja B,Rio de Janeiro,4.4,2,0.25,Otávio Ribeiro
+2023-09-13,Arroz,Alimentos,Loja B,Belo Horizonte,31.42,11,0.05,Gustavo Henrique Novaes
+2023-11-15,Macarrão,Alimentos,Loja A,São Paulo,34.07,17,0.23,Vitor Gabriel Moura
+2023-08-27,Sabonete,Higiene,Loja C,Belo Horizonte,26.04,9,0.16,Pedro Miguel Pinto
+2023-10-04,Queijo,Laticínios,Loja A,São Paulo,49.56,4,0.12,Srta. Vitória Ferreira
+2023-06-11,Papel Higiênico,Higiene,Loja D,Belo Horizonte,4.69,6,0.17,Danilo Gomes
+2023-06-05,Detergente,Limpeza,Loja D,Belo Horizonte,9.32,13,0.15,Raquel Teixeira
+2023-02-26,Macarrão,Alimentos,Loja D,Belo Horizonte,25.37,6,0.15,Alícia Cardoso
+2023-07-20,Café,Bebidas,Loja D,Belo Horizonte,32.0,12,0.23,Murilo Ribeiro
+2023-05-26,Refrigerante,Bebidas,Loja A,São Paulo,30.75,5,0.25,Lucas Gabriel Pires
+2023-06-28,Macarrão,Alimentos,Loja A,Curitiba,20.89,14,0.1,Enzo Lopes
+2023-07-02,Papel Higiênico,Higiene,Loja C,São Paulo,34.08,8,0.07,Maria Julia Lima
+2023-06-09,Macarrão,Alimentos,Loja A,São Paulo,43.84,4,0.1,Maria Fernanda Correia
+2023-01-11,Queijo,Laticínios,Loja C,São Paulo,24.66,14,0.17,Dr. João Pedro Porto
+2023-08-04,Café,Bebidas,Loja A,Belo Horizonte,30.64,11,0.11,Dr. Pedro Henrique Santos
+2023-07-19,Refrigerante,Bebidas,Loja A,Belo Horizonte,7.7,7,0.1,Amanda Santos
+2023-09-15,Refrigerante,Bebidas,Loja B,Curitiba,20.08,14,0.06,Evelyn da Paz
+2023-11-22,Feijão,Alimentos,Loja B,Curitiba,15.46,10,0.3,Fernando Peixoto
+2023-07-25,Sabonete,Higiene,Loja A,São Paulo,30.82,9,0.02,Raquel Monteiro
+2023-09-29,Leite,Laticínios,Loja D,Rio de Janeiro,19.32,3,0.2,João Guilherme Pinto
+2023-06-04,Queijo,Laticínios,Loja C,Belo Horizonte,34.18,11,0.06,Sr. Antônio Cardoso
+2023-07-25,Café,Bebidas,Loja D,Rio de Janeiro,44.4,17,0.26,Sarah da Rocha
+2023-10-23,Leite,Laticínios,Loja B,Belo Horizonte,15.59,18,0.24,Antônio Peixoto
+2023-08-11,Macarrão,Alimentos,Loja A,Rio de Janeiro,20.12,5,0.07,Vinicius Caldeira
+2023-12-17,Café,Bebidas,Loja D,Belo Horizonte,17.98,3,0.19,Vitória Barbosa
+2023-07-31,Café,Bebidas,Loja C,Rio de Janeiro,15.05,20,0.07,Heitor Sales
+2023-05-03,Feijão,Alimentos,Loja B,Rio de Janeiro,4.3,10,0.14,Srta. Bianca Aragão
+2023-10-14,Papel Higiênico,Higiene,Loja D,São Paulo,12.49,9,0.04,Lavínia Nogueira
+2023-05-13,Café,Bebidas,Loja B,São Paulo,48.3,16,0.23,Beatriz Melo
+2023-01-29,Feijão,Alimentos,Loja C,Curitiba,43.76,14,0.27,Lívia Carvalho
+2023-12-10,Feijão,Alimentos,Loja D,Rio de Janeiro,14.09,19,0.22,Danilo Novaes
+2023-03-03,Queijo,Laticínios,Loja C,Belo Horizonte,44.57,8,0.18,Bruna Teixeira
+2023-06-10,Refrigerante,Bebidas,Loja D,Rio de Janeiro,46.97,7,0.04,Isaac da Cruz
+2023-03-31,Sabonete,Higiene,Loja C,Belo Horizonte,22.19,19,0.02,Alexandre Vieira
+2023-10-01,Refrigerante,Bebidas,Loja A,Curitiba,28.65,16,0.2,Luiz Gustavo Rodrigues
+2023-05-23,Detergente,Limpeza,Loja C,Belo Horizonte,36.64,10,0.01,Emanuella Pinto
+2023-11-07,Arroz,Alimentos,Loja A,Rio de Janeiro,14.89,13,0.09,Bryan Vieira
+2023-12-25,Refrigerante,Bebidas,Loja A,Rio de Janeiro,43.31,13,0.0,Srta. Larissa Duarte
+2023-07-21,Café,Bebidas,Loja C,São Paulo,47.01,8,0.09,Ana Carolina Gonçalves
+2023-03-24,Leite,Laticínios,Loja C,Belo Horizonte,40.1,9,0.26,João Lucas Nunes
+2023-09-09,Leite,Laticínios,Loja D,Curitiba,36.72,4,0.25,Sra. Alana Dias
+2023-12-24,Café,Bebidas,Loja A,Curitiba,22.78,18,0.22,Juliana da Mota
+2023-08-21,Arroz,Alimentos,Loja A,Rio de Janeiro,32.62,5,0.0,Dr. Gustavo Fogaça
+2023-04-13,Café,Bebidas,Loja C,São Paulo,8.21,8,0.15,Luigi Carvalho
+2023-11-29,Detergente,Limpeza,Loja D,Curitiba,24.22,5,0.08,Isabel da Rocha
+2023-12-18,Macarrão,Alimentos,Loja C,Curitiba,12.34,14,0.11,Dr. Diego Almeida
+2023-07-21,Papel Higiênico,Higiene,Loja B,São Paulo,47.56,18,0.19,Alícia da Costa
+2023-11-17,Sabonete,Higiene,Loja A,Belo Horizonte,12.32,6,0.01,Alice Rodrigues
+2023-11-13,Papel Higiênico,Higiene,Loja C,Rio de Janeiro,7.19,12,0.05,Rebeca Rezende
+2023-10-18,Feijão,Alimentos,Loja A,Belo Horizonte,39.35,15,0.25,Francisco Lopes
+2023-09-11,Feijão,Alimentos,Loja B,Rio de Janeiro,11.96,9,0.09,Cauê Monteiro
+2023-09-11,Papel Higiênico,Higiene,Loja B,Belo Horizonte,43.25,20,0.06,Miguel Mendes
+2023-05-25,Sabonete,Higiene,Loja D,Rio de Janeiro,22.2,5,0.01,Maria Luiza Martins
+2023-05-15,Sabonete,Higiene,Loja D,Rio de Janeiro,20.37,15,0.03,Enrico Moura
+2023-08-29,Detergente,Limpeza,Loja C,Belo Horizonte,35.28,13,0.21,Gabriela Moura
+2023-11-02,Café,Bebidas,Loja A,São Paulo,29.18,2,0.1,Calebe Nogueira
+2023-05-01,Leite,Laticínios,Loja C,São Paulo,3.25,17,0.19,Nina Jesus
+2023-06-04,Papel Higiênico,Higiene,Loja C,Rio de Janeiro,48.5,18,0.01,Juliana da Mota
+2023-04-02,Café,Bebidas,Loja B,Belo Horizonte,46.73,15,0.04,Manuela Alves
+2023-06-12,Queijo,Laticínios,Loja D,Rio de Janeiro,15.24,11,0.01,Danilo Pinto
+2023-03-07,Leite,Laticínios,Loja C,Curitiba,46.53,10,0.27,Dra. Maria Pereira
+2023-05-15,Macarrão,Alimentos,Loja C,Curitiba,23.48,6,0.09,Letícia Correia
+2023-09-09,Detergente,Limpeza,Loja D,São Paulo,11.88,2,0.07,Lavínia Araújo
+2023-01-19,Leite,Laticínios,Loja C,Rio de Janeiro,36.18,14,0.03,Lavínia Pinto
+2023-09-11,Arroz,Alimentos,Loja D,Curitiba,49.47,18,0.15,Emanuelly Dias
+2023-09-10,Feijão,Alimentos,Loja B,São Paulo,19.43,7,0.26,Ana Sophia Moura
+2023-04-03,Detergente,Limpeza,Loja C,Rio de Janeiro,30.43,1,0.16,Sr. Heitor Gomes
+2023-10-20,Detergente,Limpeza,Loja D,São Paulo,14.57,16,0.2,Sr. Diego Rezende
+2023-06-18,Arroz,Alimentos,Loja C,São Paulo,21.53,19,0.28,Kamilly Moreira
+2023-02-24,Refrigerante,Bebidas,Loja B,São Paulo,6.81,16,0.14,Gustavo Henrique Gonçalves
+2023-05-18,Macarrão,Alimentos,Loja A,Curitiba,48.58,20,0.29,Sr. Augusto Lima
+2023-06-16,Macarrão,Alimentos,Loja B,Rio de Janeiro,43.57,10,0.1,Pietra Ramos
+2023-01-29,Feijão,Alimentos,Loja D,São Paulo,21.75,6,0.07,Sr. Thales da Rosa
+2023-07-24,Feijão,Alimentos,Loja A,Rio de Janeiro,10.66,13,0.09,Luiz Felipe Cardoso
+2023-12-01,Detergente,Limpeza,Loja A,Curitiba,26.07,14,0.22,Danilo Aragão
+2023-06-08,Macarrão,Alimentos,Loja B,Curitiba,34.28,12,0.15,Maria Luiza Rocha
+2023-09-08,Leite,Laticínios,Loja D,Belo Horizonte,15.62,20,0.13,Laura Melo
+2023-08-05,Refrigerante,Bebidas,Loja B,Belo Horizonte,32.64,3,0.01,Sabrina Nunes
+2023-06-24,Leite,Laticínios,Loja B,Rio de Janeiro,46.74,17,0.19,Vicente Oliveira
+2023-09-26,Feijão,Alimentos,Loja C,Belo Horizonte,23.56,16,0.09,Benjamin Sales
+2023-03-07,Café,Bebidas,Loja B,Belo Horizonte,16.89,2,0.17,Lucca Oliveira
+2023-01-24,Queijo,Laticínios,Loja A,Belo Horizonte,22.41,15,0.2,Marcela Pires
+2023-10-19,Café,Bebidas,Loja C,Curitiba,30.52,17,0.0,Sra. Joana da Mota
+2023-12-05,Leite,Laticínios,Loja B,Rio de Janeiro,42.62,2,0.02,Dr. João Felipe Costela
+2023-12-27,Café,Bebidas,Loja C,Belo Horizonte,38.6,15,0.19,Isabel das Neves
+2023-05-16,Refrigerante,Bebidas,Loja B,Rio de Janeiro,11.7,20,0.08,Augusto Jesus
+2023-12-11,Feijão,Alimentos,Loja D,São Paulo,3.27,4,0.0,Matheus Vieira
+2023-12-02,Leite,Laticínios,Loja D,Belo Horizonte,43.83,20,0.22,Helena Teixeira
+2023-06-05,Macarrão,Alimentos,Loja C,Belo Horizonte,40.82,3,0.04,Alana Campos
+2023-01-08,Sabonete,Higiene,Loja A,São Paulo,35.71,7,0.26,Sra. Maria Luiza da Costa
+2023-04-18,Leite,Laticínios,Loja B,Rio de Janeiro,23.48,18,0.06,Fernanda Mendes
+2023-06-04,Leite,Laticínios,Loja B,Belo Horizonte,22.83,4,0.05,Noah Gomes
+2023-03-20,Leite,Laticínios,Loja D,Belo Horizonte,3.92,15,0.18,Yuri Ramos
+2023-04-14,Café,Bebidas,Loja D,São Paulo,18.69,4,0.19,Igor da Paz
+2023-08-10,Papel Higiênico,Higiene,Loja D,Curitiba,4.74,13,0.15,Gustavo Correia
+2023-10-30,Macarrão,Alimentos,Loja D,Rio de Janeiro,36.57,17,0.01,Maria Clara Carvalho
+2023-10-23,Refrigerante,Bebidas,Loja A,Curitiba,44.97,14,0.27,André Jesus
+2023-03-01,Leite,Laticínios,Loja C,Belo Horizonte,35.78,1,0.05,Ana Júlia Porto
+2023-04-09,Leite,Laticínios,Loja C,Belo Horizonte,13.91,8,0.18,Lavínia Monteiro
+2023-12-17,Refrigerante,Bebidas,Loja D,Rio de Janeiro,44.51,13,0.29,Alice Novaes
+2023-12-11,Refrigerante,Bebidas,Loja D,Rio de Janeiro,32.23,10,0.21,Sarah Caldeira
+2023-02-14,Leite,Laticínios,Loja B,Rio de Janeiro,12.38,20,0.15,Antônio Nunes
+2023-08-01,Leite,Laticínios,Loja C,Rio de Janeiro,12.84,2,0.3,Clarice Gomes
+2023-07-03,Café,Bebidas,Loja C,Rio de Janeiro,11.21,17,0.01,Yago Nascimento
+2023-02-02,Refrigerante,Bebidas,Loja D,São Paulo,32.03,4,0.17,Amanda da Luz
+2023-09-07,Café,Bebidas,Loja C,Curitiba,39.16,18,0.08,Isabella Silva
+2023-03-19,Queijo,Laticínios,Loja A,São Paulo,46.55,15,0.24,Joaquim Barros
+2023-02-26,Feijão,Alimentos,Loja A,São Paulo,26.84,6,0.19,Pietra Nunes
+2023-04-16,Refrigerante,Bebidas,Loja B,Curitiba,36.28,17,0.15,Ana Carolina Souza
+2023-02-20,Detergente,Limpeza,Loja C,Curitiba,41.5,4,0.25,Thales das Neves
+2023-08-13,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,42.24,16,0.1,Esther Porto
+2023-09-16,Detergente,Limpeza,Loja A,Curitiba,20.5,14,0.11,Pedro da Costa
+2023-12-07,Sabonete,Higiene,Loja B,Belo Horizonte,40.0,5,0.24,Yuri das Neves
+2023-07-31,Papel Higiênico,Higiene,Loja D,Curitiba,47.36,15,0.04,Emanuella Alves
+2023-01-06,Queijo,Laticínios,Loja A,São Paulo,18.9,13,0.29,Miguel Silva
+2023-03-26,Papel Higiênico,Higiene,Loja A,Belo Horizonte,38.68,5,0.27,Alícia da Rosa
+2023-01-30,Queijo,Laticínios,Loja C,Belo Horizonte,21.89,18,0.26,Nathan Costela
+2023-06-10,Refrigerante,Bebidas,Loja A,Curitiba,45.31,20,0.28,Lorena da Paz
+2023-12-25,Papel Higiênico,Higiene,Loja D,Rio de Janeiro,44.72,20,0.24,Dr. Benjamin Moura
+2023-11-30,Leite,Laticínios,Loja C,Belo Horizonte,39.44,10,0.03,Vitor Gabriel Rocha
+2023-10-03,Refrigerante,Bebidas,Loja D,Rio de Janeiro,27.46,18,0.09,Sr. Danilo Dias
+2023-02-17,Queijo,Laticínios,Loja C,Curitiba,38.58,6,0.01,Ana Júlia Silveira
+2023-10-04,Macarrão,Alimentos,Loja C,Rio de Janeiro,42.11,10,0.22,Dra. Beatriz Freitas
+2023-09-16,Feijão,Alimentos,Loja A,Curitiba,15.21,17,0.11,Davi Luiz da Conceição
+2023-01-25,Feijão,Alimentos,Loja D,Curitiba,29.9,1,0.14,Cauê Cunha
+2023-05-01,Macarrão,Alimentos,Loja B,Curitiba,17.06,19,0.2,Sr. Ian da Cunha
+2023-07-13,Queijo,Laticínios,Loja B,São Paulo,18.41,19,0.06,Luiz Miguel Barros
+2023-07-04,Leite,Laticínios,Loja A,Rio de Janeiro,36.45,14,0.02,Diogo Carvalho
+2023-02-01,Papel Higiênico,Higiene,Loja B,Belo Horizonte,13.09,3,0.11,Srta. Lorena Dias
+2023-09-27,Papel Higiênico,Higiene,Loja D,Curitiba,30.46,14,0.3,Yago das Neves
+2023-12-19,Leite,Laticínios,Loja D,Rio de Janeiro,9.78,5,0.15,João Guilherme Peixoto
+2023-08-23,Detergente,Limpeza,Loja A,Rio de Janeiro,24.41,2,0.22,Natália Cunha
+2023-10-14,Refrigerante,Bebidas,Loja A,Belo Horizonte,8.19,12,0.17,Gabriel Cavalcanti
+2023-01-21,Queijo,Laticínios,Loja B,São Paulo,20.46,12,0.09,Joana Santos
+2023-09-06,Arroz,Alimentos,Loja B,Rio de Janeiro,39.84,14,0.01,Bryan da Luz
+2023-06-06,Café,Bebidas,Loja B,Rio de Janeiro,41.5,16,0.0,Isabelly Cunha
+2023-10-08,Refrigerante,Bebidas,Loja A,São Paulo,22.63,19,0.09,Vinicius Teixeira
+2023-08-20,Refrigerante,Bebidas,Loja D,Belo Horizonte,42.22,20,0.04,Luiz Gustavo Costela
+2023-03-12,Queijo,Laticínios,Loja D,Belo Horizonte,34.36,5,0.26,Heitor Barbosa
+2023-06-16,Feijão,Alimentos,Loja D,Belo Horizonte,13.94,13,0.1,Benjamin Oliveira
+2023-01-24,Leite,Laticínios,Loja C,São Paulo,43.7,1,0.17,Pietra Farias
+2023-12-29,Café,Bebidas,Loja A,São Paulo,12.04,20,0.16,Anthony da Cunha
+2023-01-28,Macarrão,Alimentos,Loja B,Belo Horizonte,26.62,1,0.04,Eloah Nascimento
+2023-09-30,Detergente,Limpeza,Loja A,Curitiba,39.98,8,0.25,Brenda Campos
+2023-10-24,Leite,Laticínios,Loja A,Curitiba,21.88,2,0.15,João Lucas da Cruz
+2023-01-12,Refrigerante,Bebidas,Loja D,Rio de Janeiro,22.5,17,0.1,Antônio da Costa
+2023-05-12,Feijão,Alimentos,Loja A,São Paulo,28.46,10,0.04,Alana Cavalcanti
+2023-05-11,Feijão,Alimentos,Loja B,Curitiba,47.75,6,0.02,Alícia da Mata
+2023-06-16,Detergente,Limpeza,Loja A,São Paulo,17.01,4,0.1,Thomas Nunes
+2023-07-31,Refrigerante,Bebidas,Loja C,Belo Horizonte,47.25,4,0.02,Sra. Milena da Rocha
+2023-05-03,Macarrão,Alimentos,Loja B,Belo Horizonte,26.91,17,0.12,Davi Lucas Melo
+2023-02-28,Café,Bebidas,Loja A,Curitiba,24.85,14,0.02,Bryan Aragão
+2023-01-15,Papel Higiênico,Higiene,Loja B,São Paulo,15.65,19,0.2,Natália Mendes
+2023-05-07,Queijo,Laticínios,Loja B,Curitiba,29.71,15,0.03,Dr. Juan Fogaça
+2023-11-22,Queijo,Laticínios,Loja B,Rio de Janeiro,20.55,6,0.23,João Felipe Caldeira
+2023-10-03,Papel Higiênico,Higiene,Loja D,São Paulo,3.05,15,0.29,Bruno Moura
+2023-11-14,Café,Bebidas,Loja B,São Paulo,5.83,16,0.08,Maria Cecília Teixeira
+2023-05-09,Papel Higiênico,Higiene,Loja C,Rio de Janeiro,30.5,17,0.08,Dr. Kevin da Conceição
+2023-03-24,Queijo,Laticínios,Loja A,Curitiba,7.22,4,0.25,Alícia da Rocha
+2023-10-12,Café,Bebidas,Loja D,Rio de Janeiro,31.69,11,0.27,Rafaela Mendes
+2023-06-25,Café,Bebidas,Loja D,Curitiba,14.56,11,0.1,Giovanna Barbosa
+2023-08-24,Macarrão,Alimentos,Loja C,São Paulo,45.96,5,0.19,Giovanna Pereira
+2023-01-02,Macarrão,Alimentos,Loja D,São Paulo,45.37,6,0.12,Caroline Silveira
+2023-12-23,Leite,Laticínios,Loja D,São Paulo,40.0,3,0.16,Bryan Lima
+2023-12-10,Leite,Laticínios,Loja A,Curitiba,48.69,13,0.25,Otávio Oliveira
+2023-07-03,Papel Higiênico,Higiene,Loja B,São Paulo,8.86,12,0.28,Ana Carolina Costela
+2023-08-16,Arroz,Alimentos,Loja B,São Paulo,38.65,12,0.06,Daniel Aragão
+2023-11-11,Café,Bebidas,Loja B,Rio de Janeiro,49.07,12,0.01,Otávio Barbosa
+2023-09-10,Macarrão,Alimentos,Loja B,São Paulo,12.22,13,0.03,Beatriz das Neves
+2023-05-23,Macarrão,Alimentos,Loja D,Rio de Janeiro,28.93,19,0.2,Rafael Moreira
+2023-11-05,Macarrão,Alimentos,Loja B,São Paulo,30.64,3,0.04,Ana Clara da Mota
+2023-10-19,Sabonete,Higiene,Loja C,Rio de Janeiro,42.84,1,0.3,Sr. Noah da Luz
+2023-12-21,Queijo,Laticínios,Loja C,Belo Horizonte,3.09,14,0.19,Carolina Araújo
+2023-11-29,Arroz,Alimentos,Loja C,Belo Horizonte,42.68,14,0.08,Sra. Cecília Ferreira
+2023-12-15,Queijo,Laticínios,Loja D,Belo Horizonte,19.99,2,0.27,Lorenzo Jesus
+2023-04-25,Arroz,Alimentos,Loja C,Belo Horizonte,28.02,11,0.0,Ana Carolina Porto
+2023-04-10,Refrigerante,Bebidas,Loja A,São Paulo,49.54,8,0.29,Sofia Aragão
+2023-08-05,Feijão,Alimentos,Loja B,Rio de Janeiro,10.73,10,0.02,Felipe Pereira
+2023-11-17,Feijão,Alimentos,Loja A,Belo Horizonte,23.3,1,0.18,Lorena Silveira
+2023-11-17,Refrigerante,Bebidas,Loja C,Rio de Janeiro,8.07,8,0.29,Sophia Castro
+2023-01-28,Refrigerante,Bebidas,Loja B,São Paulo,39.46,20,0.13,Srta. Alana Rodrigues
+2023-02-18,Leite,Laticínios,Loja A,São Paulo,48.8,2,0.11,Lucas Gabriel Correia
+2023-12-22,Feijão,Alimentos,Loja B,São Paulo,46.2,15,0.02,Ana Luiza Santos
+2023-11-09,Papel Higiênico,Higiene,Loja A,São Paulo,34.85,18,0.02,Ana Vitória da Mata
+2023-07-15,Papel Higiênico,Higiene,Loja A,Belo Horizonte,13.96,20,0.24,Yasmin Lopes
+2023-11-16,Arroz,Alimentos,Loja D,Belo Horizonte,24.82,14,0.26,João Felipe Melo
+2023-11-14,Feijão,Alimentos,Loja C,São Paulo,24.34,11,0.18,Sr. Pedro Nogueira
+2023-02-25,Feijão,Alimentos,Loja A,São Paulo,30.87,7,0.27,Emanuel Peixoto
+2023-03-06,Queijo,Laticínios,Loja C,Curitiba,22.79,20,0.13,João Felipe Cavalcanti
+2023-05-05,Detergente,Limpeza,Loja A,São Paulo,9.0,19,0.13,Emilly Moura
+2023-11-30,Refrigerante,Bebidas,Loja C,Rio de Janeiro,9.93,10,0.18,Dra. Maysa das Neves
+2023-05-30,Refrigerante,Bebidas,Loja A,Rio de Janeiro,5.69,17,0.25,Marcos Vinicius Cavalcanti
+2023-10-14,Arroz,Alimentos,Loja D,Curitiba,12.18,7,0.19,Clarice Ferreira
+2023-04-14,Feijão,Alimentos,Loja C,Rio de Janeiro,34.39,15,0.18,Bruna Pereira
+2023-06-19,Macarrão,Alimentos,Loja C,Curitiba,22.68,6,0.03,Dra. Mariane Cavalcanti
+2023-01-22,Leite,Laticínios,Loja B,São Paulo,33.02,8,0.14,João Felipe Pires
+2023-04-20,Sabonete,Higiene,Loja D,Curitiba,40.94,13,0.06,João Lucas Cardoso
+2023-04-05,Arroz,Alimentos,Loja C,São Paulo,6.47,1,0.17,Gustavo Henrique Azevedo
+2023-03-14,Café,Bebidas,Loja D,Rio de Janeiro,32.67,12,0.01,Bryan das Neves
+2023-01-16,Sabonete,Higiene,Loja B,Curitiba,11.18,9,0.22,Dr. Pedro das Neves
+2023-06-23,Queijo,Laticínios,Loja B,Rio de Janeiro,12.21,6,0.25,Sabrina Duarte
+2023-02-21,Arroz,Alimentos,Loja B,Belo Horizonte,33.78,4,0.1,Sra. Nina Costela
+2023-04-18,Café,Bebidas,Loja D,Rio de Janeiro,20.37,12,0.2,Otávio da Conceição
+2023-09-27,Macarrão,Alimentos,Loja D,São Paulo,8.57,5,0.24,Sr. Vitor Teixeira
+2023-04-09,Queijo,Laticínios,Loja D,Curitiba,17.94,14,0.29,Alexandre da Paz
+2023-05-06,Arroz,Alimentos,Loja B,Curitiba,40.11,11,0.07,Cauê Silva
+2023-11-19,Café,Bebidas,Loja B,Belo Horizonte,12.83,3,0.24,Sr. Carlos Eduardo Ferreira
+2023-12-06,Macarrão,Alimentos,Loja A,Rio de Janeiro,26.9,17,0.11,Bianca Dias
+2023-09-23,Leite,Laticínios,Loja B,Curitiba,36.49,17,0.21,Miguel da Rosa
+2023-09-11,Leite,Laticínios,Loja C,Belo Horizonte,32.99,19,0.19,João Felipe Fogaça
+2023-04-17,Sabonete,Higiene,Loja B,Belo Horizonte,43.57,13,0.07,Sr. Luiz Miguel da Mata
+2023-08-06,Papel Higiênico,Higiene,Loja B,Curitiba,14.96,3,0.04,Otávio Teixeira
+2023-02-13,Café,Bebidas,Loja D,Curitiba,13.82,2,0.14,Vitor Gabriel Pires
+2023-11-15,Refrigerante,Bebidas,Loja D,Belo Horizonte,24.97,14,0.11,Lucas Gabriel Nascimento
+2023-09-12,Refrigerante,Bebidas,Loja C,Belo Horizonte,4.16,15,0.07,Sr. Augusto Fogaça
+2023-11-27,Feijão,Alimentos,Loja C,São Paulo,16.84,17,0.15,Sr. Paulo da Mata
+2023-11-26,Feijão,Alimentos,Loja C,Rio de Janeiro,7.63,3,0.11,Sophia Cardoso
+2023-10-07,Sabonete,Higiene,Loja C,Rio de Janeiro,34.73,9,0.09,Calebe Lima
+2023-12-16,Café,Bebidas,Loja B,Rio de Janeiro,49.93,18,0.27,Isis Novaes
+2023-01-05,Café,Bebidas,Loja C,Curitiba,39.81,13,0.28,Isabelly Araújo
+2023-10-24,Arroz,Alimentos,Loja D,Rio de Janeiro,43.68,8,0.07,Pedro Costela
+2023-04-18,Leite,Laticínios,Loja B,Belo Horizonte,36.96,15,0.1,João Vitor Moreira
+2023-02-13,Refrigerante,Bebidas,Loja B,Belo Horizonte,39.2,14,0.06,Rodrigo da Rosa
+2023-08-19,Queijo,Laticínios,Loja A,Curitiba,9.53,5,0.09,Carlos Eduardo Lopes
+2023-01-05,Leite,Laticínios,Loja C,Curitiba,13.6,14,0.21,Samuel da Cruz
+2023-07-26,Queijo,Laticínios,Loja C,Curitiba,30.59,19,0.24,Emanuelly Cunha
+2023-03-13,Detergente,Limpeza,Loja C,Belo Horizonte,49.07,7,0.28,Sra. Lorena Mendes
+2023-02-02,Queijo,Laticínios,Loja D,Rio de Janeiro,25.31,11,0.17,Sra. Pietra Vieira
+2023-08-20,Café,Bebidas,Loja A,Rio de Janeiro,7.9,18,0.05,Dra. Clara das Neves
+2023-12-19,Macarrão,Alimentos,Loja D,São Paulo,11.77,3,0.27,Esther Almeida
+2023-07-17,Café,Bebidas,Loja B,Rio de Janeiro,16.68,17,0.02,Daniela Souza
+2023-01-30,Refrigerante,Bebidas,Loja A,Rio de Janeiro,18.36,14,0.12,Emanuelly da Cunha
+2023-02-26,Detergente,Limpeza,Loja D,Belo Horizonte,37.93,13,0.29,Theo Aragão
+2023-04-16,Detergente,Limpeza,Loja B,Curitiba,23.31,16,0.05,Anthony Almeida
+2023-10-22,Café,Bebidas,Loja B,Belo Horizonte,15.95,1,0.3,Julia Barros
+2023-08-17,Feijão,Alimentos,Loja D,Rio de Janeiro,27.72,19,0.26,Benjamin da Costa
+2023-08-24,Leite,Laticínios,Loja A,São Paulo,16.53,15,0.1,Gabrielly da Rocha
+2023-12-31,Café,Bebidas,Loja D,Rio de Janeiro,22.51,6,0.27,Matheus Souza
+2023-08-10,Leite,Laticínios,Loja D,Rio de Janeiro,35.83,4,0.12,Elisa Almeida
+2023-01-23,Sabonete,Higiene,Loja B,Curitiba,44.48,18,0.09,Srta. Vitória da Mata
+2023-02-04,Sabonete,Higiene,Loja D,Belo Horizonte,49.64,18,0.04,Sr. Renan Ribeiro
+2023-07-08,Feijão,Alimentos,Loja A,Curitiba,22.27,6,0.08,Nicole Cardoso
+2023-09-17,Arroz,Alimentos,Loja D,São Paulo,6.44,15,0.11,Brenda Nascimento
+2023-07-24,Sabonete,Higiene,Loja D,São Paulo,3.5,4,0.21,Letícia da Rocha
+2023-03-11,Refrigerante,Bebidas,Loja D,Belo Horizonte,24.68,3,0.16,Isabel Teixeira
+2023-05-05,Leite,Laticínios,Loja B,Belo Horizonte,41.56,6,0.05,Benício Duarte
+2023-01-10,Macarrão,Alimentos,Loja A,Rio de Janeiro,16.82,18,0.22,Luiza Fernandes
+2023-03-28,Feijão,Alimentos,Loja A,Curitiba,10.21,12,0.05,Breno Souza
+2023-01-18,Queijo,Laticínios,Loja B,Belo Horizonte,35.75,17,0.19,Bianca Sales
+2023-12-04,Feijão,Alimentos,Loja D,Curitiba,23.87,20,0.0,Isabel da Paz
+2023-07-13,Sabonete,Higiene,Loja B,Curitiba,45.71,7,0.03,Lorena Castro
+2023-08-04,Arroz,Alimentos,Loja A,Curitiba,41.56,3,0.07,Raquel Ramos
+2023-02-19,Detergente,Limpeza,Loja B,São Paulo,22.54,4,0.24,Nina Costela
+2023-06-15,Queijo,Laticínios,Loja B,Rio de Janeiro,46.91,13,0.28,Natália Silva
+2023-03-03,Sabonete,Higiene,Loja B,São Paulo,19.76,6,0.0,Giovanna Vieira
+2023-12-01,Refrigerante,Bebidas,Loja A,Belo Horizonte,13.0,8,0.02,Dra. Sabrina Novaes
+2023-05-23,Macarrão,Alimentos,Loja C,São Paulo,6.16,7,0.12,Joana Costa
+2023-11-03,Leite,Laticínios,Loja A,Rio de Janeiro,14.84,4,0.18,Carlos Eduardo Jesus
+2023-11-20,Papel Higiênico,Higiene,Loja B,Curitiba,11.24,11,0.29,Olivia Cardoso
+2023-12-08,Leite,Laticínios,Loja A,Curitiba,3.83,19,0.13,Gustavo Henrique Rodrigues
+2023-09-19,Sabonete,Higiene,Loja A,Rio de Janeiro,4.0,4,0.09,Carlos Eduardo Barros
+2023-08-08,Sabonete,Higiene,Loja A,São Paulo,9.47,16,0.09,Giovanna Pinto
+2023-03-19,Papel Higiênico,Higiene,Loja B,São Paulo,14.19,20,0.3,Cauã Carvalho
+2023-08-16,Refrigerante,Bebidas,Loja B,Curitiba,17.92,2,0.16,Henrique Nunes
+2023-08-01,Café,Bebidas,Loja A,Rio de Janeiro,42.81,11,0.1,Ana Vitória Dias
+2023-04-16,Queijo,Laticínios,Loja A,Rio de Janeiro,40.67,8,0.18,Luiz Miguel da Mata
+2023-07-15,Queijo,Laticínios,Loja C,Rio de Janeiro,23.79,1,0.02,Isaac Mendes
+2023-09-09,Feijão,Alimentos,Loja B,São Paulo,32.82,5,0.28,Esther Freitas
+2023-03-06,Feijão,Alimentos,Loja B,Rio de Janeiro,14.11,3,0.13,Maitê Monteiro
+2023-08-28,Café,Bebidas,Loja B,Rio de Janeiro,14.51,6,0.18,Ian Gonçalves
+2023-06-05,Café,Bebidas,Loja D,Rio de Janeiro,15.78,16,0.02,Maria Fernanda Moraes
+2023-07-04,Papel Higiênico,Higiene,Loja D,Rio de Janeiro,25.12,14,0.15,Leandro Jesus
+2023-08-10,Detergente,Limpeza,Loja D,São Paulo,38.81,14,0.26,Daniel Dias
+2023-06-03,Macarrão,Alimentos,Loja B,Rio de Janeiro,15.09,15,0.09,Luiz Otávio Duarte
+2023-05-26,Papel Higiênico,Higiene,Loja D,São Paulo,18.66,16,0.06,Camila Sales
+2023-04-08,Arroz,Alimentos,Loja A,Curitiba,26.1,14,0.28,Paulo Nascimento
+2023-07-11,Papel Higiênico,Higiene,Loja D,Curitiba,33.13,19,0.02,Sr. João Pereira
+2023-01-20,Feijão,Alimentos,Loja D,Rio de Janeiro,12.13,14,0.29,Sr. Vicente da Mata
+2023-06-28,Queijo,Laticínios,Loja D,Curitiba,35.73,13,0.28,Benjamin Moura
+2023-05-07,Sabonete,Higiene,Loja D,São Paulo,46.31,12,0.19,Dr. Vinicius Silveira
+2023-12-13,Arroz,Alimentos,Loja B,Curitiba,31.46,5,0.08,Alana Cunha
+2023-11-05,Macarrão,Alimentos,Loja B,São Paulo,8.49,3,0.19,Eduarda Peixoto
+2023-07-16,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,44.17,6,0.25,Nicole Cunha
+2023-05-10,Café,Bebidas,Loja D,Curitiba,37.49,3,0.03,Pedro Lucas Monteiro
+2023-10-21,Refrigerante,Bebidas,Loja B,Curitiba,38.19,13,0.21,Maria Vitória Jesus
+2023-01-04,Detergente,Limpeza,Loja D,São Paulo,7.55,14,0.16,João Cardoso
+2023-12-02,Café,Bebidas,Loja D,Rio de Janeiro,11.29,6,0.21,João Gabriel Lima
+2023-04-12,Leite,Laticínios,Loja B,São Paulo,24.18,7,0.06,Caroline da Rocha
+2023-01-31,Detergente,Limpeza,Loja B,Curitiba,49.2,14,0.13,Samuel Cunha
+2023-11-16,Feijão,Alimentos,Loja B,São Paulo,16.78,13,0.04,João Gabriel Teixeira
+2023-02-02,Refrigerante,Bebidas,Loja A,Rio de Janeiro,25.46,4,0.0,Raquel Gomes
+2023-05-17,Arroz,Alimentos,Loja A,São Paulo,12.92,1,0.11,Noah Peixoto
+2023-09-24,Café,Bebidas,Loja D,Belo Horizonte,38.57,20,0.13,Dra. Agatha Porto
+2023-07-09,Refrigerante,Bebidas,Loja C,Rio de Janeiro,47.23,13,0.11,Samuel Moura
+2023-01-30,Refrigerante,Bebidas,Loja C,São Paulo,3.14,13,0.22,Ryan Nunes
+2023-03-13,Arroz,Alimentos,Loja A,Curitiba,47.7,8,0.11,Clarice Costa
+2023-11-13,Leite,Laticínios,Loja D,Rio de Janeiro,3.15,11,0.0,Maysa Fernandes
+2023-07-04,Arroz,Alimentos,Loja C,Belo Horizonte,13.98,16,0.12,Sr. Theo Rezende
+2023-11-10,Feijão,Alimentos,Loja C,Belo Horizonte,47.14,16,0.3,Benício da Costa
+2023-12-25,Feijão,Alimentos,Loja D,Curitiba,31.54,5,0.26,João Lucas da Mota
+2023-10-20,Queijo,Laticínios,Loja A,Rio de Janeiro,26.4,3,0.09,Letícia Rezende
+2023-12-11,Queijo,Laticínios,Loja D,Rio de Janeiro,45.13,4,0.14,Benjamin Silveira
+2023-10-04,Sabonete,Higiene,Loja B,Rio de Janeiro,11.01,3,0.03,Ana Júlia Teixeira
+2023-01-15,Detergente,Limpeza,Loja C,Belo Horizonte,39.02,8,0.22,Catarina da Cruz
+2023-12-07,Leite,Laticínios,Loja A,Rio de Janeiro,46.37,16,0.03,Catarina Teixeira
+2023-12-21,Refrigerante,Bebidas,Loja B,São Paulo,33.27,13,0.27,Helena Barros
+2023-07-15,Queijo,Laticínios,Loja D,Rio de Janeiro,13.51,4,0.09,Pedro Ribeiro
+2023-02-27,Feijão,Alimentos,Loja C,Rio de Janeiro,38.0,4,0.17,Vitória Alves
+2023-03-07,Refrigerante,Bebidas,Loja D,São Paulo,17.61,19,0.16,Antônio Gonçalves
+2023-07-18,Papel Higiênico,Higiene,Loja C,Curitiba,40.48,5,0.16,Natália Pires
+2023-11-05,Macarrão,Alimentos,Loja B,São Paulo,21.58,18,0.26,Otávio Farias
+2023-06-11,Detergente,Limpeza,Loja C,Rio de Janeiro,26.49,15,0.04,Sr. Luiz Miguel das Neves
+2023-05-26,Detergente,Limpeza,Loja A,Curitiba,17.52,4,0.08,João Miguel da Luz
+2023-12-28,Macarrão,Alimentos,Loja D,Rio de Janeiro,26.27,13,0.02,Luna da Rocha
+2023-06-20,Detergente,Limpeza,Loja B,Rio de Janeiro,35.92,2,0.28,Dra. Mariana da Mata
+2023-04-02,Leite,Laticínios,Loja D,Curitiba,49.27,6,0.3,Gabriel Novaes
+2023-10-08,Papel Higiênico,Higiene,Loja C,Belo Horizonte,34.86,12,0.23,Caroline Costela
+2023-07-20,Feijão,Alimentos,Loja C,Curitiba,35.73,7,0.21,Marcela Correia
+2023-10-08,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,18.2,19,0.26,Dr. Raul Vieira
+2023-01-28,Café,Bebidas,Loja D,Rio de Janeiro,30.13,15,0.21,Luigi da Mota
+2023-05-30,Detergente,Limpeza,Loja B,Rio de Janeiro,40.8,7,0.22,Sra. Manuela Freitas
+2023-01-05,Refrigerante,Bebidas,Loja A,Rio de Janeiro,20.7,14,0.2,Davi Santos
+2023-03-28,Arroz,Alimentos,Loja A,Curitiba,48.79,6,0.28,Matheus Oliveira
+2023-03-02,Queijo,Laticínios,Loja C,Belo Horizonte,48.58,13,0.07,Bruno Oliveira
+2023-03-02,Sabonete,Higiene,Loja D,Belo Horizonte,17.23,20,0.29,Ana Fernandes
+2023-12-01,Papel Higiênico,Higiene,Loja A,Belo Horizonte,43.65,13,0.08,Marcelo Moraes
+2023-12-01,Leite,Laticínios,Loja C,São Paulo,8.64,3,0.04,Nicolas da Conceição
+2023-11-25,Queijo,Laticínios,Loja B,São Paulo,30.58,19,0.14,Maria Clara Cunha
+2023-12-22,Feijão,Alimentos,Loja B,Belo Horizonte,25.76,14,0.09,Marina Martins
+2023-03-06,Feijão,Alimentos,Loja C,São Paulo,36.55,18,0.06,Elisa Porto
+2023-12-25,Arroz,Alimentos,Loja D,Belo Horizonte,6.0,19,0.16,Raquel Moreira
+2023-11-30,Feijão,Alimentos,Loja B,São Paulo,11.49,20,0.21,Luiz Gustavo Barros
+2023-01-03,Queijo,Laticínios,Loja D,Curitiba,8.78,5,0.17,Olivia Carvalho
+2023-12-01,Detergente,Limpeza,Loja A,Curitiba,43.02,2,0.03,Ana Julia Cavalcanti
+2023-03-05,Queijo,Laticínios,Loja C,Curitiba,48.41,6,0.13,Rebeca Moreira
+2023-12-03,Arroz,Alimentos,Loja B,Curitiba,5.17,17,0.27,Maria Julia Barbosa
+2023-05-31,Queijo,Laticínios,Loja D,Rio de Janeiro,30.12,11,0.16,André da Cruz
+2023-06-30,Macarrão,Alimentos,Loja B,São Paulo,34.14,2,0.07,João Lucas Rodrigues
+2023-04-07,Detergente,Limpeza,Loja C,Rio de Janeiro,48.0,20,0.17,Ana Carolina Dias
+2023-10-30,Refrigerante,Bebidas,Loja C,Rio de Janeiro,37.27,14,0.02,Ana Carolina Alves
+2023-05-11,Café,Bebidas,Loja D,Rio de Janeiro,21.8,3,0.28,Sra. Brenda Rocha
+2023-12-13,Papel Higiênico,Higiene,Loja B,Rio de Janeiro,6.32,9,0.3,Dr. Luiz Fernando Ribeiro
+2023-12-23,Sabonete,Higiene,Loja C,Rio de Janeiro,22.73,5,0.09,Ana Clara da Luz
+2023-08-11,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,6.64,4,0.16,Mariana Peixoto
+2023-12-17,Queijo,Laticínios,Loja D,São Paulo,18.48,3,0.11,Rafaela Silveira
+2023-06-20,Café,Bebidas,Loja B,Rio de Janeiro,15.86,4,0.11,Murilo Nogueira
+2023-04-24,Papel Higiênico,Higiene,Loja A,São Paulo,11.26,10,0.18,Nicolas Moreira
+2023-09-08,Feijão,Alimentos,Loja C,Curitiba,28.92,20,0.03,Rodrigo Rocha
+2023-01-25,Detergente,Limpeza,Loja C,Belo Horizonte,11.49,18,0.17,Juliana Duarte
+2023-07-26,Leite,Laticínios,Loja B,Curitiba,3.45,17,0.21,Júlia Souza
+2023-12-03,Detergente,Limpeza,Loja B,Belo Horizonte,29.68,9,0.02,Bárbara da Rocha
+2023-11-24,Refrigerante,Bebidas,Loja B,Belo Horizonte,36.22,6,0.13,Francisco Vieira
+2023-07-01,Leite,Laticínios,Loja C,Curitiba,47.77,17,0.28,Marcela Sales
+2023-04-28,Café,Bebidas,Loja A,Curitiba,22.11,11,0.25,Gabriel Martins
+2023-11-21,Feijão,Alimentos,Loja A,Rio de Janeiro,47.41,6,0.17,Srta. Marcela da Mota
+2023-02-13,Café,Bebidas,Loja D,São Paulo,48.22,14,0.2,Mariana Caldeira
+2023-03-11,Leite,Laticínios,Loja D,São Paulo,22.06,20,0.06,Sr. Lucca Sales
+2023-01-04,Papel Higiênico,Higiene,Loja C,Rio de Janeiro,49.73,17,0.21,Ana Clara Melo
+2023-01-22,Macarrão,Alimentos,Loja D,Rio de Janeiro,34.7,17,0.27,Sr. Enzo Gabriel Pinto
+2023-03-31,Feijão,Alimentos,Loja C,Rio de Janeiro,27.14,2,0.13,Lavínia Rezende
+2023-07-14,Detergente,Limpeza,Loja C,São Paulo,18.88,8,0.25,Nicolas Alves
+2023-03-02,Café,Bebidas,Loja C,Belo Horizonte,16.8,7,0.0,Srta. Olivia Alves
+2023-11-20,Macarrão,Alimentos,Loja D,Rio de Janeiro,46.38,17,0.25,Cauê Teixeira
+2023-01-19,Leite,Laticínios,Loja D,São Paulo,19.72,20,0.14,Anthony Moreira
+2023-06-02,Refrigerante,Bebidas,Loja A,São Paulo,19.44,6,0.12,Sr. Vinicius da Costa
+2023-01-05,Feijão,Alimentos,Loja D,Belo Horizonte,12.28,17,0.15,Eduardo Moreira
+2023-03-20,Papel Higiênico,Higiene,Loja A,Belo Horizonte,3.32,9,0.07,André Viana
+2023-07-22,Refrigerante,Bebidas,Loja C,Curitiba,23.13,6,0.16,Maria Fernanda Araújo
+2023-05-18,Feijão,Alimentos,Loja D,Belo Horizonte,10.61,12,0.22,Arthur da Mota
+2023-01-03,Refrigerante,Bebidas,Loja B,São Paulo,11.91,2,0.04,Valentina Novaes
+2023-08-04,Refrigerante,Bebidas,Loja A,Rio de Janeiro,34.31,16,0.29,Valentina Rodrigues
+2023-05-17,Feijão,Alimentos,Loja D,Belo Horizonte,28.86,5,0.1,Guilherme Jesus
+2023-07-24,Queijo,Laticínios,Loja D,Rio de Janeiro,8.16,4,0.24,Miguel Porto
+2023-03-06,Detergente,Limpeza,Loja C,São Paulo,39.07,8,0.02,Luiz Miguel Campos
+2023-06-25,Papel Higiênico,Higiene,Loja A,Belo Horizonte,25.57,10,0.15,Alice Melo
+2023-08-08,Sabonete,Higiene,Loja B,Rio de Janeiro,14.72,4,0.26,Caio Ribeiro
+2023-12-25,Sabonete,Higiene,Loja D,Rio de Janeiro,25.27,4,0.21,Dra. Laura Novaes
+2023-09-15,Macarrão,Alimentos,Loja B,Rio de Janeiro,49.65,19,0.19,Heitor Costa
+2023-03-18,Sabonete,Higiene,Loja A,Rio de Janeiro,21.86,9,0.3,Vinicius Silva
+2023-03-16,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,7.27,2,0.11,Breno Nascimento
+2023-09-26,Café,Bebidas,Loja B,Rio de Janeiro,18.8,16,0.02,Milena da Rocha
+2023-08-07,Arroz,Alimentos,Loja C,São Paulo,15.65,9,0.28,Maria Julia Dias
+2023-12-31,Papel Higiênico,Higiene,Loja B,Curitiba,45.07,6,0.01,Davi Pereira
+2023-01-27,Refrigerante,Bebidas,Loja B,Curitiba,25.19,20,0.03,Sr. Gustavo Henrique da Rosa
+2023-04-05,Café,Bebidas,Loja D,Curitiba,18.71,4,0.03,Ana Luiza Pires
+2023-01-07,Queijo,Laticínios,Loja B,Curitiba,19.95,12,0.22,Sofia Barros
+2023-10-29,Queijo,Laticínios,Loja C,Rio de Janeiro,33.56,7,0.18,Raul da Conceição
+2023-02-14,Feijão,Alimentos,Loja B,São Paulo,4.93,7,0.06,Pedro Miguel da Costa
+2023-08-17,Feijão,Alimentos,Loja A,Curitiba,17.17,16,0.3,Srta. Letícia Farias
+2023-04-14,Queijo,Laticínios,Loja B,São Paulo,9.01,14,0.17,Pedro Lucas Cardoso
+2023-05-10,Queijo,Laticínios,Loja C,Curitiba,24.08,4,0.27,Maitê Peixoto
+2023-02-04,Leite,Laticínios,Loja D,São Paulo,10.85,9,0.21,Vitória Silva
+2023-03-08,Café,Bebidas,Loja A,São Paulo,40.34,7,0.22,Augusto Peixoto
+2023-07-23,Leite,Laticínios,Loja A,Rio de Janeiro,23.57,17,0.12,Milena da Rosa
+2023-07-19,Papel Higiênico,Higiene,Loja C,Rio de Janeiro,11.65,6,0.17,Maria Luiza Mendes
+2023-10-31,Arroz,Alimentos,Loja D,Curitiba,17.26,8,0.09,Davi Luiz Nunes
+2023-05-18,Queijo,Laticínios,Loja A,Rio de Janeiro,13.52,18,0.07,Dr. Luiz Fernando Carvalho
+2023-01-21,Detergente,Limpeza,Loja C,Rio de Janeiro,15.71,2,0.19,Ana Laura Cunha
+2023-05-08,Sabonete,Higiene,Loja A,São Paulo,33.49,20,0.29,Sra. Yasmin Nascimento
+2023-06-16,Feijão,Alimentos,Loja C,Rio de Janeiro,22.19,20,0.09,Giovanna Rocha
+2023-01-30,Arroz,Alimentos,Loja C,Rio de Janeiro,37.33,9,0.05,Alexia Melo
+2023-01-09,Queijo,Laticínios,Loja A,Belo Horizonte,47.45,9,0.26,Sabrina da Cruz
+2023-11-21,Macarrão,Alimentos,Loja B,Belo Horizonte,13.37,9,0.06,Ryan da Conceição
+2023-11-19,Papel Higiênico,Higiene,Loja B,Belo Horizonte,13.89,14,0.11,Otávio Santos
+2023-09-03,Feijão,Alimentos,Loja D,Rio de Janeiro,24.59,6,0.06,Maysa Pires
+2023-09-09,Detergente,Limpeza,Loja C,São Paulo,17.58,6,0.25,Dr. Henrique Moreira
+2023-12-18,Macarrão,Alimentos,Loja B,São Paulo,9.75,14,0.07,Samuel Fogaça
+2023-11-27,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,37.16,1,0.18,Srta. Lorena Novaes
+2023-07-13,Papel Higiênico,Higiene,Loja A,São Paulo,41.85,2,0.04,Yasmin das Neves
+2023-02-12,Café,Bebidas,Loja B,São Paulo,40.24,1,0.29,Fernanda da Cunha
+2023-02-24,Queijo,Laticínios,Loja C,São Paulo,12.51,16,0.23,Dr. Luiz Fernando Dias
+2023-08-16,Detergente,Limpeza,Loja C,Curitiba,25.51,8,0.02,Davi Luiz Alves
+2023-12-21,Café,Bebidas,Loja A,São Paulo,41.77,4,0.16,Lucas Ferreira
+2023-02-22,Queijo,Laticínios,Loja D,Rio de Janeiro,3.06,8,0.01,Rebeca Almeida
+2023-08-07,Papel Higiênico,Higiene,Loja B,Curitiba,33.8,8,0.28,Dr. João Pedro Cunha
+2023-12-17,Papel Higiênico,Higiene,Loja A,Belo Horizonte,10.97,4,0.07,Dr. Enrico Monteiro
+2023-05-25,Refrigerante,Bebidas,Loja A,Curitiba,8.56,3,0.27,Davi Luiz Fernandes
+2023-11-06,Detergente,Limpeza,Loja B,Belo Horizonte,27.93,20,0.05,Pedro Miguel da Cunha
+2023-08-06,Detergente,Limpeza,Loja C,Curitiba,19.37,4,0.08,Ian da Conceição
+2023-09-13,Refrigerante,Bebidas,Loja C,São Paulo,40.08,5,0.23,Dr. Isaac Cunha
+2023-03-17,Refrigerante,Bebidas,Loja B,Belo Horizonte,23.99,16,0.24,Ana Laura Moreira
+2023-02-27,Macarrão,Alimentos,Loja D,Curitiba,9.8,11,0.3,Ana Beatriz Cardoso
+2023-04-04,Papel Higiênico,Higiene,Loja C,Curitiba,26.23,16,0.21,Theo Silveira
+2023-07-31,Macarrão,Alimentos,Loja C,Rio de Janeiro,40.7,8,0.11,Rafael da Paz
+2023-10-09,Leite,Laticínios,Loja D,Rio de Janeiro,21.08,19,0.21,Ana Vitória Oliveira
+2023-09-27,Macarrão,Alimentos,Loja B,São Paulo,14.05,1,0.06,Rafaela Aragão
+2023-01-09,Refrigerante,Bebidas,Loja D,Rio de Janeiro,46.28,2,0.27,Benício Jesus
+2023-07-04,Detergente,Limpeza,Loja C,Belo Horizonte,9.77,18,0.29,Helena Azevedo
+2023-08-04,Sabonete,Higiene,Loja B,Rio de Janeiro,5.63,5,0.04,Marcos Vinicius Carvalho
+2023-12-23,Detergente,Limpeza,Loja D,São Paulo,35.72,14,0.11,Marcelo da Rosa
+2023-12-26,Feijão,Alimentos,Loja A,Belo Horizonte,42.36,6,0.01,Melissa Alves
+2023-07-07,Detergente,Limpeza,Loja A,Rio de Janeiro,6.62,19,0.25,Sr. Renan Araújo
+2023-08-02,Detergente,Limpeza,Loja B,Belo Horizonte,37.95,17,0.21,Dra. Nicole Mendes
+2023-06-03,Leite,Laticínios,Loja D,Curitiba,23.87,1,0.09,Ian Vieira
+2023-03-21,Arroz,Alimentos,Loja A,Rio de Janeiro,26.65,1,0.12,Luiz Fernando Vieira
+2023-08-05,Leite,Laticínios,Loja C,Curitiba,36.34,14,0.28,Dra. Eloah Nunes
+2023-05-20,Feijão,Alimentos,Loja D,Rio de Janeiro,37.93,13,0.19,Vitor Pereira
+2023-04-23,Papel Higiênico,Higiene,Loja B,São Paulo,41.38,15,0.14,Luiz Fernando Cunha
+2023-12-01,Papel Higiênico,Higiene,Loja D,Rio de Janeiro,5.57,12,0.19,Sofia Duarte
+2023-04-10,Café,Bebidas,Loja A,São Paulo,6.66,20,0.23,Sofia Gonçalves
+2023-06-21,Arroz,Alimentos,Loja B,Curitiba,10.65,4,0.02,Mariana Correia
+2023-11-02,Arroz,Alimentos,Loja C,Rio de Janeiro,28.93,2,0.07,Thales Dias
+2023-02-13,Macarrão,Alimentos,Loja A,Belo Horizonte,5.15,11,0.03,Larissa Gonçalves
+2023-06-08,Arroz,Alimentos,Loja C,Curitiba,48.06,17,0.06,Gustavo Porto
+2023-07-20,Refrigerante,Bebidas,Loja B,São Paulo,18.57,17,0.03,Pedro da Rocha
+2023-03-18,Arroz,Alimentos,Loja D,Belo Horizonte,30.56,2,0.09,Srta. Vitória Moraes
+2023-03-19,Leite,Laticínios,Loja A,São Paulo,47.78,8,0.27,Daniel Fernandes
+2023-12-15,Detergente,Limpeza,Loja B,Curitiba,24.03,5,0.1,Isadora Moura
+2023-07-04,Macarrão,Alimentos,Loja D,São Paulo,44.86,13,0.07,João Gabriel Novaes
+2023-11-09,Macarrão,Alimentos,Loja A,Rio de Janeiro,29.64,16,0.03,Sra. Isabella Rodrigues
+2023-01-08,Detergente,Limpeza,Loja C,São Paulo,26.45,15,0.09,Maria Farias
+2023-06-01,Detergente,Limpeza,Loja A,Curitiba,30.1,12,0.03,Dr. Bruno Teixeira
+2023-04-02,Leite,Laticínios,Loja C,Belo Horizonte,48.99,15,0.2,Bruno da Rosa
+2023-03-13,Feijão,Alimentos,Loja D,São Paulo,20.08,10,0.12,Lívia Cavalcanti
+2023-11-14,Detergente,Limpeza,Loja D,Curitiba,27.09,20,0.29,Yuri Fernandes
+2023-07-11,Feijão,Alimentos,Loja D,Belo Horizonte,15.35,2,0.19,Luiz Gustavo Teixeira
+2023-11-26,Arroz,Alimentos,Loja B,São Paulo,10.26,4,0.09,Heitor Teixeira
+2023-03-23,Macarrão,Alimentos,Loja D,São Paulo,13.48,15,0.2,Diogo Rezende
+2023-06-28,Leite,Laticínios,Loja D,Belo Horizonte,8.13,6,0.22,Dr. Augusto da Cunha
+2023-07-23,Papel Higiênico,Higiene,Loja B,Belo Horizonte,18.45,11,0.1,Bernardo Correia
+2023-11-06,Leite,Laticínios,Loja B,Belo Horizonte,8.37,15,0.01,Dr. Nicolas Moura
+2023-03-21,Leite,Laticínios,Loja B,Rio de Janeiro,18.05,2,0.3,Mirella Ribeiro
+2023-07-14,Arroz,Alimentos,Loja C,Belo Horizonte,48.99,7,0.02,Dra. Emanuella Caldeira
+2023-01-12,Papel Higiênico,Higiene,Loja C,Curitiba,32.88,3,0.04,Alexia Aragão
+2023-05-21,Papel Higiênico,Higiene,Loja A,Curitiba,44.07,15,0.26,Lívia Silva
+2023-09-26,Sabonete,Higiene,Loja C,Rio de Janeiro,42.04,3,0.27,Ana Souza
+2023-08-08,Refrigerante,Bebidas,Loja C,Rio de Janeiro,12.33,14,0.14,Sr. Luiz Felipe Moraes
+2023-10-02,Detergente,Limpeza,Loja D,Curitiba,45.89,19,0.12,Thomas Farias
+2023-01-06,Queijo,Laticínios,Loja B,São Paulo,36.97,19,0.18,Clarice da Rosa
+2023-06-15,Refrigerante,Bebidas,Loja A,Rio de Janeiro,45.14,5,0.15,Julia Gomes
+2023-06-12,Feijão,Alimentos,Loja D,Curitiba,27.47,1,0.3,Pedro Miguel Costa
+2023-03-06,Leite,Laticínios,Loja A,São Paulo,13.28,7,0.13,Daniela Melo
+2023-10-07,Detergente,Limpeza,Loja D,Rio de Janeiro,19.36,7,0.29,Pedro Lucas da Luz
+2023-10-23,Arroz,Alimentos,Loja C,Curitiba,3.76,10,0.15,Yasmin Pinto
+2023-03-05,Leite,Laticínios,Loja D,Belo Horizonte,22.29,12,0.25,Srta. Juliana Almeida
+2023-08-07,Queijo,Laticínios,Loja C,São Paulo,46.54,15,0.13,Sra. Maria Vitória Cavalcanti
+2023-04-01,Queijo,Laticínios,Loja B,Belo Horizonte,20.93,14,0.19,Sr. Diego Martins
+2023-12-26,Macarrão,Alimentos,Loja A,São Paulo,40.88,4,0.03,Sr. Alexandre da Mata
+2023-01-09,Macarrão,Alimentos,Loja D,São Paulo,26.33,20,0.28,Ana Júlia Moraes
+2023-02-21,Leite,Laticínios,Loja A,Curitiba,43.03,7,0.07,Ana da Conceição
+2023-08-21,Queijo,Laticínios,Loja D,São Paulo,12.19,16,0.29,Gabriel da Cunha
+2023-06-29,Leite,Laticínios,Loja D,Belo Horizonte,3.36,12,0.23,Murilo da Luz
+2023-09-17,Café,Bebidas,Loja C,Curitiba,17.45,14,0.2,Thiago Cavalcanti
+2023-01-03,Papel Higiênico,Higiene,Loja A,São Paulo,4.23,12,0.25,Fernanda da Rocha
+2023-09-23,Macarrão,Alimentos,Loja C,Curitiba,11.01,19,0.3,Agatha Melo
+2023-05-04,Queijo,Laticínios,Loja D,Rio de Janeiro,31.96,13,0.25,Joana Nogueira
+2023-10-23,Papel Higiênico,Higiene,Loja B,Belo Horizonte,48.94,6,0.12,Alana Peixoto
+2023-06-12,Queijo,Laticínios,Loja B,Belo Horizonte,13.86,5,0.15,Dra. Sarah Barros
+2023-11-20,Macarrão,Alimentos,Loja D,Curitiba,42.35,6,0.28,Augusto Freitas
+2023-04-15,Feijão,Alimentos,Loja A,São Paulo,23.56,19,0.05,Leandro Silva
+2023-11-13,Queijo,Laticínios,Loja A,Belo Horizonte,4.19,5,0.3,João Miguel da Paz
+2023-11-21,Refrigerante,Bebidas,Loja B,Rio de Janeiro,33.67,8,0.09,Cauê Ribeiro
+2023-10-02,Sabonete,Higiene,Loja D,Curitiba,33.99,9,0.02,Dr. Theo Pinto
+2023-03-15,Arroz,Alimentos,Loja A,São Paulo,24.58,20,0.04,Emanuel Souza
+2023-03-14,Café,Bebidas,Loja C,Rio de Janeiro,7.36,16,0.25,Ana Lívia Fernandes
+2023-04-17,Papel Higiênico,Higiene,Loja A,Belo Horizonte,40.39,14,0.02,Dra. Ana Lívia Ribeiro
+2023-11-17,Feijão,Alimentos,Loja B,Belo Horizonte,20.64,11,0.19,Sr. Yuri Souza
+2023-08-19,Detergente,Limpeza,Loja B,Curitiba,3.48,6,0.2,Dra. Ana Clara Araújo
+2023-11-20,Macarrão,Alimentos,Loja A,São Paulo,48.87,12,0.15,Cecília Cardoso
+2023-11-11,Macarrão,Alimentos,Loja A,Rio de Janeiro,27.52,9,0.28,Júlia Azevedo
+2023-04-09,Macarrão,Alimentos,Loja A,São Paulo,27.35,5,0.06,Maria Sophia da Costa
+2023-07-06,Feijão,Alimentos,Loja B,São Paulo,18.39,8,0.03,Carolina das Neves
+2023-12-21,Detergente,Limpeza,Loja C,Curitiba,25.63,3,0.1,Joaquim Teixeira
+2023-10-10,Café,Bebidas,Loja D,Belo Horizonte,23.49,13,0.28,João da Conceição
+2023-05-09,Detergente,Limpeza,Loja B,Curitiba,48.21,4,0.18,Esther da Rosa
+2023-10-28,Café,Bebidas,Loja B,Rio de Janeiro,47.83,16,0.13,Guilherme Carvalho
+2023-08-17,Papel Higiênico,Higiene,Loja C,Curitiba,32.28,20,0.11,Sra. Maria Clara Azevedo
+2023-04-13,Macarrão,Alimentos,Loja C,Curitiba,45.2,3,0.13,Bernardo Moraes
+2023-01-18,Queijo,Laticínios,Loja C,Belo Horizonte,16.79,17,0.11,João Miguel Sales
+2023-01-16,Feijão,Alimentos,Loja B,Curitiba,23.18,6,0.11,Lavínia Jesus
+2023-02-07,Sabonete,Higiene,Loja C,Curitiba,9.82,11,0.04,Emilly Fogaça
+2023-06-13,Arroz,Alimentos,Loja C,Rio de Janeiro,24.87,11,0.27,Davi Luiz Fernandes
+2023-10-15,Feijão,Alimentos,Loja D,Curitiba,31.28,17,0.07,Caroline da Paz
+2023-10-15,Café,Bebidas,Loja A,Belo Horizonte,35.06,14,0.1,Srta. Ana Carolina Souza
+2023-06-13,Sabonete,Higiene,Loja B,São Paulo,40.73,16,0.01,Sra. Juliana Rocha
+2023-05-21,Papel Higiênico,Higiene,Loja A,São Paulo,24.28,20,0.1,Vitor Caldeira
+2023-07-16,Sabonete,Higiene,Loja A,Curitiba,3.84,19,0.3,Lívia Rocha
+2023-08-25,Café,Bebidas,Loja B,Belo Horizonte,4.74,18,0.28,Eloah Rodrigues
+2023-01-21,Refrigerante,Bebidas,Loja A,São Paulo,25.08,14,0.22,Kamilly da Paz
+2023-05-21,Refrigerante,Bebidas,Loja C,Belo Horizonte,6.75,11,0.15,Srta. Stella Nogueira
+2023-01-25,Papel Higiênico,Higiene,Loja C,Belo Horizonte,26.19,4,0.25,Cauã Cavalcanti
+2023-11-13,Feijão,Alimentos,Loja A,Rio de Janeiro,5.25,1,0.04,Gabrielly Aragão
+2023-06-15,Papel Higiênico,Higiene,Loja B,Rio de Janeiro,7.14,12,0.24,Dr. Igor Duarte
+2023-10-03,Arroz,Alimentos,Loja A,Curitiba,44.52,2,0.03,Sr. Davi Lucas da Cruz
+2023-06-05,Feijão,Alimentos,Loja C,Curitiba,35.33,13,0.08,Bárbara Costa
+2023-03-29,Detergente,Limpeza,Loja D,São Paulo,8.94,5,0.23,Yasmin da Cruz
+2023-07-31,Leite,Laticínios,Loja A,Rio de Janeiro,30.16,16,0.29,Maria Alice Alves
+2023-06-14,Leite,Laticínios,Loja B,São Paulo,15.4,10,0.21,Lavínia Araújo
+2023-06-30,Queijo,Laticínios,Loja B,Rio de Janeiro,35.66,3,0.29,Erick da Cruz
+2023-01-31,Sabonete,Higiene,Loja A,Rio de Janeiro,25.0,13,0.06,Lívia Fernandes
+2023-02-23,Refrigerante,Bebidas,Loja B,Curitiba,38.74,10,0.21,Caroline Moreira
+2023-12-02,Detergente,Limpeza,Loja A,Rio de Janeiro,13.28,12,0.12,Maria Eduarda Ferreira
+2023-08-20,Macarrão,Alimentos,Loja B,Belo Horizonte,11.83,9,0.13,Lavínia Cardoso
+2023-12-18,Café,Bebidas,Loja A,Rio de Janeiro,24.66,4,0.22,Heloísa Campos
+2023-05-04,Arroz,Alimentos,Loja D,Rio de Janeiro,15.54,16,0.2,Nina Pinto
+2023-08-20,Refrigerante,Bebidas,Loja C,São Paulo,46.57,3,0.11,Ana Carolina Nogueira
+2023-04-19,Detergente,Limpeza,Loja D,Belo Horizonte,26.87,2,0.13,Luiza Nunes
+2023-07-09,Feijão,Alimentos,Loja A,Belo Horizonte,37.4,14,0.06,Dra. Alice Barbosa
+2023-04-07,Papel Higiênico,Higiene,Loja B,Curitiba,27.89,16,0.16,Clarice Nogueira
+2023-02-25,Arroz,Alimentos,Loja B,São Paulo,13.32,2,0.27,Julia Rodrigues
+2023-10-22,Café,Bebidas,Loja B,São Paulo,28.01,9,0.07,Ana Julia Fogaça
+2023-11-14,Papel Higiênico,Higiene,Loja D,Belo Horizonte,7.76,9,0.15,Lucas Gabriel da Cruz
+2023-03-29,Sabonete,Higiene,Loja C,Curitiba,36.18,10,0.22,Danilo Lima
+2023-02-18,Detergente,Limpeza,Loja D,Curitiba,43.07,8,0.05,Marina Cunha
+2023-12-15,Feijão,Alimentos,Loja B,Rio de Janeiro,18.61,15,0.04,Henrique Carvalho
+2023-01-07,Leite,Laticínios,Loja D,Curitiba,3.98,9,0.26,Eduarda Caldeira
+2023-03-29,Arroz,Alimentos,Loja C,Belo Horizonte,30.41,16,0.26,Kevin Ferreira
+2023-08-30,Feijão,Alimentos,Loja A,São Paulo,29.66,10,0.25,Vitor Cunha
+2023-09-26,Queijo,Laticínios,Loja B,Rio de Janeiro,39.44,4,0.09,Bruno Gomes
+2023-06-21,Leite,Laticínios,Loja D,Curitiba,49.52,9,0.2,André Almeida
+2023-05-10,Refrigerante,Bebidas,Loja D,São Paulo,41.9,10,0.21,Júlia Pinto
+2023-09-23,Macarrão,Alimentos,Loja D,São Paulo,15.69,17,0.22,Sr. Leandro Gomes
+2023-01-11,Detergente,Limpeza,Loja D,Rio de Janeiro,33.99,5,0.11,Juliana Azevedo
+2023-01-16,Sabonete,Higiene,Loja D,Curitiba,12.7,3,0.06,Larissa Silveira
+2023-07-13,Feijão,Alimentos,Loja C,Belo Horizonte,49.4,17,0.05,Sra. Ana Lívia Nunes
+2023-12-14,Refrigerante,Bebidas,Loja C,Belo Horizonte,30.69,9,0.09,Pietra Moraes
+2023-01-22,Macarrão,Alimentos,Loja C,São Paulo,23.37,15,0.17,Cecília Correia
+2023-06-27,Café,Bebidas,Loja A,São Paulo,26.45,5,0.14,Matheus Mendes
+2023-03-18,Queijo,Laticínios,Loja C,Rio de Janeiro,17.27,10,0.02,Luiz Gustavo Pires
+2023-05-31,Arroz,Alimentos,Loja D,São Paulo,13.21,19,0.04,Alana da Conceição
+2023-09-08,Café,Bebidas,Loja A,Belo Horizonte,19.56,1,0.01,Bárbara Carvalho
+2023-03-12,Refrigerante,Bebidas,Loja C,Rio de Janeiro,47.82,9,0.04,Caio Rocha
+2023-04-11,Papel Higiênico,Higiene,Loja A,Curitiba,13.29,16,0.28,Pedro Lucas Viana
+2023-05-08,Papel Higiênico,Higiene,Loja D,Belo Horizonte,48.44,4,0.27,Pedro Miguel da Cruz
+2023-06-04,Macarrão,Alimentos,Loja C,Rio de Janeiro,29.5,11,0.24,Sr. Murilo Castro
+2023-03-13,Sabonete,Higiene,Loja C,Rio de Janeiro,22.57,7,0.09,Pietra da Mata
+2023-02-13,Café,Bebidas,Loja D,Rio de Janeiro,20.67,14,0.03,Thomas Silveira
+2023-09-27,Leite,Laticínios,Loja C,Curitiba,25.01,14,0.14,Matheus Porto
+2023-07-30,Leite,Laticínios,Loja A,São Paulo,48.0,14,0.03,Sra. Ana Júlia Rezende
+2023-03-13,Macarrão,Alimentos,Loja C,Rio de Janeiro,30.28,12,0.04,Davi Martins
+2023-10-06,Macarrão,Alimentos,Loja C,São Paulo,38.5,13,0.04,Luiz Miguel Teixeira
+2023-12-10,Arroz,Alimentos,Loja D,Belo Horizonte,42.44,3,0.02,Lara das Neves
+2023-11-29,Feijão,Alimentos,Loja C,São Paulo,41.63,19,0.14,Igor da Cunha
+2023-06-19,Arroz,Alimentos,Loja A,São Paulo,35.97,17,0.04,Luiza Nogueira
+2023-09-11,Detergente,Limpeza,Loja B,Rio de Janeiro,17.14,10,0.22,Maria Julia da Costa
+2023-01-04,Leite,Laticínios,Loja B,São Paulo,6.16,5,0.18,Sra. Raquel Barbosa
+2023-03-03,Queijo,Laticínios,Loja A,Rio de Janeiro,12.6,16,0.01,Ana Luiza Melo
+2023-09-16,Leite,Laticínios,Loja D,São Paulo,46.52,10,0.12,Gustavo Henrique Novaes
+2023-04-05,Sabonete,Higiene,Loja C,Belo Horizonte,43.39,20,0.04,Igor da Conceição
+2023-03-16,Arroz,Alimentos,Loja B,Rio de Janeiro,41.47,8,0.05,Luiz Miguel Carvalho
+2023-12-25,Queijo,Laticínios,Loja B,Belo Horizonte,25.58,10,0.2,Milena Castro
+2023-10-29,Leite,Laticínios,Loja C,Curitiba,21.39,4,0.14,Lucas Gabriel Pinto
+2023-08-06,Detergente,Limpeza,Loja A,Curitiba,24.48,19,0.12,Esther Ribeiro
+2023-10-25,Café,Bebidas,Loja A,Belo Horizonte,5.0,12,0.29,Yago Fernandes
+2023-08-28,Leite,Laticínios,Loja C,São Paulo,49.14,12,0.15,Sr. Ian Melo
+2023-09-15,Sabonete,Higiene,Loja C,Belo Horizonte,27.11,6,0.2,Isis Pires
+2023-06-30,Macarrão,Alimentos,Loja C,Belo Horizonte,36.61,5,0.08,Julia Moraes
+2023-12-04,Café,Bebidas,Loja D,São Paulo,46.06,16,0.11,Dr. Kaique Lima
+2023-08-30,Macarrão,Alimentos,Loja B,Curitiba,9.08,11,0.18,Milena Viana
+2023-10-25,Refrigerante,Bebidas,Loja D,São Paulo,5.11,6,0.07,Daniela Jesus
+2023-12-07,Feijão,Alimentos,Loja D,Belo Horizonte,18.21,8,0.29,Srta. Ana Luiza Gonçalves
+2023-05-02,Feijão,Alimentos,Loja B,Belo Horizonte,38.52,14,0.28,Giovanna Rezende
+2023-02-01,Macarrão,Alimentos,Loja C,São Paulo,4.76,3,0.13,Lucca Vieira
+2023-07-11,Macarrão,Alimentos,Loja A,Rio de Janeiro,18.09,15,0.11,Guilherme Souza
+2023-11-23,Macarrão,Alimentos,Loja B,Rio de Janeiro,14.87,15,0.2,Isabelly Peixoto
+2023-04-26,Sabonete,Higiene,Loja B,Belo Horizonte,41.25,7,0.03,Theo Jesus
+2023-01-13,Feijão,Alimentos,Loja B,São Paulo,41.07,1,0.11,João Lucas Caldeira
+2023-07-28,Macarrão,Alimentos,Loja A,Curitiba,11.71,17,0.15,Maria Eduarda das Neves
+2023-04-17,Macarrão,Alimentos,Loja D,Curitiba,19.75,18,0.26,Sabrina da Rocha
+2023-02-04,Leite,Laticínios,Loja D,Belo Horizonte,44.08,19,0.02,Lorena Nunes
+2023-09-22,Café,Bebidas,Loja A,São Paulo,26.44,2,0.18,Bernardo Farias
+2023-06-19,Arroz,Alimentos,Loja B,Curitiba,46.35,9,0.12,Sr. Enzo Lima
+2023-07-03,Feijão,Alimentos,Loja B,Curitiba,6.51,19,0.07,Ana Jesus
+2023-09-23,Macarrão,Alimentos,Loja C,Belo Horizonte,32.08,18,0.21,Augusto Costela
+2023-02-26,Macarrão,Alimentos,Loja D,Curitiba,33.7,2,0.1,Diogo Carvalho
+2023-05-14,Sabonete,Higiene,Loja C,São Paulo,9.55,18,0.25,Luiza Cardoso
+2023-06-18,Arroz,Alimentos,Loja B,Belo Horizonte,6.43,19,0.27,Esther Dias
+2023-12-26,Arroz,Alimentos,Loja C,São Paulo,47.65,20,0.22,Renan Aragão
+2023-02-11,Queijo,Laticínios,Loja D,Rio de Janeiro,15.71,2,0.03,Paulo Melo
+2023-09-12,Queijo,Laticínios,Loja B,Curitiba,23.28,10,0.23,Davi Lucas Caldeira
+2023-04-27,Arroz,Alimentos,Loja A,São Paulo,39.36,7,0.16,João Gabriel Nunes
+2023-07-14,Arroz,Alimentos,Loja D,São Paulo,21.19,13,0.21,Eduardo Fernandes
+2023-08-09,Papel Higiênico,Higiene,Loja B,São Paulo,23.58,20,0.29,João Gabriel Teixeira
+2023-07-08,Refrigerante,Bebidas,Loja B,Curitiba,23.52,2,0.07,Ryan Nascimento
+2023-02-17,Macarrão,Alimentos,Loja A,Rio de Janeiro,22.41,18,0.17,Eloah Rodrigues
+2023-01-08,Sabonete,Higiene,Loja A,São Paulo,5.66,15,0.05,Heitor Nunes
+2023-01-23,Refrigerante,Bebidas,Loja C,Rio de Janeiro,49.91,5,0.18,Levi das Neves
+2023-09-03,Feijão,Alimentos,Loja A,São Paulo,14.76,18,0.06,Lucas Aragão
+2023-12-28,Refrigerante,Bebidas,Loja B,Belo Horizonte,36.52,12,0.23,Isadora Costa
+2023-05-30,Sabonete,Higiene,Loja C,Curitiba,35.8,17,0.03,Alícia Gonçalves
+2023-06-27,Papel Higiênico,Higiene,Loja D,Curitiba,6.69,5,0.25,Pedro Henrique Azevedo
+2023-09-24,Sabonete,Higiene,Loja C,Rio de Janeiro,8.77,5,0.01,Mirella da Rosa
+2023-05-01,Leite,Laticínios,Loja D,São Paulo,4.0,2,0.08,Davi Silveira
+2023-10-29,Papel Higiênico,Higiene,Loja C,São Paulo,5.81,20,0.12,Dr. Lucas Peixoto
+2023-01-10,Papel Higiênico,Higiene,Loja D,Belo Horizonte,5.09,7,0.11,Luiz Henrique da Cunha
+2023-12-04,Papel Higiênico,Higiene,Loja A,Curitiba,4.47,12,0.28,Sr. Thiago Costa
+2023-11-08,Refrigerante,Bebidas,Loja C,Rio de Janeiro,38.59,11,0.22,Isabella Vieira
+2023-11-15,Papel Higiênico,Higiene,Loja D,São Paulo,40.95,18,0.12,Ana Laura Freitas
+2023-12-14,Café,Bebidas,Loja D,Belo Horizonte,29.91,19,0.23,Milena Melo
+2023-05-14,Detergente,Limpeza,Loja D,Belo Horizonte,38.04,8,0.04,Mariane da Mata
+2023-01-08,Café,Bebidas,Loja C,São Paulo,49.94,18,0.09,Beatriz Silva
+2023-10-20,Papel Higiênico,Higiene,Loja A,Curitiba,20.0,9,0.23,Manuela Santos
+2023-11-08,Arroz,Alimentos,Loja A,Curitiba,29.72,11,0.25,Kevin Peixoto
+2023-04-02,Leite,Laticínios,Loja D,São Paulo,23.68,15,0.01,Ana Silva
+2023-07-03,Leite,Laticínios,Loja B,Belo Horizonte,5.75,3,0.08,Fernanda Silva
+2023-11-09,Queijo,Laticínios,Loja C,São Paulo,23.7,9,0.23,Lavínia Fogaça
+2023-05-22,Café,Bebidas,Loja D,Rio de Janeiro,13.69,6,0.04,Heloísa Farias
+2023-11-13,Arroz,Alimentos,Loja B,São Paulo,33.77,6,0.21,Levi Costela
+2023-08-14,Macarrão,Alimentos,Loja C,São Paulo,29.01,8,0.02,Marina da Cunha
+2023-05-13,Café,Bebidas,Loja A,Curitiba,28.4,2,0.18,Caio Peixoto
+2023-06-29,Feijão,Alimentos,Loja A,Belo Horizonte,8.32,3,0.07,Emanuelly Campos
+2023-06-16,Macarrão,Alimentos,Loja C,Belo Horizonte,6.36,14,0.26,Ana Sophia Carvalho
+2023-03-15,Arroz,Alimentos,Loja C,Curitiba,18.74,14,0.27,Gabriela da Conceição
+2023-07-11,Leite,Laticínios,Loja C,São Paulo,10.53,2,0.09,Maria Sophia Pinto
+2023-03-18,Macarrão,Alimentos,Loja A,São Paulo,31.62,11,0.15,Dra. Beatriz Cardoso
+2023-09-18,Macarrão,Alimentos,Loja C,Rio de Janeiro,20.81,19,0.01,Dra. Heloísa da Paz
+2023-03-18,Papel Higiênico,Higiene,Loja A,São Paulo,48.06,8,0.17,Bryan Teixeira
+2023-10-22,Queijo,Laticínios,Loja D,São Paulo,42.84,17,0.24,Srta. Maria Eduarda Costa
+2023-11-07,Leite,Laticínios,Loja D,Curitiba,15.65,19,0.09,Lucas Fogaça
+2023-05-05,Refrigerante,Bebidas,Loja B,Curitiba,13.85,11,0.22,Arthur Correia
+2023-03-01,Sabonete,Higiene,Loja D,Belo Horizonte,20.01,12,0.17,Mariane Duarte
+2023-02-09,Refrigerante,Bebidas,Loja D,Rio de Janeiro,24.1,14,0.07,Yuri Gonçalves
+2023-03-06,Queijo,Laticínios,Loja B,Belo Horizonte,34.68,5,0.18,Luiz Henrique Fernandes
+2023-05-27,Refrigerante,Bebidas,Loja C,São Paulo,6.83,14,0.15,Ana Duarte
+2023-03-17,Macarrão,Alimentos,Loja D,Rio de Janeiro,45.29,15,0.0,Ana Lívia Alves
+2023-03-03,Papel Higiênico,Higiene,Loja C,Belo Horizonte,37.91,5,0.26,Ana Laura da Costa
+2023-08-09,Arroz,Alimentos,Loja B,São Paulo,9.22,17,0.28,Felipe Dias
+2023-08-05,Refrigerante,Bebidas,Loja B,Belo Horizonte,35.76,8,0.21,Sra. Laís Almeida
+2023-03-02,Refrigerante,Bebidas,Loja C,São Paulo,49.72,2,0.02,Luiz Felipe Moraes
+2023-07-01,Leite,Laticínios,Loja D,Belo Horizonte,37.81,14,0.09,Leonardo Castro
+2023-09-02,Detergente,Limpeza,Loja B,São Paulo,10.16,1,0.18,Maria Julia da Conceição
+2023-07-09,Leite,Laticínios,Loja D,Curitiba,23.61,17,0.22,Alícia Santos
+2023-05-24,Feijão,Alimentos,Loja B,Curitiba,26.18,2,0.17,Marcela Barros
+2023-09-26,Macarrão,Alimentos,Loja D,Curitiba,18.17,11,0.23,Clarice Martins
+2023-03-15,Arroz,Alimentos,Loja B,Belo Horizonte,27.4,19,0.26,Melissa Costa
+2023-06-10,Feijão,Alimentos,Loja C,Curitiba,10.78,10,0.08,Letícia Jesus
+2023-08-13,Sabonete,Higiene,Loja B,Curitiba,47.14,9,0.3,Pietro Rodrigues
+2023-02-24,Sabonete,Higiene,Loja C,Rio de Janeiro,7.51,18,0.25,Vicente Moraes
+2023-03-28,Arroz,Alimentos,Loja A,Rio de Janeiro,3.31,1,0.11,Paulo da Mata
+2023-05-25,Macarrão,Alimentos,Loja D,Belo Horizonte,27.48,15,0.09,Calebe Mendes
+2023-02-26,Feijão,Alimentos,Loja D,Belo Horizonte,26.18,3,0.26,Natália Ferreira
+2023-05-23,Feijão,Alimentos,Loja C,São Paulo,37.98,8,0.22,Felipe Azevedo
+2023-06-17,Detergente,Limpeza,Loja C,Curitiba,24.31,17,0.2,Isabella Fogaça
+2023-02-07,Refrigerante,Bebidas,Loja A,Belo Horizonte,7.72,17,0.1,Raquel da Cunha
+2023-10-13,Arroz,Alimentos,Loja A,Rio de Janeiro,9.43,13,0.26,Dr. Davi Luiz Dias
+2023-04-23,Sabonete,Higiene,Loja C,Belo Horizonte,10.12,6,0.22,Pietro da Cruz
+2023-05-25,Detergente,Limpeza,Loja B,São Paulo,47.69,7,0.0,Emanuel Farias
+2023-02-04,Leite,Laticínios,Loja B,Rio de Janeiro,4.82,9,0.18,Maria Jesus
+2023-11-20,Macarrão,Alimentos,Loja B,Curitiba,25.76,6,0.26,Bárbara Costela
+2023-04-29,Café,Bebidas,Loja D,Belo Horizonte,40.45,13,0.18,Maria Eduarda Nogueira
+2023-10-06,Leite,Laticínios,Loja C,São Paulo,13.29,10,0.13,Emilly Peixoto
+2023-08-17,Refrigerante,Bebidas,Loja B,Belo Horizonte,8.44,15,0.29,Srta. Nicole das Neves
+2023-12-05,Feijão,Alimentos,Loja C,Belo Horizonte,36.13,16,0.25,João Vitor da Rosa
+2023-09-08,Macarrão,Alimentos,Loja D,Rio de Janeiro,4.36,9,0.15,Daniel Fogaça
+2023-07-29,Arroz,Alimentos,Loja C,Curitiba,34.72,14,0.12,Sr. Thales da Rocha
+2023-08-15,Papel Higiênico,Higiene,Loja D,Curitiba,45.88,9,0.15,Alice Porto
+2023-04-23,Refrigerante,Bebidas,Loja A,Curitiba,24.04,8,0.17,Bárbara Pereira
+2023-03-27,Queijo,Laticínios,Loja B,São Paulo,47.55,20,0.18,Bruno Castro
+2023-03-08,Macarrão,Alimentos,Loja A,São Paulo,40.71,3,0.23,Emanuelly da Mata
+2023-06-20,Refrigerante,Bebidas,Loja A,São Paulo,27.38,12,0.16,Sabrina Aragão
+2023-03-22,Queijo,Laticínios,Loja D,Rio de Janeiro,16.64,6,0.27,João Guilherme Costa
+2023-06-19,Papel Higiênico,Higiene,Loja B,Rio de Janeiro,47.18,2,0.25,Sr. João Felipe da Costa
+2023-09-27,Feijão,Alimentos,Loja D,Belo Horizonte,4.99,10,0.09,Marina Porto
+2023-04-28,Sabonete,Higiene,Loja A,Curitiba,38.25,13,0.2,Olivia Martins
+2023-03-09,Café,Bebidas,Loja A,São Paulo,6.47,14,0.01,Raul Carvalho
+2023-10-05,Macarrão,Alimentos,Loja B,São Paulo,37.59,13,0.06,Marcelo Carvalho
+2023-11-07,Café,Bebidas,Loja C,Belo Horizonte,27.08,1,0.09,Beatriz da Conceição
+2023-08-23,Sabonete,Higiene,Loja A,Curitiba,48.56,19,0.14,Vinicius Rocha
+2023-05-30,Papel Higiênico,Higiene,Loja A,Rio de Janeiro,48.44,18,0.08,Beatriz Jesus
+2023-05-26,Queijo,Laticínios,Loja B,Belo Horizonte,3.81,16,0.22,Sr. Rafael Alves
+2023-07-10,Queijo,Laticínios,Loja A,Belo Horizonte,13.53,1,0.12,Ana Laura Ribeiro
+2023-04-29,Leite,Laticínios,Loja C,Belo Horizonte,29.47,10,0.1,Maria da Mota
+2023-11-19,Feijão,Alimentos,Loja A,Rio de Janeiro,12.76,16,0.18,Kaique Nascimento
+2023-02-12,Detergente,Limpeza,Loja D,Belo Horizonte,27.6,19,0.23,Maitê Lima
+2023-01-31,Leite,Laticínios,Loja C,Belo Horizonte,17.64,11,0.25,Srta. Maria Clara Silva
+2023-01-19,Refrigerante,Bebidas,Loja D,São Paulo,15.6,7,0.23,Laís Peixoto
+2023-09-08,Queijo,Laticínios,Loja D,Curitiba,48.1,8,0.1,Marcela Castro
+2023-12-29,Leite,Laticínios,Loja A,São Paulo,23.01,3,0.11,Ana Julia Ferreira
+2023-01-07,Detergente,Limpeza,Loja A,Rio de Janeiro,12.28,4,0.01,Ana Luiza Ramos
+2023-08-06,Leite,Laticínios,Loja B,Belo Horizonte,9.57,18,0.13,Sr. Diego Campos
+2023-01-05,Café,Bebidas,Loja A,Belo Horizonte,49.8,9,0.16,Nina Rodrigues
+2023-11-11,Refrigerante,Bebidas,Loja B,Rio de Janeiro,16.64,7,0.24,Benjamin Martins
+2023-07-10,Queijo,Laticínios,Loja C,Belo Horizonte,24.76,11,0.28,Ana Julia Jesus
+2023-03-11,Detergente,Limpeza,Loja D,São Paulo,17.93,6,0.05,Ryan Porto
+2023-02-04,Arroz,Alimentos,Loja C,Rio de Janeiro,12.37,4,0.16,Dra. Nicole Peixoto
+2023-06-19,Feijão,Alimentos,Loja A,Belo Horizonte,30.94,3,0.11,Amanda das Neves
+2023-10-14,Sabonete,Higiene,Loja C,São Paulo,46.61,9,0.09,João Vitor Costa
+2023-08-07,Macarrão,Alimentos,Loja C,Curitiba,32.35,13,0.28,Maria Clara Silva
+2023-10-15,Queijo,Laticínios,Loja B,São Paulo,30.85,4,0.22,Francisco Gonçalves
+2023-05-24,Detergente,Limpeza,Loja C,São Paulo,8.96,17,0.18,Maria Eduarda Rezende
+2023-07-16,Refrigerante,Bebidas,Loja C,Belo Horizonte,12.84,1,0.24,Maitê Campos
+2023-04-21,Feijão,Alimentos,Loja B,Rio de Janeiro,10.75,1,0.1,Emanuel Vieira
+2023-01-27,Detergente,Limpeza,Loja D,Belo Horizonte,34.25,11,0.09,Fernando Pinto
+2023-03-02,Sabonete,Higiene,Loja D,Belo Horizonte,39.37,16,0.11,Beatriz Azevedo
+2023-09-25,Refrigerante,Bebidas,Loja A,Rio de Janeiro,47.9,9,0.21,Pedro Henrique Santos
+2023-08-12,Queijo,Laticínios,Loja D,Belo Horizonte,35.67,9,0.21,Laís Campos
+2023-10-13,Papel Higiênico,Higiene,Loja C,Rio de Janeiro,4.19,12,0.26,Diogo da Mata
+2023-12-10,Refrigerante,Bebidas,Loja D,Rio de Janeiro,32.0,7,0.11,Davi Aragão
+2023-04-02,Arroz,Alimentos,Loja B,Belo Horizonte,19.97,7,0.0,Rafaela da Cunha
+2023-06-08,Refrigerante,Bebidas,Loja A,Curitiba,46.04,17,0.28,João Guilherme Ribeiro
+2023-11-07,Café,Bebidas,Loja A,Curitiba,33.16,13,0.01,Luiz Gustavo Viana
+2023-12-23,Café,Bebidas,Loja C,São Paulo,48.64,1,0.26,Lorenzo da Mota
+2023-08-30,Macarrão,Alimentos,Loja D,Belo Horizonte,11.17,18,0.24,Alexia Freitas
+2023-01-20,Refrigerante,Bebidas,Loja A,Rio de Janeiro,36.17,6,0.26,Mariana Cardoso
+2023-03-09,Feijão,Alimentos,Loja D,São Paulo,5.63,2,0.09,Paulo Ribeiro
+2023-10-06,Café,Bebidas,Loja B,São Paulo,18.64,11,0.27,Marcela da Mota
+2023-03-28,Macarrão,Alimentos,Loja C,São Paulo,47.21,13,0.12,Stella Pereira
+2023-12-08,Arroz,Alimentos,Loja A,Rio de Janeiro,41.78,17,0.04,João Lucas Caldeira
+2023-05-17,Feijão,Alimentos,Loja B,Belo Horizonte,5.09,20,0.06,Dra. Lívia Monteiro
+2023-09-16,Papel Higiênico,Higiene,Loja B,São Paulo,17.62,18,0.11,Dr. Thiago da Cruz
+2023-06-24,Leite,Laticínios,Loja A,Belo Horizonte,7.14,3,0.05,Sra. Isabelly Barbosa
+2023-02-14,Detergente,Limpeza,Loja C,São Paulo,39.04,1,0.07,Ana Sophia da Rocha
+2023-07-11,Leite,Laticínios,Loja A,Rio de Janeiro,17.47,7,0.22,Dr. Cauã Ferreira
+2023-03-09,Café,Bebidas,Loja A,Belo Horizonte,36.18,6,0.08,Sr. Fernando da Rocha
+2023-10-17,Refrigerante,Bebidas,Loja D,Rio de Janeiro,42.26,9,0.27,Lucas Gabriel Melo
+2023-04-01,Café,Bebidas,Loja C,Belo Horizonte,15.43,16,0.11,Bernardo Porto
+2023-07-06,Refrigerante,Bebidas,Loja D,Rio de Janeiro,4.73,19,0.12,Luiz Felipe Correia
+2023-10-03,Macarrão,Alimentos,Loja B,Belo Horizonte,19.31,10,0.06,Fernando Alves
+2023-12-25,Queijo,Laticínios,Loja C,São Paulo,27.12,7,0.08,Giovanna Dias
+2023-08-28,Café,Bebidas,Loja A,São Paulo,27.3,6,0.14,Sra. Laís da Cruz
+2023-08-28,Macarrão,Alimentos,Loja C,Curitiba,29.5,19,0.27,Marcela Nascimento
+2023-06-15,Feijão,Alimentos,Loja C,São Paulo,10.46,16,0.1,Srta. Maysa Mendes
+2023-11-28,Feijão,Alimentos,Loja B,Curitiba,17.39,15,0.16,Maria Clara Peixoto
+2023-01-12,Leite,Laticínios,Loja D,Belo Horizonte,37.35,16,0.25,Milena Pereira
+2023-05-10,Refrigerante,Bebidas,Loja C,Belo Horizonte,34.89,10,0.01,Srta. Emanuella Ramos
+2023-04-30,Queijo,Laticínios,Loja A,Belo Horizonte,23.02,9,0.29,Dr. Leandro Monteiro
+2023-07-25,Macarrão,Alimentos,Loja A,Rio de Janeiro,27.07,10,0.27,Vitor Gabriel Fogaça
+2023-12-24,Queijo,Laticínios,Loja B,Rio de Janeiro,9.1,11,0.24,Ana Lívia da Cruz
+2023-01-28,Feijão,Alimentos,Loja C,Rio de Janeiro,40.67,15,0.12,Leandro da Costa
+2023-08-24,Arroz,Alimentos,Loja B,Rio de Janeiro,44.5,10,0.09,Yasmin Costela
+2023-04-05,Sabonete,Higiene,Loja B,Belo Horizonte,7.24,8,0.05,Carolina Castro
+2023-10-12,Refrigerante,Bebidas,Loja A,Belo Horizonte,10.49,4,0.14,Gabriel Barbosa
+2023-12-18,Papel Higiênico,Higiene,Loja B,Belo Horizonte,34.42,15,0.21,Sabrina Castro
+2023-02-19,Papel Higiênico,Higiene,Loja B,Curitiba,38.86,5,0.12,João Rodrigues
+2023-06-17,Café,Bebidas,Loja D,Belo Horizonte,28.1,12,0.15,Emanuel Nogueira
+2023-10-28,Arroz,Alimentos,Loja B,Rio de Janeiro,39.09,12,0.11,Enzo Gabriel Fogaça
+2023-09-14,Arroz,Alimentos,Loja D,São Paulo,33.34,5,0.15,Emanuella Souza
+2023-01-23,Sabonete,Higiene,Loja C,Belo Horizonte,7.36,13,0.2,Marcos Vinicius Martins
+2023-08-06,Detergente,Limpeza,Loja C,Curitiba,21.18,16,0.01,Alexandre Dias
+2023-08-04,Detergente,Limpeza,Loja B,Belo Horizonte,35.07,4,0.14,Davi Lucca Nunes
+2023-02-12,Refrigerante,Bebidas,Loja A,Belo Horizonte,40.77,1,0.05,Isaac Monteiro
+2023-03-07,Macarrão,Alimentos,Loja D,Belo Horizonte,3.54,13,0.13,João Gabriel Rodrigues
+2023-01-28,Café,Bebidas,Loja D,Curitiba,37.88,4,0.18,Helena Correia
+2023-08-19,Queijo,Laticínios,Loja C,Belo Horizonte,36.47,18,0.29,Rafael Oliveira
+2023-02-27,Detergente,Limpeza,Loja D,Belo Horizonte,43.9,3,0.05,Leandro Duarte
+2023-06-22,Macarrão,Alimentos,Loja C,Rio de Janeiro,27.2,20,0.22,Daniela Azevedo
+2023-08-21,Papel Higiênico,Higiene,Loja A,Belo Horizonte,16.24,4,0.26,Luiz Henrique Azevedo
+2023-08-24,Refrigerante,Bebidas,Loja A,Curitiba,14.86,11,0.2,Thiago da Paz
+2023-01-13,Queijo,Laticínios,Loja C,Rio de Janeiro,16.78,14,0.01,Leonardo Nunes
+2023-06-16,Café,Bebidas,Loja A,São Paulo,19.79,2,0.16,Francisco Carvalho
+2023-07-22,Sabonete,Higiene,Loja B,São Paulo,28.14,5,0.22,Marina Peixoto
+2023-11-21,Leite,Laticínios,Loja D,Curitiba,19.23,15,0.21,Ana Júlia Barros
+2023-05-05,Queijo,Laticínios,Loja D,São Paulo,6.6,12,0.01,André Azevedo
+2023-11-08,Feijão,Alimentos,Loja D,São Paulo,18.88,10,0.13,Miguel Santos
+2023-01-12,Detergente,Limpeza,Loja C,São Paulo,42.33,14,0.29,Nina Carvalho
+2023-04-09,Macarrão,Alimentos,Loja C,Curitiba,31.93,18,0.26,Rafael Melo
+2023-05-05,Arroz,Alimentos,Loja C,Belo Horizonte,13.11,14,0.08,Alexia Barbosa
+2023-12-19,Detergente,Limpeza,Loja C,São Paulo,31.42,6,0.2,Letícia da Rosa
+2023-05-20,Arroz,Alimentos,Loja D,Rio de Janeiro,3.88,14,0.2,Ana Julia Caldeira
+2023-05-21,Café,Bebidas,Loja D,Curitiba,7.57,8,0.01,Nathan Araújo
+2023-06-16,Sabonete,Higiene,Loja A,Curitiba,37.22,20,0.25,Sr. João Vitor Martins
+2023-10-29,Papel Higiênico,Higiene,Loja C,Belo Horizonte,25.35,18,0.0,Alana Souza
+2023-06-24,Refrigerante,Bebidas,Loja C,Belo Horizonte,10.13,16,0.06,Enzo Gabriel Azevedo
+2023-12-24,Detergente,Limpeza,Loja D,Curitiba,21.94,19,0.29,Juan Pires
+2023-11-20,Leite,Laticínios,Loja C,São Paulo,12.75,17,0.11,Emanuella Cardoso
+2023-05-30,Refrigerante,Bebidas,Loja D,Belo Horizonte,4.39,20,0.18,Ana Júlia Pinto
+2023-11-16,Refrigerante,Bebidas,Loja D,Belo Horizonte,49.8,1,0.23,Heloísa Pires
+2023-05-26,Queijo,Laticínios,Loja D,Rio de Janeiro,20.64,18,0.04,Lívia Gonçalves
+2023-11-07,Feijão,Alimentos,Loja A,Belo Horizonte,13.26,4,0.17,Evelyn Moreira
+2023-04-02,Detergente,Limpeza,Loja D,Belo Horizonte,19.55,7,0.13,Fernando Peixoto
+2023-11-03,Café,Bebidas,Loja C,Curitiba,32.62,11,0.15,Caroline Alves
+2023-09-30,Papel Higiênico,Higiene,Loja B,Belo Horizonte,26.26,15,0.09,Ana Beatriz Ribeiro
+2023-08-19,Detergente,Limpeza,Loja B,Belo Horizonte,16.56,18,0.25,Vinicius da Rocha
+2023-08-26,Detergente,Limpeza,Loja A,Belo Horizonte,30.27,14,0.29,Lucca Cardoso
+2023-07-30,Sabonete,Higiene,Loja A,Rio de Janeiro,9.51,20,0.15,Alexia Nascimento
+2023-02-11,Macarrão,Alimentos,Loja D,São Paulo,18.28,8,0.05,Isis Barbosa
+2023-11-17,Leite,Laticínios,Loja A,Curitiba,4.07,20,0.27,Emanuelly Fogaça
+2023-12-01,Papel Higiênico,Higiene,Loja B,Rio de Janeiro,24.52,8,0.05,Davi Lucas Ribeiro
+2023-12-31,Sabonete,Higiene,Loja C,Rio de Janeiro,16.77,1,0.06,Gabrielly Costela
+2023-08-25,Leite,Laticínios,Loja B,Belo Horizonte,49.52,6,0.29,Anthony Farias
+2023-09-14,Feijão,Alimentos,Loja C,Rio de Janeiro,14.51,3,0.0,Maysa Moura
+2023-01-17,Papel Higiênico,Higiene,Loja D,Belo Horizonte,6.31,14,0.29,Sabrina Almeida
+2023-10-03,Feijão,Alimentos,Loja A,Belo Horizonte,25.6,2,0.09,Bryan Aragão
+2023-07-23,Arroz,Alimentos,Loja C,Belo Horizonte,36.68,17,0.19,Lucas Castro
+2023-08-14,Papel Higiênico,Higiene,Loja A,São Paulo,9.86,9,0.23,Alícia Dias
+2023-10-24,Feijão,Alimentos,Loja B,Curitiba,22.41,11,0.04,Pietra Teixeira
+2023-05-05,Leite,Laticínios,Loja B,Curitiba,7.56,3,0.14,Daniel da Cunha
+2023-12-30,Leite,Laticínios,Loja B,Curitiba,19.09,15,0.1,Natália Porto
+2023-08-19,Café,Bebidas,Loja C,São Paulo,38.78,5,0.16,João Miguel Barros
+2023-01-14,Sabonete,Higiene,Loja C,Curitiba,36.55,10,0.28,Bárbara Azevedo
+2023-03-23,Macarrão,Alimentos,Loja C,Belo Horizonte,36.51,10,0.05,Maria Ferreira
+2023-12-22,Detergente,Limpeza,Loja B,Curitiba,43.38,9,0.19,Arthur Monteiro
+2023-01-15,Sabonete,Higiene,Loja C,Rio de Janeiro,30.46,9,0.11,Maria Fernanda Cunha
+2023-09-18,Queijo,Laticínios,Loja D,Belo Horizonte,32.07,6,0.29,Emilly Souza
+2023-11-26,Detergente,Limpeza,Loja C,Curitiba,20.77,16,0.19,Kaique Rocha
+2023-09-26,Leite,Laticínios,Loja B,Belo Horizonte,45.17,1,0.2,Lavínia Moura
+2023-02-03,Refrigerante,Bebidas,Loja B,Curitiba,12.7,5,0.08,Dr. Matheus da Costa
+2023-03-03,Sabonete,Higiene,Loja C,Belo Horizonte,24.59,1,0.25,Davi Martins
+2023-09-26,Sabonete,Higiene,Loja B,Curitiba,34.22,13,0.19,Pietra Silveira
+2023-06-18,Queijo,Laticínios,Loja A,Curitiba,29.0,18,0.25,Isabelly Correia
+2023-10-03,Feijão,Alimentos,Loja A,Belo Horizonte,29.64,8,0.07,Isabelly Nogueira
+2023-04-04,Sabonete,Higiene,Loja B,Belo Horizonte,11.34,20,0.08,Ana Clara Araújo
+2023-05-23,Feijão,Alimentos,Loja B,São Paulo,45.59,5,0.16,Sra. Pietra Fogaça
+2023-02-01,Sabonete,Higiene,Loja B,Rio de Janeiro,30.53,19,0.14,Mirella Pires
+2023-02-20,Queijo,Laticínios,Loja A,Curitiba,40.13,3,0.06,Henrique Cardoso
+2023-03-01,Leite,Laticínios,Loja A,Belo Horizonte,12.28,18,0.18,Sr. Pedro Lucas Peixoto
+2023-11-03,Leite,Laticínios,Loja C,São Paulo,30.34,4,0.22,Maria Fernanda Cavalcanti
+2023-08-15,Sabonete,Higiene,Loja D,São Paulo,14.83,14,0.18,Luiz Gustavo Cavalcanti
+2023-09-10,Detergente,Limpeza,Loja C,Belo Horizonte,27.17,10,0.08,Isaac Teixeira
+2023-09-30,Sabonete,Higiene,Loja C,Curitiba,34.86,17,0.09,Manuela Souza
+2023-08-14,Feijão,Alimentos,Loja B,Belo Horizonte,3.31,17,0.14,Eduarda Pires
+2023-03-25,Detergente,Limpeza,Loja A,Belo Horizonte,34.63,4,0.28,Sra. Catarina Nunes
+2023-08-15,Refrigerante,Bebidas,Loja B,Rio de Janeiro,39.6,8,0.06,Dr. Davi Lucas Nascimento
+2023-09-14,Café,Bebidas,Loja C,Belo Horizonte,7.84,10,0.28,Samuel Duarte
+2023-04-18,Macarrão,Alimentos,Loja B,Curitiba,10.35,13,0.24,Vicente Campos
+2023-03-22,Macarrão,Alimentos,Loja B,Curitiba,47.97,16,0.2,Emanuelly Ferreira
+2023-08-02,Café,Bebidas,Loja B,Curitiba,25.18,10,0.11,Fernando Rezende
+2023-06-06,Refrigerante,Bebidas,Loja C,Curitiba,24.14,14,0.17,Natália Santos
+2023-08-02,Arroz,Alimentos,Loja D,São Paulo,48.53,12,0.19,Nicole Ramos
+2023-03-13,Leite,Laticínios,Loja C,São Paulo,41.47,7,0.06,Ryan Dias
+2023-05-12,Café,Bebidas,Loja C,São Paulo,18.13,13,0.1,Maria Luiza Campos
+2023-10-14,Sabonete,Higiene,Loja B,Belo Horizonte,43.25,4,0.02,Sr. Luiz Henrique Araújo
+2023-03-24,Refrigerante,Bebidas,Loja D,Belo Horizonte,47.75,2,0.23,Kaique das Neves
+2023-07-19,Leite,Laticínios,Loja B,Curitiba,49.39,19,0.11,Sr. Thomas Aragão
+2023-02-21,Arroz,Alimentos,Loja C,Curitiba,28.28,15,0.28,Sr. Leandro Correia
+2023-02-26,Leite,Laticínios,Loja B,São Paulo,18.25,14,0.25,Gustavo Henrique das Neves
+2023-03-19,Macarrão,Alimentos,Loja C,Rio de Janeiro,29.41,15,0.07,Sra. Stella Viana
+2023-10-21,Queijo,Laticínios,Loja C,Curitiba,35.41,5,0.23,Ana Lívia Azevedo
+2023-02-04,Refrigerante,Bebidas,Loja C,Belo Horizonte,38.12,7,0.06,Dra. Stella Santos
+2023-08-28,Sabonete,Higiene,Loja D,Curitiba,18.65,9,0.08,Leandro Pereira
+2023-01-12,Detergente,Limpeza,Loja A,Belo Horizonte,23.08,16,0.24,Juan Castro
+2023-09-28,Arroz,Alimentos,Loja C,São Paulo,29.59,2,0.29,Vitor Hugo Rezende
+2023-06-17,Queijo,Laticínios,Loja D,Curitiba,30.02,3,0.22,Sra. Pietra Almeida
+2023-10-17,Feijão,Alimentos,Loja A,Rio de Janeiro,40.53,3,0.17,Bryan Freitas
+2023-08-28,Macarrão,Alimentos,Loja B,São Paulo,39.05,14,0.25,Sra. Brenda Vieira
+2023-08-27,Leite,Laticínios,Loja B,Curitiba,6.43,19,0.1,Lara da Paz
+2023-09-28,Papel Higiênico,Higiene,Loja A,Belo Horizonte,30.01,1,0.19,Dra. Ana Laura Rezende
+2023-07-19,Arroz,Alimentos,Loja A,Rio de Janeiro,18.15,5,0.08,Srta. Isadora Nogueira
+2023-04-25,Macarrão,Alimentos,Loja C,Belo Horizonte,33.72,7,0.23,Emanuella Cavalcanti
+2023-10-22,Refrigerante,Bebidas,Loja B,Rio de Janeiro,39.33,7,0.09,Rafaela da Rosa
+2023-02-21,Arroz,Alimentos,Loja A,Rio de Janeiro,28.38,3,0.1,Maria Julia Costa
+2023-06-11,Sabonete,Higiene,Loja B,Rio de Janeiro,17.24,14,0.3,Letícia Campos
+2023-04-30,Sabonete,Higiene,Loja C,São Paulo,9.45,15,0.04,Srta. Ana Sophia Cardoso
+2023-07-12,Arroz,Alimentos,Loja D,Rio de Janeiro,20.88,15,0.13,Isabelly Moura
+2023-04-12,Sabonete,Higiene,Loja D,São Paulo,7.36,6,0.15,Raul Moura
+2023-10-24,Queijo,Laticínios,Loja A,Rio de Janeiro,38.56,4,0.28,Francisco Ribeiro
+2023-11-06,Refrigerante,Bebidas,Loja C,Belo Horizonte,11.98,3,0.24,Agatha Dias
+2023-07-04,Leite,Laticínios,Loja C,São Paulo,47.41,1,0.0,Sr. Luiz Gustavo da Costa
+2023-08-04,Papel Higiênico,Higiene,Loja A,Curitiba,19.94,10,0.25,Gustavo Duarte
+2023-08-11,Café,Bebidas,Loja B,São Paulo,33.57,13,0.26,Cecília Ribeiro
+2023-01-09,Café,Bebidas,Loja C,São Paulo,9.61,8,0.05,Mariana Lima
+2023-01-05,Detergente,Limpeza,Loja B,Rio de Janeiro,35.67,2,0.02,Dra. Mirella da Luz
+2023-04-18,Café,Bebidas,Loja C,Belo Horizonte,41.69,14,0.05,Ana Clara Jesus
+2023-09-23,Detergente,Limpeza,Loja B,Curitiba,44.32,4,0.24,Júlia Aragão
+2023-01-16,Leite,Laticínios,Loja B,Curitiba,21.97,12,0.27,Catarina Jesus
+2023-05-16,Macarrão,Alimentos,Loja C,São Paulo,39.81,11,0.01,Stella Barros
+2023-08-29,Arroz,Alimentos,Loja B,Belo Horizonte,5.19,13,0.23,Ryan Azevedo
+2023-09-26,Detergente,Limpeza,Loja B,São Paulo,3.7,8,0.03,Letícia Sales
+2023-02-03,Feijão,Alimentos,Loja D,Belo Horizonte,49.22,18,0.13,Lavínia Azevedo
+2023-11-05,Arroz,Alimentos,Loja C,Belo Horizonte,25.07,9,0.04,Juan Mendes
+2023-12-03,Queijo,Laticínios,Loja C,São Paulo,25.46,19,0.06,Sr. Kevin Araújo
+2023-04-23,Queijo,Laticínios,Loja B,Rio de Janeiro,13.6,3,0.22,Sr. Yuri Araújo
+2023-07-26,Café,Bebidas,Loja A,Rio de Janeiro,13.63,6,0.22,Dra. Maria Clara Alves
+2023-06-04,Refrigerante,Bebidas,Loja D,Curitiba,38.72,5,0.1,Camila Vieira
+2023-07-11,Detergente,Limpeza,Loja A,Belo Horizonte,32.7,7,0.29,Olivia Lima
+2023-01-08,Detergente,Limpeza,Loja A,Rio de Janeiro,10.61,11,0.0,Daniela Pinto
+2023-09-04,Leite,Laticínios,Loja C,Rio de Janeiro,32.55,19,0.12,Melissa Gonçalves
+2023-04-20,Leite,Laticínios,Loja C,Belo Horizonte,8.54,9,0.2,Cauã Almeida
+2023-09-21,Refrigerante,Bebidas,Loja C,Rio de Janeiro,15.0,16,0.23,Srta. Alice Pereira
+2023-08-22,Feijão,Alimentos,Loja C,Curitiba,5.97,12,0.13,Isabel Ferreira
+2023-01-14,Queijo,Laticínios,Loja B,São Paulo,13.67,15,0.25,Isaac Ramos
+2023-03-03,Queijo,Laticínios,Loja C,Rio de Janeiro,44.05,10,0.14,Dr. Erick Ramos
+2023-10-11,Feijão,Alimentos,Loja B,Belo Horizonte,41.54,17,0.06,Laura da Cunha
+2023-12-15,Sabonete,Higiene,Loja A,Rio de Janeiro,37.47,12,0.16,Isadora Ferreira
+2023-03-19,Macarrão,Alimentos,Loja A,Curitiba,28.35,17,0.05,Sr. Renan da Paz
+2023-03-23,Feijão,Alimentos,Loja B,Rio de Janeiro,42.63,5,0.16,Marina Rodrigues
+2023-11-09,Papel Higiênico,Higiene,Loja B,Curitiba,5.3,13,0.09,Laura Rezende
+2023-09-25,Papel Higiênico,Higiene,Loja D,Belo Horizonte,18.13,10,0.0,Milena Ferreira
+2023-05-09,Queijo,Laticínios,Loja C,Rio de Janeiro,46.38,20,0.18,Antônio Porto
+2023-02-04,Arroz,Alimentos,Loja D,Rio de Janeiro,9.76,6,0.23,Catarina da Rosa
+2023-05-05,Papel Higiênico,Higiene,Loja B,Belo Horizonte,21.38,7,0.07,Emilly Pires
+2023-06-29,Feijão,Alimentos,Loja B,Curitiba,9.6,13,0.04,Heitor da Paz
+2023-10-27,Detergente,Limpeza,Loja B,Belo Horizonte,9.69,9,0.23,Srta. Lívia Moreira
+2023-01-06,Feijão,Alimentos,Loja C,São Paulo,39.27,20,0.14,Luna da Cruz
+2023-12-05,Leite,Laticínios,Loja C,São Paulo,28.44,20,0.14,Maria Eduarda Mendes
+2023-02-06,Refrigerante,Bebidas,Loja C,São Paulo,20.93,9,0.03,Alana Nunes
+2023-08-27,Papel Higiênico,Higiene,Loja B,Belo Horizonte,38.65,8,0.16,Dra. Manuela da Rocha
+2023-02-15,Macarrão,Alimentos,Loja C,Rio de Janeiro,43.86,16,0.25,Nicolas Alves
+2023-08-10,Papel Higiênico,Higiene,Loja A,São Paulo,43.66,9,0.25,Dr. João Guilherme Monteiro
+2023-05-22,Café,Bebidas,Loja C,Belo Horizonte,34.35,9,0.29,Ana Clara Rezende
+2023-02-12,Arroz,Alimentos,Loja A,Belo Horizonte,14.41,16,0.07,Thiago Pinto
+2023-08-11,Café,Bebidas,Loja A,Belo Horizonte,29.35,19,0.11,Srta. Rafaela Azevedo
+2023-09-23,Papel Higiênico,Higiene,Loja A,São Paulo,30.75,4,0.17,Davi Lucas da Rosa
+2023-03-02,Sabonete,Higiene,Loja C,Belo Horizonte,41.32,2,0.1,Danilo Melo
+2023-08-14,Leite,Laticínios,Loja A,Belo Horizonte,41.22,14,0.2,Dr. Lucas Sales
+2023-01-14,Sabonete,Higiene,Loja B,São Paulo,32.63,11,0.03,Eloah da Costa
+2023-07-31,Arroz,Alimentos,Loja D,Curitiba,19.85,12,0.11,Sra. Mirella Moraes
+2023-05-08,Café,Bebidas,Loja D,São Paulo,18.25,9,0.23,Daniel Pereira
+2023-03-24,Sabonete,Higiene,Loja C,Belo Horizonte,38.41,6,0.25,Clara Azevedo
+2023-02-15,Refrigerante,Bebidas,Loja C,Rio de Janeiro,17.88,10,0.03,Lívia da Paz
+2023-02-16,Papel Higiênico,Higiene,Loja C,Belo Horizonte,33.06,13,0.06,Clarice Cardoso
+2023-12-29,Leite,Laticínios,Loja C,Curitiba,40.88,12,0.23,Dr. Pedro Henrique da Mata
+2023-03-28,Refrigerante,Bebidas,Loja A,São Paulo,11.92,10,0.27,Enzo da Cruz
+2023-12-25,Queijo,Laticínios,Loja C,Rio de Janeiro,21.7,3,0.06,Otávio da Paz
+2023-02-16,Macarrão,Alimentos,Loja D,Curitiba,9.85,11,0.16,Emanuella Pinto
+2023-07-23,Detergente,Limpeza,Loja D,São Paulo,42.72,10,0.18,Bruna da Rocha
+2023-02-12,Refrigerante,Bebidas,Loja B,Belo Horizonte,41.83,8,0.16,Sr. Emanuel Monteiro
+2023-12-08,Café,Bebidas,Loja A,Belo Horizonte,13.55,8,0.07,Pedro Lucas Ramos
+2023-04-26,Leite,Laticínios,Loja B,Rio de Janeiro,3.58,8,0.29,Sophia Monteiro
+2023-11-10,Leite,Laticínios,Loja D,Belo Horizonte,29.15,19,0.06,Isaac Farias
+2023-04-06,Queijo,Laticínios,Loja D,Belo Horizonte,38.1,12,0.24,Kaique Gonçalves
+2023-05-15,Papel Higiênico,Higiene,Loja C,Curitiba,45.3,8,0.1,Dr. Felipe Teixeira
+2023-07-02,Feijão,Alimentos,Loja B,Curitiba,43.42,8,0.24,Sr. Pedro Miguel Nascimento
+2023-10-24,Detergente,Limpeza,Loja A,Belo Horizonte,28.16,4,0.24,Bruna Ferreira
+2023-11-06,Sabonete,Higiene,Loja C,Rio de Janeiro,24.87,19,0.25,Calebe da Cruz
+2023-08-24,Macarrão,Alimentos,Loja D,Belo Horizonte,30.78,3,0.29,Davi Luiz Azevedo
+2023-03-29,Arroz,Alimentos,Loja D,São Paulo,45.1,16,0.26,Emilly Caldeira
+2023-03-17,Feijão,Alimentos,Loja C,São Paulo,47.87,9,0.17,Luiz Fernando Cavalcanti
+2023-01-15,Macarrão,Alimentos,Loja D,Belo Horizonte,36.1,5,0.3,Pietra Porto
+2023-04-21,Leite,Laticínios,Loja C,Curitiba,18.54,19,0.24,Natália da Cruz
+2023-09-18,Papel Higiênico,Higiene,Loja B,Curitiba,43.55,20,0.02,João Pedro da Luz
+2023-07-03,Macarrão,Alimentos,Loja A,São Paulo,31.85,17,0.12,Gabrielly Monteiro
+2023-03-24,Sabonete,Higiene,Loja B,Rio de Janeiro,42.28,1,0.19,Sr. Pedro Henrique Viana
+2023-09-11,Feijão,Alimentos,Loja C,São Paulo,7.43,13,0.17,Alícia Correia
+2023-12-17,Papel Higiênico,Higiene,Loja D,Belo Horizonte,35.73,5,0.25,Stella Duarte
+2023-04-04,Feijão,Alimentos,Loja C,Curitiba,11.34,14,0.26,Alana Fogaça
+2023-09-13,Feijão,Alimentos,Loja B,Curitiba,21.87,8,0.11,Dra. Isabel Fogaça
+2023-11-28,Feijão,Alimentos,Loja C,Belo Horizonte,38.34,17,0.08,Sra. Mariane da Cunha
+2023-11-07,Arroz,Alimentos,Loja A,Curitiba,7.49,1,0.29,Joaquim Santos
+2023-09-28,Arroz,Alimentos,Loja A,Curitiba,21.08,1,0.24,Murilo da Costa
+2023-10-18,Macarrão,Alimentos,Loja C,São Paulo,47.92,7,0.19,Eduardo Aragão
+2023-09-13,Detergente,Limpeza,Loja B,Curitiba,7.56,5,0.18,Ana Carolina Nunes
+2023-10-21,Detergente,Limpeza,Loja D,Rio de Janeiro,26.84,15,0.01,Bianca Santos
+2023-01-20,Queijo,Laticínios,Loja A,Curitiba,46.95,4,0.1,Maria Alice da Paz
+2023-04-03,Macarrão,Alimentos,Loja B,São Paulo,26.39,20,0.05,Alexia Gomes
+2023-11-10,Refrigerante,Bebidas,Loja D,Belo Horizonte,39.85,4,0.2,Laís Novaes
+2023-02-03,Refrigerante,Bebidas,Loja B,Curitiba,9.64,16,0.06,Maria Julia Alves
+2023-07-26,Arroz,Alimentos,Loja C,São Paulo,46.08,16,0.24,Julia Cunha
+2023-12-04,Macarrão,Alimentos,Loja A,São Paulo,34.19,11,0.27,Srta. Maria Cecília Rocha
+2023-10-16,Macarrão,Alimentos,Loja D,Rio de Janeiro,16.28,5,0.13,João Pedro Azevedo
+2023-04-12,Café,Bebidas,Loja D,Belo Horizonte,23.45,3,0.15,Dr. Thiago Fogaça
+2023-09-09,Feijão,Alimentos,Loja C,Belo Horizonte,31.65,10,0.15,Sophia Souza
+2023-05-28,Arroz,Alimentos,Loja A,Rio de Janeiro,47.5,10,0.27,Eduardo Costela
+2023-10-20,Queijo,Laticínios,Loja B,Curitiba,37.75,18,0.01,Maitê Silva
+2023-06-05,Papel Higiênico,Higiene,Loja B,Curitiba,48.32,2,0.25,Vicente Ferreira
+2023-12-17,Papel Higiênico,Higiene,Loja B,Curitiba,35.01,2,0.27,Carolina Nascimento
+2023-02-20,Leite,Laticínios,Loja B,Rio de Janeiro,36.48,3,0.21,Raul Jesus
+2023-09-11,Sabonete,Higiene,Loja A,São Paulo,46.34,7,0.27,Julia Carvalho
+2023-03-01,Café,Bebidas,Loja A,Rio de Janeiro,34.0,11,0.3,Evelyn Gonçalves
+2023-07-19,Sabonete,Higiene,Loja C,Belo Horizonte,5.1,5,0.18,Isabella Araújo
+2023-11-15,Café,Bebidas,Loja D,Curitiba,12.63,9,0.12,Vitória Ribeiro
+2023-01-06,Papel Higiênico,Higiene,Loja D,Belo Horizonte,16.07,7,0.25,Ana Laura Gomes
+2023-09-07,Café,Bebidas,Loja A,Belo Horizonte,4.96,15,0.04,Srta. Ana Vitória Silva
+2023-12-20,Sabonete,Higiene,Loja A,São Paulo,8.42,16,0.02,Lucas Moraes
+2023-10-02,Refrigerante,Bebidas,Loja B,Curitiba,47.9,13,0.09,Pedro Lucas Cardoso
+2023-05-27,Café,Bebidas,Loja C,São Paulo,38.77,13,0.25,Pedro Henrique Gonçalves
+2023-04-14,Feijão,Alimentos,Loja D,Rio de Janeiro,8.97,2,0.14,Juan Souza
+2023-02-25,Feijão,Alimentos,Loja B,São Paulo,42.16,6,0.03,Pedro Lucas da Rosa
+2023-12-22,Feijão,Alimentos,Loja B,Belo Horizonte,31.92,15,0.22,Lucas Ramos
+2023-08-15,Macarrão,Alimentos,Loja A,Rio de Janeiro,39.12,11,0.01,Ana Luiza Ferreira
+2023-01-08,Detergente,Limpeza,Loja C,Curitiba,46.33,12,0.14,Yuri da Conceição
+2023-11-26,Arroz,Alimentos,Loja D,Belo Horizonte,10.2,10,0.15,Camila Barbosa
+2023-04-26,Detergente,Limpeza,Loja B,Curitiba,33.93,15,0.01,Clarice Silva
+2023-08-14,Feijão,Alimentos,Loja B,Curitiba,29.17,5,0.16,Dr. Renan Azevedo
+2023-06-12,Arroz,Alimentos,Loja A,São Paulo,22.27,18,0.01,Alexia Barbosa
+2023-03-28,Refrigerante,Bebidas,Loja C,São Paulo,9.74,4,0.21,Fernando Carvalho
+2023-01-04,Papel Higiênico,Higiene,Loja A,São Paulo,41.24,19,0.04,Dr. Rodrigo Cunha
+2023-04-25,Arroz,Alimentos,Loja A,São Paulo,33.5,16,0.28,Luiz Otávio Souza
+2023-11-27,Papel Higiênico,Higiene,Loja C,Belo Horizonte,24.13,8,0.2,Srta. Natália Almeida
+2023-11-10,Café,Bebidas,Loja C,Belo Horizonte,25.52,5,0.14,Sr. Marcelo da Conceição
+2023-07-04,Sabonete,Higiene,Loja B,Curitiba,32.94,6,0.29,Leandro Porto
+2023-07-18,Café,Bebidas,Loja B,Curitiba,37.78,14,0.24,Gabrielly da Paz
+2023-03-15,Arroz,Alimentos,Loja D,Belo Horizonte,36.4,18,0.26,João Pedro Gomes
+2023-07-25,Detergente,Limpeza,Loja C,Rio de Janeiro,47.27,14,0.27,Nathan Martins
+2023-08-24,Leite,Laticínios,Loja D,Belo Horizonte,24.79,11,0.1,Eduardo Monteiro
+2023-07-24,Detergente,Limpeza,Loja B,Rio de Janeiro,13.2,7,0.17,Sr. Rafael Peixoto
+2023-12-04,Macarrão,Alimentos,Loja C,Belo Horizonte,28.77,14,0.11,Brenda Barbosa
+2023-06-07,Sabonete,Higiene,Loja D,Rio de Janeiro,25.1,18,0.2,Maria Vitória da Rocha
+2023-06-03,Macarrão,Alimentos,Loja D,São Paulo,12.37,11,0.17,Srta. Ana Clara Santos
+2023-03-22,Papel Higiênico,Higiene,Loja D,Rio de Janeiro,47.33,1,0.21,Ian Porto
+2023-07-17,Macarrão,Alimentos,Loja B,Curitiba,49.23,19,0.23,Arthur da Mata
+2023-11-25,Papel Higiênico,Higiene,Loja B,Rio de Janeiro,22.33,15,0.07,Pedro Henrique da Costa
+2023-03-08,Leite,Laticínios,Loja C,São Paulo,34.78,3,0.03,Maria Fernanda Gonçalves
+2023-01-05,Arroz,Alimentos,Loja C,São Paulo,17.72,12,0.06,Kamilly Ferreira
+2023-03-19,Sabonete,Higiene,Loja C,São Paulo,20.06,11,0.18,Dr. Benjamin Peixoto
+2023-08-17,Leite,Laticínios,Loja C,Rio de Janeiro,16.62,4,0.24,Cecília Freitas
+2023-03-23,Detergente,Limpeza,Loja B,Belo Horizonte,8.57,20,0.12,Henrique Martins
+2023-10-15,Queijo,Laticínios,Loja D,Curitiba,35.43,8,0.29,Srta. Isabella da Mota
+2023-12-06,Detergente,Limpeza,Loja D,São Paulo,38.52,5,0.26,Maria Fernanda Teixeira
+2023-08-31,Papel Higiênico,Higiene,Loja D,Rio de Janeiro,39.06,19,0.21,João Lucas da Mata
+2023-07-05,Leite,Laticínios,Loja B,Belo Horizonte,45.02,16,0.28,Ana Carolina Nascimento
+2023-10-18,Refrigerante,Bebidas,Loja C,São Paulo,44.67,3,0.05,Luigi Martins
+2023-11-16,Café,Bebidas,Loja D,Rio de Janeiro,8.22,7,0.29,Emanuel Azevedo
+2023-06-14,Café,Bebidas,Loja A,Curitiba,31.33,16,0.0,Dra. Maria Fernanda da Mata
